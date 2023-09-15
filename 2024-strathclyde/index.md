@@ -71,6 +71,9 @@ SPLV 2024 is scheduled to run one full week: 9am on **Monday 29th July** to 2:30
   .lunch::before {
     content: "Lunch";
   }
+  .freetime {
+    background-color: #FFFFFF;
+  }
   .excursion {
     background-color: #009F81
   }
@@ -79,7 +82,7 @@ SPLV 2024 is scheduled to run one full week: 9am on **Monday 29th July** to 2:30
   }
  </style>
 
- <table cellpadding="8px" cellspacing="8px">
+ <table>
   <tr>
     <th></th>
     <th>Monday</th>
@@ -98,11 +101,11 @@ SPLV 2024 is scheduled to run one full week: 9am on **Monday 29th July** to 2:30
   </tr>
   <tr>
     <td>09:00</td>
-    <td rowspan=3 class="core1"> </td>
-    <td rowspan=2 class="core2"> </td>
-    <td rowspan=2 class="speciala"> </td>
-    <td rowspan=2> </td>
-    <td rowspan=2 class="specialb"> </td>
+    <td rowspan=3 class="core1"></td>
+    <td rowspan=2 class="core2"></td>
+    <td rowspan=2 class="speciala"></td>
+    <td rowspan=2 class="freetime"></td>
+    <td rowspan=2 class="specialb"></td>
   </tr>
   <tr>
     <td>09:30</td>
@@ -162,6 +165,7 @@ SPLV 2024 is scheduled to run one full week: 9am on **Monday 29th July** to 2:30
     <td>14:30</td>
     <td rowspan=2 class="specialb"></td>
     <td rowspan=2 class="specialc"></td>
+    <td rowspan=6 class="freetime"></td>
   </tr>
   <tr>
     <td>15:00</td>
@@ -185,6 +189,7 @@ SPLV 2024 is scheduled to run one full week: 9am on **Monday 29th July** to 2:30
     <td>17:00</td>
     <td class="lightning"></td>
     <td class="lightning"></td>
+    <td class="freetime"></td>
   </tr>
 </table>
 
