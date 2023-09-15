@@ -3,7 +3,7 @@ title: SPLV 2024
 ---
 # SPLV24: Scottish Programming Languages and Verification Summer School, 2024
 
-This year, the [Scottish Programming Languages and Verification Summer School](http://www.macs.hw.ac.uk/splv/) will be held in Strathclyde. The event is organized by the [Computer and Information Sciences](https://www.strath.ac.uk/science/computerinformationsciences/) department at the [University of Strathclyde](https://www.strath.ac.uk/).
+This year, the [Scottish Programming Languages and Verification Summer School](..) will be held in Strathclyde. The event is organized by the [Computer and Information Sciences](https://www.strath.ac.uk/science/computerinformationsciences/) department at the [University of Strathclyde](https://www.strath.ac.uk/).
 
 SPLV 2024 is scheduled to run one full week: 9am on **Monday 29th July** to 2:30pm on **Friday August 2nd**. Lectures will run face-to-face on-site. We will use the SPLS Zulip for online communications (e.g. for questions, arrival/dinner on Sunday, …).
 
