@@ -217,3 +217,4 @@ Please contact one of the local organisers if you have any questions:
 * Guillaume Allais <guillaume.allais@strath.ac.uk>
 * Fredrik Nordvall Forsberg <fredrik.nordvall-forsberg@strath.ac.uk>
 * Jan de Muijnck-Hughes <jan.de-muijnck-hughes@strath.ac.uk>
+* Sean Watters <sean.watters.2016@uni.strath.ac.uk>
