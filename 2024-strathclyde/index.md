@@ -195,7 +195,30 @@ SPLV 2024 is scheduled to run one full week: 9am on **Monday 29th July** to 2:30
 
 ## Lecturers:
 
-**TBC**
+### Core (2 * 4h)
+
+  + Category theory (TBC)
+  + Type theory (Conor McBride)
+
+### Invited (4h)
+
+  + TBC
+
+### Specialised courses (2 * 3 * 4h)
+
+Two tracks running in parallel. The interleaving is yet TBC.
+
+  + Track 1
+
+    * Type theory & implicit complexity ([Bob Atkey](https://bentnib.org/))
+    * Mechanization of binders ([Kathrin Stark](https://www.k-stark.de/))
+    * Category Theory for Semantics ([Vikraman Choudhury](https://vikraman.org/))
+
+  + Track 2
+
+    * Protocol verification (Andres Goens)
+    * Effects and Handlers ([Daniel Hillerström](https://www.dhil.net/))
+    * Applied category theory ([Jules Hedges](https://julesh.com/))
 
 ## Prerequisites:
 
