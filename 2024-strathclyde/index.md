@@ -1,6 +1,10 @@
 ---
 title: SPLV 2024
 ---
+
+<img src="assets/strath_fullcolour.jpg" style="float:right; max-width:15%" alt="University of Strathclyde logo" />
+
+
 # SPLV24: Scottish Programming Languages and Verification Summer School, 2024
 
 This year, the [Scottish Programming Languages and Verification Summer School](..) will be held in Strathclyde. The event is organized by the [Computer and Information Sciences](https://www.strath.ac.uk/science/computerinformationsciences/) department at the [University of Strathclyde](https://www.strath.ac.uk/).
