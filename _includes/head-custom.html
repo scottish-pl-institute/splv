@@ -1,0 +1,25 @@
+<!-- Taken from the following URLs to allow per page customisation.
+
+    https://jreel.github.io/per-page-custom-css-in-jekyll/
+    https://stackoverflow.com/a/61285915
+  -->
+
+{% if page.custom_css %}
+  {% for stylesheet in page.custom_css %}
+  <link rel="stylesheet" href="{{ stylesheet }}.css">
+  {% endfor %}
+{% endif %}
+
+
+<!-- Taken from existing SPLS meeting pages to provide abstract hiding.
+  -->
+  <script>
+    function showAbstract(name) {
+      document.getElementById(name + "/abstract").style.display = "block";
+      document.getElementById(name + "/button").style.display = "none";
+    }
+    function hideAbstract(name) {
+      document.getElementById(name + "/button").style.display = "block";
+      document.getElementById(name + "/abstract").style.display = "none";
+    }
+  </script>

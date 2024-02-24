@@ -1,5 +1,8 @@
 ---
+
 title: SPLV 2024
+custom_css: strath
+
 ---
 
 <img src="assets/strath_fullcolour.jpg" style="float:right; max-width:15%" alt="University of Strathclyde logo" />
@@ -17,79 +20,6 @@ We will use the SPLS Zulip for online communications (e.g. for questions,
 arrival/dinner on Sunday, …).
 
 ## Schedule:
-
- <style>
-  <!-- Using 12-color palette for deuteranopia color blindness -->
-  <!-- http://mkweb.bcgsc.ca/colorblind/palettes.mhtml -->
-  table {
-    width: 75%;
-  }
-  th {
-    width: 12.5%;
-  }
-  td {
-    margin: auto;
-    text-align: center;
-    font-weight: bold;
-  }
-  .core1 {
-    background-color: #9F0162;
-  }
-  .core1::before {
-    content: "Core 1";
-  }
-  .core2 {
-    background-color: #00FCCF;
-  }
-  .core2::before {
-    content: "Core 2";
-  }
-  .speciala {
-    background-color: #FF5AAF;
-  }
-  .speciala::before {
-    content: "Special A";
-  }
-  .specialb {
-    background-color: #FFC33B;
-  }
-  .specialb::before {
-    content: "Special B";
-  }
-  .specialc {
-    background-color: #008DF9;
-  }
-  .specialc::before {
-    content: "Special C";
-  }
-  .lightning {
-    background-color: #FF6E3A;
-  }
-  .lightning::before {
-    content: "Lightning";
-  }
-  .invited {
-    background-color: #E20134;
-  }
-  .invited::before {
-    content: "Invited";
-  }
-  .coffee::before {
-    content: "Coffee";
-  }
-  .lunch::before {
-    content: "Lunch";
-  }
-  .freetime {
-    background-color: #FFFFFF;
-  }
-  .excursion {
-    background-color: #009F81
-  }
-  .excursion::before {
-    content: "Excursion";
-  }
- </style>
 
  <table>
   <tr>
