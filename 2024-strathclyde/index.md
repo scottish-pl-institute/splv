@@ -226,7 +226,7 @@ Two tracks running in parallel. The interleaving is yet TBC.
   + Track 2
 
     * Protocol Verification ([Andrés Goens](https://goens.org/))
-    * Effects and Handlers ([Daniel Hillerström](https://www.dhil.net/))
+    * Effects and Handlers ([Sam Lindley](https://homepages.inf.ed.ac.uk/slindley/))
     * Applied Category Theory ([Jules Hedges](https://julesh.com/))
 
 ## Prerequisites:
