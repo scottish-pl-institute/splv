@@ -38,9 +38,9 @@ We are also pleased to have an invited track which consists of a guest lecture s
 ## Core Program (2 * 4hrs)
 
 **Category Theory**
-: tdb
+: [Chris Heunen](https://homepages.inf.ed.ac.uk/cheunen/) **TBC**
 **Type Theory**
-: Conor McBridge
+: Conor McBride
 
 ## Invited Speaker (4hrs)
 
