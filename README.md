@@ -20,7 +20,12 @@ This school aims to:
 
 # Current and Previous Summer Schools:
 
+## Current Edition
+
 * [2024 edition in Strathclyde](2024-strathclyde)
+
+## Past Editions
+
 * [2023 edition in St Andrews](2023-st-andrews)
 * [2022 edition in Heriot-Watt](https://www.macs.hw.ac.uk/splv/splv-2022/)
 * [2021 edition in (virtual) Glasgow](https://www.macs.hw.ac.uk/splv/splv-2021/)

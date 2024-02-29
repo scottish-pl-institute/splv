@@ -15,9 +15,62 @@ The event is organized by the [Computer and Information Sciences](https://www.st
 department at the [University of Strathclyde](https://www.strath.ac.uk/).
 
 SPLV 2024 is scheduled to run one full week: from 9am on **Monday 29th July**
-to 2:30pm on **Friday August 2nd**. Lectures will run face-to-face on-site.
-We will use the SPLS Zulip for online communications (e.g. for questions,
+to 2:30pm on **Friday August 2nd**.
+Lectures will run face-to-face on-site.
+We will use the [SPLS Zulip](https://spls.zulipchat.com/) for online communications (e.g. for questions,
 arrival/dinner on Sunday, …).
+
+For announcements and updates concerning SPLV 2024, please subscribe to our [SPLS Zulip stream](#narrow/stream/402733-splv-2024).
+
+## Lecturers:
+
+The SPLV lecture programme is divided into three tracks:
+
+**Core**
+: required lectures that cover foundational knowledge
+
+**Specialised**
+: a set of optional lectures covering more specialised topics
+
+**Invited Speaker**
+: a guest lecture series by an invited speaker
+
+For SPLV 2024 we present the following lecture programme.
+
+### Core (2 * 4h)
+
+  + Category Theory (TBC)
+  + Type Theory (Conor McBride)
+
+### Invited (4h)
+
+  + TBD ([Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/))
+
+### Specialised courses (2 * 3 * 4h)
+
+Two tracks running in parallel. The interleaving is yet TBC.
+
+  + Track 1
+
+    * Type Theory & Implicit Complexity ([Bob Atkey](https://bentnib.org/))
+    * Mechanization of Binders ([Kathrin Stark](https://www.k-stark.de/))
+    * Category Theory for Semantics ([Vikraman Choudhury](https://vikraman.org/))
+
+  + Track 2
+
+    * Protocol Verification ([Andrés Goens](https://goens.org/))
+    * Effects and Handlers ([Sam Lindley](https://homepages.inf.ed.ac.uk/slindley/))
+    * Applied Category Theory ([Jules Hedges](https://julesh.com/))
+
+## Prerequisites:
+
+The school is aimed at PhD students in programming languages, verification and related areas.
+Researchers and practitioners are very welcome, as are strong master students with the support of a supervisor.
+Participants will need to have a background in computer science, mathematics or a related discipline, and have basic familiarity with (functional) programming and logic.
+
+## Registration:
+
+**TBD**
 
 ## Schedule:
 
@@ -132,50 +185,18 @@ arrival/dinner on Sunday, …).
   </tr>
 </table>
 
-## Lecturers:
+## Sponsorship
 
-### Core (2 * 4h)
-
-  + Category Theory (TBC)
-  + Type Theory (Conor McBride)
-
-### Invited (4h)
-
-  + TBD ([Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/))
-
-### Specialised courses (2 * 3 * 4h)
-
-Two tracks running in parallel. The interleaving is yet TBC.
-
-  + Track 1
-
-    * Type Theory & Implicit Complexity ([Bob Atkey](https://bentnib.org/))
-    * Mechanization of Binders ([Kathrin Stark](https://www.k-stark.de/))
-    * Category Theory for Semantics ([Vikraman Choudhury](https://vikraman.org/))
-
-  + Track 2
-
-    * Protocol Verification ([Andrés Goens](https://goens.org/))
-    * Effects and Handlers ([Sam Lindley](https://homepages.inf.ed.ac.uk/slindley/))
-    * Applied Category Theory ([Jules Hedges](https://julesh.com/))
-
-## Prerequisites:
-
-The school is aimed at PhD students in programming languages,
-verification and related areas.
-Researchers and practitioners are very welcome, as are strong
-master students with the support of a supervisor.
-Participants will need to have a background in computer science,
-mathematics or a related discipline, and have basic familiarity
-with (functional) programming and logic.
-
-## Registration:
-
-**TBD**
+Industrial sponsorship is always welcome, and if your company would like to sponsor SPLV 2024 then please do get in contact with the organising team.
 
 ## Accommodation:
 
 **TBD**
+
+## Travel
+
+The University of Strathclyde is located a short (five minutes) walk from Glasgow Queen Street, heading east from the City Centre. Glasgow Central Station is 15 minutes away.
+The University provides [travel information](https://www.strath.ac.uk/maps/) including maps and directions.
 
 
 ## Further Information:
