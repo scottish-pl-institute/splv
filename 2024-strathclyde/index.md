@@ -39,12 +39,13 @@ We are also pleased to have an invited track which consists of a guest lecture s
 
 **Category Theory**
 : [Chris Heunen](https://homepages.inf.ed.ac.uk/cheunen/) **TBC**
+
 **Type Theory**
 : Conor McBride
 
 ## Invited Speaker (4hrs)
 
-**tdb**
+**TDB**
 : [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)
 
 ## Specialised Courses (2 * (3 * 4hrs))
@@ -53,8 +54,10 @@ We are also pleased to have an invited track which consists of a guest lecture s
 
 **Type Theory & Implicit Complexity**
 : [Bob Atkey](https://bentnib.org/)
+
 **Mechanization of Binders**
 : [Kathrin Stark](https://www.k-stark.de/)
+
 **Category Theory for Semantics**
 : [Vikraman Choudhury](https://vikraman.org/)
 
@@ -62,8 +65,10 @@ We are also pleased to have an invited track which consists of a guest lecture s
 
 **Protocol Verification**
 : [Andrés Goens](https://goens.org/)
+
 **Effects and Handlers**
 : [Sam Lindley](https://homepages.inf.ed.ac.uk/slindley/)
+
 **Applied Category Theory**
 : [Jules Hedges](https://julesh.com/)
 
