@@ -14,53 +14,58 @@ will be held in Strathclyde.
 The event is organized by the [Computer and Information Sciences](https://www.strath.ac.uk/science/computerinformationsciences/)
 department at the [University of Strathclyde](https://www.strath.ac.uk/).
 
-SPLV 2024 is scheduled to run one full week: from 9am on **Monday 29th July**
-to 2:30pm on **Friday August 2nd**.
+SPLV 2024 is scheduled to run one full week:
+
+> from 9am on **Monday 29th July** to 2:30pm on **Friday August 2nd**.
+
 Lectures will run face-to-face on-site.
 We will use the [SPLS Zulip](https://spls.zulipchat.com/) for online communications (e.g. for questions,
 arrival/dinner on Sunday, …).
 
 For announcements and updates concerning SPLV 2024, please subscribe to our [SPLS Zulip stream](#narrow/stream/402733-splv-2024).
 
-## Lecturers:
+## Lecture Programme:
 
-The SPLV lecture programme is divided into three tracks:
+The SPLV lecture programme is divided into two main tracks:
+**Core**---required lectures that cover foundational knowledge; and
+**Specialised**---a set of optional lectures covering more specialised topics.
 
-**Core**
-: required lectures that cover foundational knowledge
+The specialised course are offered as two tracks running in parallel.
+The interleaving is yet TBC.
 
-**Specialised**
-: a set of optional lectures covering more specialised topics
+We are also pleased to have an invited track which consists of a guest lecture series by an invited speaker.
 
-**Invited Speaker**
-: a guest lecture series by an invited speaker
+## Core Program (2 * 4hrs)
 
-For SPLV 2024 we present the following lecture programme.
+**Category Theory**
+: tdb
+**Type Theory**
+: Conor McBridge
 
-### Core (2 * 4h)
+## Invited Speaker (4hrs)
 
-  + Category Theory (TBC)
-  + Type Theory (Conor McBride)
+**tdb**
+: [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)
 
-### Invited (4h)
+## Specialised Courses (2 * (3 * 4hrs))
 
-  + TBD ([Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/))
+### Track 1
 
-### Specialised courses (2 * 3 * 4h)
+**Type Theory & Implicit Complexity**
+: [Bob Atkey](https://bentnib.org/)
+**Mechanization of Binders**
+: [Kathrin Stark](https://www.k-stark.de/)
+**Category Theory for Semantics**
+: [Vikraman Choudhury](https://vikraman.org/)
 
-Two tracks running in parallel. The interleaving is yet TBC.
+### Track 2
 
-  + Track 1
-
-    * Type Theory & Implicit Complexity ([Bob Atkey](https://bentnib.org/))
-    * Mechanization of Binders ([Kathrin Stark](https://www.k-stark.de/))
-    * Category Theory for Semantics ([Vikraman Choudhury](https://vikraman.org/))
-
-  + Track 2
-
-    * Protocol Verification ([Andrés Goens](https://goens.org/))
-    * Effects and Handlers ([Sam Lindley](https://homepages.inf.ed.ac.uk/slindley/))
-    * Applied Category Theory ([Jules Hedges](https://julesh.com/))
+**Protocol Verification**
+: [Andrés Goens](https://goens.org/)
+**Effects and Handlers**
+: [Sam Lindley](https://homepages.inf.ed.ac.uk/slindley/)
+**Applied Category Theory**
+: [Jules Hedges](https://julesh.com/)
 
 ## Prerequisites:
 
