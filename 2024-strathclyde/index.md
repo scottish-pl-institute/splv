@@ -22,7 +22,7 @@ Lectures will run face-to-face on-site.
 We will use the [SPLS Zulip](https://spls.zulipchat.com/) for online communications (e.g. for questions,
 arrival/dinner on Sunday, …).
 
-For announcements and updates concerning SPLV 2024, please subscribe to our [SPLS Zulip stream](#narrow/stream/402733-splv-2024).
+For announcements and updates concerning SPLV 2024, please subscribe to our [SPLS Zulip stream](https://spls.zulipchat.com/#narrow/stream/402733-splv-2024).
 
 ## Lecture Programme:
 
