@@ -9,7 +9,7 @@ usage:
 	@echo "  make nix-shell"
 	@echo ""
 	@echo "invokes a nix shell with the required dependencies"
-	@echo "to exit run `exit`"
+	@echo "to exit run exit"
 	@echo ""
 	@echo "  make healthcheck"
 	@echo ""
@@ -17,7 +17,7 @@ usage:
 	@echo ""
 	@echo "  make build"
 	@echo ""
-	@echo "invokes github-pages build (generating a `_site`)"
+	@echo "invokes github-pages build (generating a _site)"
 	@echo ""
 
 .PHONY: usage nix-shell healthcheck build
