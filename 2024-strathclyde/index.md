@@ -35,7 +35,7 @@ The interleaving is yet TBC.
 
 We are also pleased to have an invited track which consists of a guest lecture series by an invited speaker.
 
-## Core Program
+## Core Courses
 
 **Category Theory**
 : **Lecturer:** [Chris Heunen](https://homepages.inf.ed.ac.uk/cheunen/) *(TBC)*
@@ -45,7 +45,7 @@ We are also pleased to have an invited track which consists of a guest lecture s
 : **Lecturer:** [Conor McBride](https://personal.cis.strath.ac.uk/conor.mcbride/)
 : **Abstract:** *tbc*
 
-## Invited Speaker
+## Invited Course
 
 **TBC**
 : **Invited Lecturer:** [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)
