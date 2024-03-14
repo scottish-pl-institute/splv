@@ -75,7 +75,7 @@ We are also pleased to have an invited track which consists of a guest lecture s
 ## Prerequisites:
 
 The school is aimed at PhD students in programming languages, verification and related areas.
-Researchers and practitioners are very welcome, as are strong master students with the support of a supervisor.
+Researchers and practitioners are very welcome, as are strong undergraduate and masters students with the support of a supervisor.
 Participants will need to have a background in computer science, mathematics or a related discipline, and have basic familiarity with (functional) programming and logic.
 
 ## Registration:
