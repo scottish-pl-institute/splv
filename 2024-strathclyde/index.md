@@ -30,8 +30,8 @@ The SPLV lecture programme is divided into two main tracks:
 **Core**---required lectures that cover foundational knowledge; and
 **Specialised**---a set of optional lectures covering more specialised topics.
 
-The specialised course are offered as two tracks running in parallel.
-The interleaving is yet TBC.
+The specialised courses are offered as two tracks running in parallel.
+The interleaving is currently TBC.
 
 We are also pleased to have an invited track which consists of a guest lecture series by an invited speaker.
 
