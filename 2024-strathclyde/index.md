@@ -35,42 +35,51 @@ The interleaving is yet TBC.
 
 We are also pleased to have an invited track which consists of a guest lecture series by an invited speaker.
 
-## Core Program (2 * 4hrs)
+## Core Program
 
 **Category Theory**
-: [Chris Heunen](https://homepages.inf.ed.ac.uk/cheunen/) **TBC**
+: **Lecturer:** [Chris Heunen](https://homepages.inf.ed.ac.uk/cheunen/) *(TBC)*
+: **Abstract:** *tbc*
 
 **Type Theory**
-: [Conor McBride](https://personal.cis.strath.ac.uk/conor.mcbride/)
+: **Lecturer:** [Conor McBride](https://personal.cis.strath.ac.uk/conor.mcbride/)
+: **Abstract:** *tbc*
 
-## Invited Speaker (4hrs)
+## Invited Speaker
 
-**TDB**
-: [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)
+**TBC**
+: **Invited Lecturer:** [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)
+: **Abstract:** *tbc*
 
-## Specialised Courses (2 * (3 * 4hrs))
+## Specialised Courses
 
 ### Track 1
 
 **Type Theory & Implicit Complexity**
-: [Bob Atkey](https://bentnib.org/)
+: **Lecturer:** [Bob Atkey](https://bentnib.org/)
+: **Abstract:** *tbc*
 
 **Mechanization of Binders**
-: [Kathrin Stark](https://www.k-stark.de/)
+: **Lecturer:** [Kathrin Stark](https://www.k-stark.de/)
+: **Abstract:** *tbc*
 
 **Category Theory for Semantics**
-: [Vikraman Choudhury](https://vikraman.org/)
+: **Lecturer:** [Vikraman Choudhury](https://vikraman.org/)
+: **Abstract:** *tbc*
 
 ### Track 2
 
 **Protocol Verification**
-: [Andrés Goens](https://goens.org/)
+: **Lecturer:** [Andrés Goens](https://goens.org/)
+: **Abstract:** *tbc*
 
 **Effects and Handlers**
-: [Sam Lindley](https://homepages.inf.ed.ac.uk/slindley/)
+: **Lecturer:** [Sam Lindley](https://homepages.inf.ed.ac.uk/slindley/)
+: **Abstract:** *tbc*
 
 **Applied Category Theory**
-: [Jules Hedges](https://julesh.com/)
+: **Lecturer:** [Jules Hedges](https://julesh.com/)
+: **Abstract:** *tbc*
 
 ## Prerequisites:
 
