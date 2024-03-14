@@ -41,7 +41,7 @@ We are also pleased to have an invited track which consists of a guest lecture s
 : [Chris Heunen](https://homepages.inf.ed.ac.uk/cheunen/) **TBC**
 
 **Type Theory**
-: Conor McBride
+: [Conor McBride](https://personal.cis.strath.ac.uk/conor.mcbride/)
 
 ## Invited Speaker (4hrs)
 
