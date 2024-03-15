@@ -71,7 +71,15 @@ We are also pleased to have an invited track which consists of a guest lecture s
 
 **Protocol Verification**
 : **Lecturer:** [Andrés Goens](https://goens.org/)
-: **Abstract:** *tbc*
+: **Abstract:**
+    Protocols are central to the functioning of many crucial systems. From
+    the consistency of your device's memory, to exchanging information over
+    the internet, protocols ensure these extremely concurrent systems
+    function correctly. In this course we will consider some basic
+    principles required to verify such protocols. We will learn about
+    labeled transition systems and use temporal logic to specify properties
+    of them. In particular, we will focus on safetey and fairness conditions
+    in protocols.
 
 **Effects and Handlers**
 : **Lecturer:** [Sam Lindley](https://homepages.inf.ed.ac.uk/slindley/)
