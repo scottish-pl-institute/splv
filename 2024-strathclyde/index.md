@@ -71,7 +71,8 @@ We are also pleased to have an invited track which consists of a guest lecture s
 
 **Protocol Verification**
 : **Lecturer:** [Andrés Goens](https://goens.org/)
-: **Abstract:**
+: <details>
+    <summary>Abstract</summary>
     Protocols are central to the functioning of many crucial systems. From
     the consistency of your device's memory, to exchanging information over
     the internet, protocols ensure these extremely concurrent systems
@@ -80,6 +81,7 @@ We are also pleased to have an invited track which consists of a guest lecture s
     labeled transition systems and use temporal logic to specify properties
     of them. In particular, we will focus on safetey and fairness conditions
     in protocols.
+  </details>
 
 **Effects and Handlers**
 : **Lecturer:** [Sam Lindley](https://homepages.inf.ed.ac.uk/slindley/)
