@@ -84,6 +84,13 @@ summary {
     flex-direction: column;
   }
 }
+
 .flex-element {
   width: 50%;
+}
+
+@media (max-width: 800px) {
+  .flex-element {
+    width: 100%;
+  }
 }
