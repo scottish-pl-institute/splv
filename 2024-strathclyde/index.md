@@ -37,13 +37,21 @@ We are also pleased to have an invited track which consists of a guest lecture s
 
 ## Core Courses
 
-**Category Theory**
-: **Lecturer:** [Chris Heunen](https://homepages.inf.ed.ac.uk/cheunen/) *(TBC)*
-: **Abstract:** *tbc*
+<div class="flex-container" markdown="1">
 
-**Type Theory**
-: **Lecturer:** [Conor McBride](https://personal.cis.strath.ac.uk/conor.mcbride/)
-: **Abstract:** *tbc*
+  **Category Theory**
+  : **Lecturer:** [Chris Heunen](https://homepages.inf.ed.ac.uk/cheunen/) *(TBC)*
+  : **Abstract:** *tbc*
+  {: .flex-element }
+
+  **Type Theory**
+  : **Lecturer:** [Conor McBride](https://personal.cis.strath.ac.uk/conor.mcbride/)
+  : **Abstract:** *tbc*
+  {: .flex-element }
+
+</div>
+
+
 
 ## Invited Course
 
@@ -53,7 +61,11 @@ We are also pleased to have an invited track which consists of a guest lecture s
 
 ## Specialised Courses
 
+<div class="flex-container" markdown="1">
+
+<div class="flex-element" markdown="1">
 ### Track 1
+{: .flex-element }
 
 **Type Theory & Implicit Complexity**
 : **Lecturer:** [Bob Atkey](https://bentnib.org/)
@@ -66,7 +78,9 @@ We are also pleased to have an invited track which consists of a guest lecture s
 **Category Theory for Semantics**
 : **Lecturer:** [Vikraman Choudhury](https://vikraman.org/)
 : **Abstract:** *tbc*
+</div>
 
+<div class="flex-element" markdown="1">
 ### Track 2
 
 **Protocol Verification**
@@ -90,6 +104,9 @@ We are also pleased to have an invited track which consists of a guest lecture s
 **Applied Category Theory**
 : **Lecturer:** [Jules Hedges](https://julesh.com/)
 : **Abstract:** *tbc*
+
+</div>
+</div>
 
 ## Prerequisites:
 
