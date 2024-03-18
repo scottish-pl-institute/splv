@@ -1,15 +1,63 @@
 /* Using 12-color palette for deuteranopia color blindness */
 /* http://mkweb.bcgsc.ca/colorblind/palettes.mhtml */
-table {
+
+.logos {
+    text-align:center;
+}
+.logos img {
+    width:220px;
+    padding:25px;
+}
+
+.schedule table {
   width: 75%;
 }
-th {
+
+.schedule th {
   width: 12.5%;
 }
-td {
+
+.schedule td {
   margin: auto;
   text-align: center;
   font-weight: bold;
+}
+
+.sponsorship table {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.detail {
+    text-align: center;
+}
+
+.package {
+    margin: 1em;
+    padding-left: 2em;
+    text-align: left;
+}
+
+
+.platinum {
+    background-color: #E5E4E2;
+    font-weight: bold;
+}
+
+.gold {
+  background-color: #FFD700;
+    font-weight: bold;
+}
+
+.silver {
+  background-color: #C0C0C0;
+    font-weight: bold;
+}
+
+.bronze {
+    background-color: #8C7853;
+    font-weight: bold;
 }
 
 summary {

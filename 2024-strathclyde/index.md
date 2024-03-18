@@ -9,6 +9,7 @@ custom_css: strath
 
 # SPLV24: Scottish Programming Languages and Verification Summer School, 2024
 
+
 This year, the [Scottish Programming Languages and Verification Summer School](..)
 will be held in Strathclyde.
 The event is organized by the [Computer and Information Sciences](https://www.strath.ac.uk/science/computerinformationsciences/)
@@ -120,6 +121,7 @@ Participants will need to have a background in computer science, mathematics or 
 
 ## Schedule:
 
+<div class="schedule">
  <table>
   <tr>
     <th></th>
@@ -230,6 +232,7 @@ Participants will need to have a background in computer science, mathematics or 
     <td class="freetime"></td>
   </tr>
 </table>
+</div>
 
 ## Sponsorship
 
@@ -247,7 +250,11 @@ The University provides [travel information](https://www.strath.ac.uk/maps/) inc
 
 ## Further Information:
 
-Please contact one of the local organisers if you have any questions:
+If you have any further questions please get in contact with the local organising team at:
+
++ <CIS_splv2024@groups.strath.ac.uk>
+
+The principal organisers of SPLV24 are:
 
 * Guillaume Allais <guillaume.allais@strath.ac.uk>
 * Fredrik Nordvall Forsberg <fredrik.nordvall-forsberg@strath.ac.uk>
