@@ -74,7 +74,17 @@ We are also pleased to have an invited track which consists of a guest lecture s
 
 **Mechanization of Binders**
 : **Lecturer:** [Kathrin Stark](https://www.k-stark.de/)
-: **Abstract:** *tbc*
+: <details>
+    <summary>Abstract</summary>
+    Binders are ubiquitous when mechanising results about programming languages.
+    More than 15 years after the POPLMark Challenge, new tools and approaches
+    to binding are still being published, and binders are still frequently
+    mentioned as being the main difference between mechanisation and paper proof.
+    So which one to choose: named, de Bruijn, locally nameless, nominal syntax
+    or HOAS? While not answering this question, this course takes a (necessarily
+    incomplete) peek into several approaches to binders in a programming language,
+    with a focus on their mechanisation.
+  </details>
 
 **Category Theory for Semantics**
 : **Lecturer:** [Vikraman Choudhury](https://vikraman.org/)
