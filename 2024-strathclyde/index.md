@@ -9,7 +9,7 @@ custom_css: strath
 
 # SPLV24: Scottish Programming Languages and Verification Summer School, 2024
 
-## Glasgow, UK --- July 29<sup>th</sup> to August 2<sup>nd</sup>
+## Glasgow, UK — July 29<sup>th</sup> to August 2<sup>nd</sup>
 
 
 This year, the [Scottish Programming Languages and Verification Summer School](..)
