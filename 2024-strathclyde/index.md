@@ -47,7 +47,25 @@ We are also pleased to have an invited track which consists of a guest lecture s
 
   **Type Theory**
   : **Lecturer:** [Conor McBride](https://personal.cis.strath.ac.uk/conor.mcbride/)
-  : **Abstract:** *tbc*
+  : <details>
+    <summary>Abstract</summary>
+      What makes type theories tick? I intend these lectures to communicate an approach to the
+      metatheory of type theories which keeps a tight grip on the direction of information flow
+      and of trust. A typing rule is a server for its conclusion and a client for its premises.
+      The places in judgement forms are classified not only grammatically but as signals.
+      Every signal has both a sender (who transmits the syntax of the signal) and a guarantor
+      (who promises that the signal is in some way meaningful). We gain insight by distinguishing
+      inputs (client-sent) from outputs (server-sent), citizens (guaranteed by their senders)
+      from subjects (to be guaranteed by their receivers), and expressions (synthesizing signals
+      to send) from patterns (analysing signals upon receipt). In my first lecture, I shall
+      introduce the approach via a straightforward example: a reformulation of Martin-Löf's
+      1971 type theory, separating type checking for introduction forms from type synthesis
+      for elimination forms. In my second lecture, I shall explore the metametatheory of the
+      approach, showing generic benefits of its adoption, with some standard metatheoretic
+      properties shifting becoming less things to prove and more things to not mess up.
+      If I'm not massively overrunning by Tuesday morning, I'll have a quick look at how I
+      go about formalising this approach in Agda. You won't find any of this in a book.
+    </details>
   {: .flex-element }
 
 </div>
