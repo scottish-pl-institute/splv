@@ -9,34 +9,19 @@ custom_css: strath
 
 # SPLV24: Scottish Programming Languages and Verification Summer School, 2024
 
+## Glasgow, UK --- July 29<sup>th</sup> to August 2<sup>nd</sup>
+
 
 This year, the [Scottish Programming Languages and Verification Summer School](..)
 will be held in Strathclyde.
 The event is organized by the [Computer and Information Sciences](https://www.strath.ac.uk/science/computerinformationsciences/)
 department at the [University of Strathclyde](https://www.strath.ac.uk/).
 
-SPLV 2024 is scheduled to run one full week:
-
-> from 9am on **Monday 29th July** to 2:30pm on **Friday August 2nd**.
-
-Lectures will run face-to-face on-site.
-We will use the [SPLS Zulip](https://spls.zulipchat.com/) for online communications (e.g. for questions,
-arrival/dinner on Sunday, …).
-
 For announcements and updates concerning SPLV 2024, please subscribe to our [SPLS Zulip stream](https://spls.zulipchat.com/#narrow/stream/402733-splv-2024).
 
-## Lecture Programme:
-
-The SPLV lecture programme is divided into two main tracks:
-**Core**---required lectures that cover foundational knowledge; and
-**Specialised**---a set of optional lectures covering more specialised topics.
-
-The specialised courses are offered as two tracks running in parallel.
-The interleaving is currently TBC.
-
-We are also pleased to have an invited track which consists of a guest lecture series by an invited speaker.
-
 ## Core Courses
+
+These required lectures cover foundational knowledge.
 
 <div class="flex-container" markdown="1">
 
@@ -55,6 +40,9 @@ We are also pleased to have an invited track which consists of a guest lecture s
 
 
 ## Invited Course
+
+Our guest lecture series opens a window to a related field.
+
 
 **A few ideas from distributed systems for PL folk**
 : **Invited Lecturer:** [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)
@@ -89,6 +77,10 @@ We are also pleased to have an invited track which consists of a guest lecture s
 
 
 ## Specialised Courses
+
+The specialised courses are offered as two tracks running in parallel.
+The interleaving is currently TBC.
+
 
 <div class="flex-container" markdown="1">
 
@@ -167,6 +159,15 @@ We are also pleased to have an invited track which consists of a guest lecture s
 
 </div>
 </div>
+
+## Details
+
+SPLV 2024 is scheduled to run one full week:
+
+> from 9am on **Monday 29th July** to 2:30pm on **Friday August 2nd**.
+
+Lectures will run face-to-face on-site.
+We will use the [SPLS Zulip](https://spls.zulipchat.com/) for online communications (e.g. for questions, arrival/dinner on Sunday, …).
 
 ## Prerequisites:
 
