@@ -154,7 +154,16 @@ We are also pleased to have an invited track which consists of a guest lecture s
 
 **Applied Category Theory**
 : **Lecturer:** [Jules Hedges](https://julesh.com/)
-: **Abstract:** *tbc*
+: <details>
+    <summary>Abstract</summary>
+    This course will be about symmetric monoidal categories and what they have to tell us about computation and systems. I plan the topics of my 4 lectures to be:
+    <ol>
+      <li> string diagrams as 2-dimensional syntax, how they unify computation graphs and flowcharts</li>
+      <li> traced, compact closed and hypergraph categories, non-well-founded recursion, backtracking and quantum processes</li>
+      <li> decorated and structured cospans, the standard sledgehammer for building domain-specific categories of open systems</li>
+      <li> bidirectional processes: lenses, optics, containers, differentiable programming, categorical cybernetics</li>
+    </ol>
+  </details>
 
 </div>
 </div>
