@@ -56,9 +56,37 @@ We are also pleased to have an invited track which consists of a guest lecture s
 
 ## Invited Course
 
-**TBC**
+**A few ideas from distributed systems for PL folk**
 : **Invited Lecturer:** [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)
-: **Abstract:** *tbc*
+: <details>
+    <summary>Abstract</summary>
+    Fifteen years ago, when I was a new PhD student and suffering from an
+    advanced case of PL myopia, I foolishly ignored every other area of
+    computer science. It was only years later that I realized that distributed
+    systems had a lot to teach me.  In these lectures, I'll fill you in on what
+    I've learned so far, so you won't be as foolish as I was. We'll start with
+    the very basics (what is a distributed system?) and work our way up to an
+    implementation of causal broadcast, then finish the week with a brief
+    excursion into choreographic programming.  No background in distributed
+    systems is necessary, only an open mind.
+  </details>
+: <details>
+    <summary>Bio</summary>
+    Lindsey Kuper is an Assistant Professor at the University of California,
+    Santa Cruz.  She works on programming-language-based approaches to building
+    concurrent and distributed software systems that are elegant, correct, and
+    efficient. Some of her research contributions include library-level
+    choreographic programming, verification of distributed protocols using
+    refinement types, and guaranteed-deterministic parallel programming with
+    LVars. She co-founded !!Con
+    (<a href="https://bangbangcon.com">bangbangcon.com</a>), the radically
+    inclusive conference of ten-minute talks on the joy, excitement, and
+    surprise of computing.  She is the recipient of an ICFP Distinguished
+    Paper Award (2023), an NSF CAREER Award (2022), and a Google Faculty
+    Research Award (2019), and received her Ph.D. in computer science in 2015
+    from Indiana University.
+  </details>
+
 
 ## Specialised Courses
 
