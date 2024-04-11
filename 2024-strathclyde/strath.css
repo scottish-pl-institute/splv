@@ -125,6 +125,7 @@ summary {
 .flex-container {
   display: flex;
   flex-direction: row;
+  column-gap: 5%;
 }
 
 @media (max-width: 800px) {
@@ -134,7 +135,8 @@ summary {
 }
 
 .flex-element {
-  width: 50%;
+  width: 47.5%;
+  text-align: justify;
 }
 
 @media (max-width: 800px) {
