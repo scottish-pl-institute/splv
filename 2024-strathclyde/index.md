@@ -98,7 +98,19 @@ We are also pleased to have an invited track which consists of a guest lecture s
 
 **Type Theory & Implicit Complexity**
 : **Lecturer:** [Bob Atkey](https://bentnib.org/)
-: **Abstract:** *tbc*
+: <details>
+    <summary>Abstract</summary>
+    Implicit Computational Complexity is concerned with the
+    characterisation of computational complexity classes as programming
+    languages. A programming language characterises a complexity class if
+    every function in that class can be implemented in the language and
+    every function implementable in the language is in the class.
+
+    In this course I will show how to use Linear Type Theory to
+    characterise the class of Polynomial Time computable functions, and
+    how by using Linear Dependent Types, we can use this describe other
+    classes such as NP, coNP and beyond.
+  </details>
 
 **Mechanization of Binders**
 : **Lecturer:** [Kathrin Stark](https://www.k-stark.de/)
