@@ -138,7 +138,17 @@ The interleaving is currently TBC.
 
 **Category Theory for Semantics**
 : **Lecturer:** [Vikraman Choudhury](https://vikraman.org/)
-: **Abstract:** *tbc*
+: <details>
+    <summary>Abstract</summary>
+      A programming language is a very exotic object: it provides a vocabulary
+      to give instructions to a computer, and at the same time, denotes a mathematical
+      object that follows axioms. The purpose of semantics is to reconcile the two
+      notions, giving insights into computation, language design, and programming.
+      In this course, I will introduce some tools and techniques from category
+      theory that are useful to semanticists, and show applications of these to
+      prove fundamental results about type theories and programming languages.
+  </details>
+
 </div>
 
 <div class="flex-element" markdown="1">
