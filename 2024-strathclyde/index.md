@@ -318,14 +318,28 @@ Participants will need to have a background in computer science, mathematics or 
 and if your company would like to sponsor SPLV 2024 then please do
 [get in contact with the organising team](mailto:CIS_splv2024@groups.strath.ac.uk).
 
-## Accommodation:
-
-**TBD**
-
-## Travel
+## Travel and Accommodation
 
 The University of Strathclyde is located a short (five minutes) walk from Glasgow Queen Street, heading east from the City Centre. Glasgow Central Station is 15 minutes away.
 The University provides [travel information](https://www.strath.ac.uk/maps/) including maps and directions.
+The summer school will be taking place in the [McCance Building](https://maps.app.goo.gl/dRV3M6xkEbPh69id7).
+
+There are many hotels in and around the city centre, as well as some hostels. 
+Private student accommodation is also likely to be available.
+
+The very nearest hotels to the university are:
+* Premier Inn George Square (100m)
+* Moxy Merchant City (250m)
+* Z Hotel Glasgow (300m)
+* AC Hotel by Mariott Glasgow (300m)
+
+The Premier Inns at St Enoch Square and particularly Glasgow City Centre South (just south of the River Clyde), are a bit further away (~25 min walk for the latter), but are normally cheaper than their George Square counterpart.
+
+For those willing to share a dorm, the Revolver Hotel (private rooms also available) may be worth a look.
+
+Unfortunately, Strathclyde's halls of residence are not available this summer due to renovation work.
+However for those who would prefer a cheap self-catering option, we understand that our city-centre neighbour, Glasgow Caledonian University, currently has availability.
+You would have to email their [accommodation office](mailto:accommodation@gcu.ac.uk) for more information.
 
 
 ## Further Information:
