@@ -170,7 +170,15 @@ The interleaving is currently TBC.
 
 **Effects and Handlers**
 : **Lecturer:** [Sam Lindley](https://homepages.inf.ed.ac.uk/slindley/)
-: **Abstract:** *tbc*
+: <details>
+    <summary>Abstract</summary>
+      Effect handlers allow programmers to define, customise, and compose a
+      range of crucial programming features ranging from exceptions to
+      lightweight threads to probability, inside the programming language.
+      In this course I will give a high-level introduction to the theory of
+      algebraic effects and effect handlers, effect type systems for effect
+      handlers, and effect handler oriented programming.
+  </details>
 
 **Applied Category Theory**
 : **Lecturer:** [Jules Hedges](https://julesh.com/)
@@ -334,7 +342,7 @@ The University of Strathclyde is located a short (five minutes) walk from Glasgo
 The University provides [travel information](https://www.strath.ac.uk/maps/) including maps and directions.
 The summer school will be taking place in the [McCance Building](https://maps.app.goo.gl/dRV3M6xkEbPh69id7).
 
-There are many hotels in and around the city centre, as well as some hostels. 
+There are many hotels in and around the city centre, as well as some hostels.
 Private student accommodation is also likely to be available.
 
 The very nearest hotels to the university are:
