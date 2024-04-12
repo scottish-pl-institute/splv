@@ -314,7 +314,9 @@ Participants will need to have a background in computer science, mathematics or 
 
 ## Sponsorship
 
-Industrial sponsorship is always welcome, and if your company would like to sponsor SPLV 2024 then please do get in contact with the organising team.
+[Industrial sponsorship](call-for/sponsorship/) is always welcome,
+and if your company would like to sponsor SPLV 2024 then please do
+[get in contact with the organising team](mailto:CIS_splv2024@groups.strath.ac.uk).
 
 ## Accommodation:
 
