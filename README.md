@@ -1,3 +1,5 @@
+<img src="assets/splv.png" style="float:right; max-width:15%" alt="SPLV logo" />
+
 # Scottish Programming Languages and Verification Summer School
 
 The Scottish Programming Languages and Verification Summer School
