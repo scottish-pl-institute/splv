@@ -25,12 +25,12 @@ These required lectures cover foundational knowledge.
 
 <div class="flex-container" markdown="1">
 
-  **Category Theory**
+  **Category Theory**<img class="avatar" src="assets/placeholder.png" />
   : **Lecturer:** [Chris Heunen](https://homepages.inf.ed.ac.uk/cheunen/) *(TBC)*
   : **Abstract:** *tbc*
   {: .flex-element }
 
-  **Type Theory**
+  **Type Theory**<img class="avatar" src="assets/conor_mcbride.jpg" />
   : **Lecturer:** [Conor McBride](https://personal.cis.strath.ac.uk/conor.mcbride/)
   : <details>
     <summary>Abstract</summary>
@@ -62,7 +62,7 @@ These required lectures cover foundational knowledge.
 Our guest lecture series opens a window to a related field.
 
 
-**A few ideas from distributed systems for PL folk**
+**A few ideas from distributed systems for PL folk**<img class="avatar" src="assets/lindsey_kuper.jpg" />
 : **Invited Lecturer:** [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)
 : <details>
     <summary>Abstract</summary>
@@ -106,7 +106,7 @@ The interleaving is currently TBC.
 ### Track 1
 {: .flex-element }
 
-**Type Theory & Implicit Complexity**
+**Type Theory & Implicit Complexity**<img class="avatar" src="assets/bob_atkey.jpeg" />
 : **Lecturer:** [Bob Atkey](https://bentnib.org/)
 : <details>
     <summary>Abstract</summary>
@@ -136,7 +136,7 @@ The interleaving is currently TBC.
     with a focus on their mechanisation.
   </details>
 
-**Category Theory for Semantics**
+**Category Theory for Semantics**<img class="avatar" src="assets/vikraman_choudhury.jpg" />
 : **Lecturer:** [Vikraman Choudhury](https://vikraman.org/)
 : <details>
     <summary>Abstract</summary>
@@ -154,7 +154,7 @@ The interleaving is currently TBC.
 <div class="flex-element" markdown="1">
 ### Track 2
 
-**Protocol Verification**
+**Protocol Verification**<img class="avatar" src="assets/andres_goens.png" />
 : **Lecturer:** [Andrés Goens](https://goens.org/)
 : <details>
     <summary>Abstract</summary>
@@ -168,7 +168,7 @@ The interleaving is currently TBC.
     in protocols.
   </details>
 
-**Effects and Handlers**
+**Effects and Handlers**<img class="avatar" src="assets/sam_lindley.jpg" />
 : **Lecturer:** [Sam Lindley](https://homepages.inf.ed.ac.uk/slindley/)
 : <details>
     <summary>Abstract</summary>
@@ -180,7 +180,7 @@ The interleaving is currently TBC.
       handlers, and effect handler oriented programming.
   </details>
 
-**Applied Category Theory**
+**Applied Category Theory**<img class="avatar" src="assets/jules_hedges.jpg" />
 : **Lecturer:** [Jules Hedges](https://julesh.com/)
 : <details>
     <summary>Abstract</summary>

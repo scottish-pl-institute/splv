@@ -9,6 +9,14 @@
     padding:25px;
 }
 
+.avatar {
+  float:right;
+  vertical-align: middle;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+
 .schedule table {
   width: 75%;
 }
