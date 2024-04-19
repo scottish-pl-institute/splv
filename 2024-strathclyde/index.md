@@ -26,7 +26,7 @@ These required lectures cover foundational knowledge.
 <div class="flex-container" markdown="1">
 
   **Category Theory**<img class="avatar" src="assets/placeholder.png" />
-  : **Lecturer:** [Chris Heunen](https://homepages.inf.ed.ac.uk/cheunen/) *(TBC)*
+  : **Lecturer:** [Chris Heunen](https://homepages.inf.ed.ac.uk/cheunen/)
   : **Abstract:** *tbc*
   {: .flex-element }
 
