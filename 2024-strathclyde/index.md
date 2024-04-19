@@ -32,7 +32,7 @@ These required lectures cover foundational knowledge.
 
   **Type Theory**<img class="avatar" src="assets/conor_mcbride.jpg" />
   : **Lecturer:** [Conor McBride](https://personal.cis.strath.ac.uk/conor.mcbride/)
-  : <details>
+  : <details open>
     <summary>Abstract</summary>
       What makes type theories tick? I intend these lectures to communicate an approach to the
       metatheory of type theories which keeps a tight grip on the direction of information flow
@@ -64,7 +64,7 @@ Our guest lecture series opens a window to a related field.
 
 **A few ideas from distributed systems for PL folk**<img class="avatar" src="assets/lindsey_kuper.jpg" />
 : **Invited Lecturer:** [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)
-: <details>
+: <details open>
     <summary>Abstract</summary>
     Fifteen years ago, when I was a new PhD student and suffering from an
     advanced case of PL myopia, I foolishly ignored every other area of
@@ -108,7 +108,7 @@ The interleaving is currently TBC.
 
 **Type Theory & Implicit Complexity**<img class="avatar" src="assets/bob_atkey.jpeg" />
 : **Lecturer:** [Bob Atkey](https://bentnib.org/)
-: <details>
+: <details open>
     <summary>Abstract</summary>
     Implicit Computational Complexity is concerned with the
     characterisation of computational complexity classes as programming
@@ -124,7 +124,7 @@ The interleaving is currently TBC.
 
 **Mechanization of Binders**<img class="avatar" src="assets/placeholder.png" />
 : **Lecturer:** [Kathrin Stark](https://www.k-stark.de/)
-: <details>
+: <details open>
     <summary>Abstract</summary>
     Binders are ubiquitous when mechanising results about programming languages.
     More than 15 years after the POPLMark Challenge, new tools and approaches
@@ -138,7 +138,7 @@ The interleaving is currently TBC.
 
 **Category Theory for Semantics**<img class="avatar" src="assets/vikraman_choudhury.jpg" />
 : **Lecturer:** [Vikraman Choudhury](https://vikraman.org/)
-: <details>
+: <details open>
     <summary>Abstract</summary>
       A programming language is a very exotic object: it provides a vocabulary
       to give instructions to a computer, and at the same time, denotes a mathematical
@@ -156,7 +156,7 @@ The interleaving is currently TBC.
 
 **Protocol Verification**<img class="avatar" src="assets/andres_goens.png" />
 : **Lecturer:** [Andrés Goens](https://goens.org/)
-: <details>
+: <details open>
     <summary>Abstract</summary>
     Protocols are central to the functioning of many crucial systems. From
     the consistency of your device's memory, to exchanging information over
@@ -170,7 +170,7 @@ The interleaving is currently TBC.
 
 **Effects and Handlers**<img class="avatar" src="assets/sam_lindley.jpg" />
 : **Lecturer:** [Sam Lindley](https://homepages.inf.ed.ac.uk/slindley/)
-: <details>
+: <details open>
     <summary>Abstract</summary>
       Effect handlers allow programmers to define, customise, and compose a
       range of crucial programming features ranging from exceptions to
@@ -182,7 +182,7 @@ The interleaving is currently TBC.
 
 **Applied Category Theory**<img class="avatar" src="assets/jules_hedges.jpg" />
 : **Lecturer:** [Jules Hedges](https://julesh.com/)
-: <details>
+: <details open>
     <summary>Abstract</summary>
     This course will be about symmetric monoidal categories and what they have to tell us about computation and systems. I plan the topics of my 4 lectures to be:
     <ol>
