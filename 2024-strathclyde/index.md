@@ -25,9 +25,19 @@ These required lectures cover foundational knowledge.
 
 <div class="flex-container" markdown="1">
 
-  **Category Theory**<img class="avatar" src="assets/placeholder.png" />
+  **Category Theory**<img class="avatar" src="assets/chris_heunen.jpg" />
   : **Lecturer:** [Chris Heunen](https://homepages.inf.ed.ac.uk/cheunen/)
-  : **Abstract:** *tbc*
+  : <details open>
+    <summary>Abstract</summary>
+      Category theory is a powerful way to describe objects only in terms of how they interact &mdash;
+      without looking inside an object to see how it is made. In other words, it focuses on behaviour
+      rather than implementation details. This tool is therefore very useful to think about programming
+      languages and semantics, and relates to type theory. These lectures will start from the beginning,
+      introducing categories and examples. We'll discuss universal properties, which characterise for
+      example products and function types. Next we focus on monads, which are a popular way to capture
+      computational effects, and adjunctions, which provide translations between different categories.
+      Finally, we briefly touch on monoidal categories, string diagrams, and strong monads.
+    </details>
   {: .flex-element }
 
   **Type Theory**<img class="avatar" src="assets/conor_mcbride.jpg" />
