@@ -353,7 +353,6 @@ The University provides [travel information](https://www.strath.ac.uk/maps/) inc
 The summer school will be taking place in the [McCance Building](https://maps.app.goo.gl/dRV3M6xkEbPh69id7).
 
 There are many hotels in and around the city centre, as well as some hostels.
-Private student accommodation is also likely to be available.
 
 The very nearest hotels to the university are:
 * Premier Inn George Square (100m)
@@ -366,7 +365,7 @@ The Premier Inns at St Enoch Square and particularly Glasgow City Centre South (
 For those willing to share a dorm, the Revolver Hotel (private rooms also available) may be worth a look.
 
 Unfortunately, Strathclyde's halls of residence are not available this summer due to renovation work.
-However for those who would prefer a cheap self-catering option, we understand that our city-centre neighbour, Glasgow Caledonian University, currently has availability.
+However for those who would prefer a cheap self-catering option, we understand that our city-centre neighbour, Glasgow Caledonian University, currently has availability (~15 minute walk).
 You would have to email their [accommodation office](mailto:accommodation@gcu.ac.uk) for more information.
 
 
