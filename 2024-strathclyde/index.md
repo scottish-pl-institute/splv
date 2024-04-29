@@ -132,7 +132,7 @@ The interleaving is currently TBC.
     classes such as NP, coNP and beyond.
   </details>
 
-**Mechanization of Binders**<img class="avatar" src="assets/placeholder.png" />
+**Mechanization of Binders**<img class="avatar" src="assets/kathrin_stark.jpg" />
 : **Lecturer:** [Kathrin Stark](https://www.k-stark.de/)
 : <details open>
     <summary>Abstract</summary>
