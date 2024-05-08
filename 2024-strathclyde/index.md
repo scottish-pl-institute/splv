@@ -223,7 +223,25 @@ Participants will need to have a background in computer science, mathematics or 
 
 ## Registration:
 
-**TBD**
+We are looking to open registration **as soon as we can**, hopefully before the **End of May**.
+Registration fees will be:
+
+**Free**
+:   for students at a SICSA-affiliated university (limited places)
+**250.00 GBP**
+:   for students (and academics) at non SICSA-affiliated universities
+**750.00 GBP**
+:   for all other participants (i.e. industry practitioners and independent researchers)
+
+For students and academics, we kindly request that you register with an institutional account.
+
+If you are unsure which fee is applicable to you, please do get in contact.
+
+Fees **will** cover: all lecture courses, tea and coffee breaks, and lunch.
+
+Fees **will not** cover: travel and accommodation nor subsistence outside of the Summer School times.
+A list of options for accommodation are provided below.
+
 
 ## Schedule:
 
