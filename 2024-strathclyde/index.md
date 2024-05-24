@@ -19,18 +19,6 @@ department at the [University of Strathclyde](https://www.strath.ac.uk/).
 
 For announcements and updates concerning SPLV 2024, please subscribe to our [SPLS Zulip stream](https://spls.zulipchat.com/#narrow/stream/402733-splv-2024).
 
-## Sponsors
-
-<div class="logos">
-<a href="https://www.sicsa.ac.uk/"><img style="padding-bottom:6px; width:250px;" src="assets/sicsa.png" alt="SICSA"/> </a>
-</div>
-
-### Bronze
-
-<div class="logos">
-<a href="https://www.well-typed.com/"><img style="padding-bottom:6px; width:250px;" src="assets/well-typed.png" alt="Well-Typed"/> </a>
-</div>
-
 ## Core Courses
 
 These required lectures cover foundational knowledge.
@@ -401,6 +389,20 @@ Unfortunately, Strathclyde's halls of residence are not available this summer du
 However for those who would prefer a cheap self-catering option, we understand that our city-centre neighbour, Glasgow Caledonian University, currently has availability (~15 minute walk).
 You would have to email their [accommodation office](mailto:accommodation@gcu.ac.uk) for more information.
 
+
+## Sponsors
+
+The summer school is generously sponsored by SICSA, the Scottish Informatics and Computer Science Alliance, and Well-Typed.
+
+<div class="logos">
+<a href="https://www.sicsa.ac.uk/"><img style="padding-bottom:6px; width:250px;" src="assets/sicsa.png" alt="SICSA"/> </a>
+</div>
+
+### Bronze
+
+<div class="logos">
+<a href="https://www.well-typed.com/"><img style="padding-bottom:6px; width:250px;" src="assets/well-typed.png" alt="Well-Typed"/> </a>
+</div>
 
 ## Further Information:
 
