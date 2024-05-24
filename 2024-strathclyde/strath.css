@@ -1,6 +1,13 @@
 /* Using 12-color palette for deuteranopia color blindness */
 /* http://mkweb.bcgsc.ca/colorblind/palettes.mhtml */
 
+.announcement {
+    font-size: 24pt;
+    font-weight: bold;
+    color:red;
+    text-align: center
+}
+
 .logos {
     text-align:center;
 }

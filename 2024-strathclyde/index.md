@@ -19,6 +19,8 @@ department at the [University of Strathclyde](https://www.strath.ac.uk/).
 
 For announcements and updates concerning SPLV 2024, please subscribe to our [SPLS Zulip stream](https://spls.zulipchat.com/#narrow/stream/402733-splv-2024).
 
+<p class="announcement"><a href="#registration">Registration is open!</a></p>
+
 ## Core Courses
 
 These required lectures cover foundational knowledge.
