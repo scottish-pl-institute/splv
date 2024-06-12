@@ -233,7 +233,7 @@ The registration fees are:
 :   for students at a SICSA-affiliated university (limited places)
 
 **250.00 GBP**
-:   for students and academics at non SICSA-affiliated universities
+:   for students at non SICSA-affiliated universities and academics
 
 **750.00 GBP**
 :   for all other participants, i.e. industry practitioners and independent researchers
