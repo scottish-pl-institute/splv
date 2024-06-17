@@ -404,6 +404,8 @@ The summer school is generously sponsored by SICSA, the Scottish Informatics and
 
 <div class="logos">
 <a href="https://www.well-typed.com/"><img style="padding-bottom:6px; width:250px;" src="assets/well-typed.png" alt="Well-Typed"/> </a>
+
+<a href="https://tweag.io"><img style="padding-bottom:6px; width:250px;" src="assets/tweag.png" alt="Tweag"/> </a>
 </div>
 
 ## Further Information:

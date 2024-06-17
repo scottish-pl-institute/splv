@@ -9,7 +9,9 @@
 }
 
 .logos {
-    text-align:center;
+    display: grid;
+    align-items: center;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
 }
 .logos img {
     width:220px;
