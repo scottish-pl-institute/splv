@@ -43,7 +43,7 @@ These required lectures cover foundational knowledge.
   {: .flex-element }
 
   **Type Theory**<img class="avatar" src="assets/conor_mcbride.jpg" />
-  : **Lecturer:** [Conor McBride](https://personal.cis.strath.ac.uk/conor.mcbride/)
+  : **Lecturer:** [Conor Mc Bride](https://personal.cis.strath.ac.uk/conor.mcbride/)
   : <details open>
     <summary>Abstract</summary>
       What makes type theories tick? I intend these lectures to communicate an approach to the
