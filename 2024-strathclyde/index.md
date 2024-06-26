@@ -248,117 +248,141 @@ Fees **do not** cover: travel and accommodation nor subsistence outside of the S
 A list of options for accommodation are provided below.
 
 
-## Schedule:
+## Provisional Schedule:
 
 <div class="schedule">
  <table>
   <tr>
-    <th></th>
-    <th>Monday</th>
-    <th>Tuesday</th>
-    <th>Wednesday</th>
-    <th>Thursday</th>
-    <th>Friday</th>
+    <th class="time"></th>
+    <th class="weekday">Monday</th>
+    <th class="weekday">Tuesday</th>
+    <th class="weekday">Wednesday</th>
+    <th class="weekday">Thursday</th>
+    <th class="weekday">Friday</th>
   </tr>
   <tr>
-    <td>08:30</td>
+    <td class="time">08:30</td>
     <td>Registration</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td class="freetime"></td>
+    <td rowspan=3 class="freetime"></td>
+    <td class="freetime"></td>
+    <td class="freetime"></td>
   </tr>
   <tr>
-    <td>09:00</td>
+    <td class="time">09:00</td>
     <td rowspan=3 class="core1"></td>
     <td rowspan=2 class="core2"></td>
     <td rowspan=2 class="speciala"></td>
-    <td rowspan=2 class="freetime"></td>
     <td rowspan=2 class="specialb"></td>
   </tr>
   <tr>
-    <td>09:30</td>
+    <td class="time">09:30</td>
   </tr>
   <tr>
-    <td>10:00</td>
+    <td class="time">10:00</td>
     <td rowspan=2 class="core1"></td>
-    <td rowspan=2 class="specialb"></td>
+    <td class="coffee"></td>
     <td rowspan=2 class="specialc"></td>
     <td rowspan=2 class="speciala"></td>
   </tr>
   <tr>
-    <td>10:30</td>
+    <td class="time">10:30</td>
     <td class="coffee"></td>
+    <td rowspan=2 class="specialb"></td>
   </tr>
   <tr>
-    <td>11:00</td>
+    <td class="time">11:00</td>
     <td rowspan=3 class="core2"></td>
     <td class="coffee"></td>
     <td class="coffee"></td>
     <td class="coffee"></td>
-    <td class="coffee"></td>
   </tr>
   <tr>
-    <td>11:30</td>
+    <td class="time">11:30</td>
     <td rowspan=2 class="invited"></td>
     <td rowspan=2 class="invited"></td>
     <td rowspan=2 class="invited"></td>
     <td rowspan=2 class="invited"></td>
   </tr>
   <tr>
-    <td>12:00</td>
+    <td class="time">12:00</td>
   </tr>
   <tr>
-    <td>12:30</td>
+    <td class="time">12:30</td>
     <td rowspan=2 class="lunch"></td>
     <td rowspan=2 class="lunch"></td>
-    <td rowspan=2 class="lunch"></td>
+    <td rowspan=10 class="excursion"></td>
     <td rowspan=2 class="lunch"></td>
     <td rowspan=2 class="lunch"></td>
   </tr>
   <tr>
-    <td>13:00</td>
+    <td class="time">13:00</td>
   </tr>
   <tr>
-    <td>13:30</td>
+    <td class="time">13:30</td>
     <td rowspan=3 class="core1"></td>
     <td rowspan=2 class="speciala"></td>
-    <td rowspan=8 class="excursion"></td>
     <td rowspan=2 class="specialb"></td>
     <td rowspan=2 class="specialc"></td>
   </tr>
   <tr>
-    <td>14:00</td>
+    <td class="time">14:00</td>
   </tr>
   <tr>
-    <td>14:30</td>
+    <td class="time">14:30</td>
     <td rowspan=2 class="specialb"></td>
     <td rowspan=2 class="specialc"></td>
-    <td rowspan=6 class="freetime"></td>
+    <td class="farewell"></td>
   </tr>
   <tr>
-    <td>15:00</td>
+    <td class="time">15:00</td>
     <td class="coffee"></td>
+    <td rowspan=12 class="freetime"></td>
   </tr>
   <tr>
-    <td>15:30</td>
+    <td class="time">15:30</td>
     <td rowspan=3 class="core2"></td>
     <td class="coffee"></td>
     <td class="coffee"></td>
   </tr>
   <tr>
-    <td>16:00</td>
+    <td class="time">16:00</td>
     <td rowspan=2 class="specialc"></td>
     <td rowspan=2 class="speciala"></td>
   </tr>
   <tr>
-    <td>16:30</td>
+    <td class="time">16:30</td>
   </tr>
   <tr>
-    <td>17:00</td>
+    <td class="time">17:00</td>
     <td class="lightning"></td>
     <td class="lightning"></td>
-    <td class="freetime"></td>
+    <td rowspan=8 class="freetime"></td>
+  </tr>
+  <tr>
+    <td class="time">17:30</td>
+    <td rowspan=7 class="freetime"></td>
+    <td rowspan=3 class="freetime"></td>
+    <td rowspan=7 class="freetime"></td>
+  </tr>
+  <tr>
+    <td class="time">18:00</td>
+  </tr>
+  <tr>
+    <td class="time">18:30</td>
+  </tr>
+  <tr>
+    <td class="time">19:00</td>
+    <td rowspan=4 class="dinner"></td>
+  </tr>
+  <tr>
+    <td class="time">19:30</td>
+  </tr>
+  <tr>
+    <td class="time">20:00</td>
+  </tr>
+  <tr>
+    <td class="time">20:30</td>
   </tr>
 </table>
 </div>
