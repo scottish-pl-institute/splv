@@ -214,9 +214,8 @@ Community leaders will follow these Community Impact Guidelines in determining t
 
 This Code of Conduct is adapted from the following existing codes:
 
-+ Queer Tech Club (QTC) Code of Conduct, available at https://queertechclub.com/queer-tech-club-code-of-conduct/
-+ [Contributor Covenant][homepage], version 2.1, available at
-https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
++ Queer Tech Club (QTC) Code of Conduct, available at <https://queertechclub.com/queer-tech-club-code-of-conduct/>
++ [Contributor Covenant][homepage], version 2.1, available at <https://www.contributor-covenant.org/version/2/1/code_of_conduct.html>
 
 The Contributor Covenant is an open source effort and is built on many codes of conduct that came before it, including the Code of Conduct of the [LGBTQ in Technology](https://lgbtq.technology/coc.html).
 
@@ -226,7 +225,7 @@ Community Impact Guidelines were inspired by
 ## License
 
 Adapted from the QTC Code of Conduct and Contributor Covenant,
-which are licensed under a Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/).
+which are licensed under a Creative Commons Attribution 4.0 International License (<http://creativecommons.org/licenses/by/4.0/>).
 
 The adaptation was by Jan de Muijnck-Hughes on behalf of the SPLV/SPLI communities.
 
