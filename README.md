@@ -20,6 +20,11 @@ This school aims to:
 * Provide essential postgraduate training in theoretical underpinnings
   of computer science and in programming languages
 
+# Code of Conduct
+
+From 2024 onward,
+all SPLV events and activities operate under the [following Code of Conduct](CODE-OF-CONDUCT).
+
 # Current and Previous Summer Schools:
 
 ## Current Edition
