@@ -361,7 +361,7 @@ A list of options for accommodation are provided below.
   </tr>
   <tr>
     <td class="time">17:30</td>
-    <td rowspan=7 class="freetime"></td>
+    <td rowspan=4 class="social"></td>
     <td rowspan=3 class="freetime"></td>
     <td rowspan=7 class="freetime"></td>
   </tr>
@@ -377,6 +377,7 @@ A list of options for accommodation are provided below.
   </tr>
   <tr>
     <td class="time">19:30</td>
+    <td rowspan=3 class="freetime"></td>
   </tr>
   <tr>
     <td class="time">20:00</td>

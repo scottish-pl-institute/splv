@@ -149,6 +149,12 @@ summary {
 .freetime {
   background-color: #FFFFFF;
 }
+.social {
+  background-color: #009F81;
+}
+.social::before {
+  content: "Social";
+}
 .excursion {
   background-color: #009F81;
 }
