@@ -11,6 +11,7 @@
 .logos {
     display: grid;
     align-items: center;
+    gap: 20px;
     grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
 }
 .logos img {
