@@ -417,10 +417,16 @@ You would have to email their [accommodation office](mailto:accommodation@gcu.ac
 
 ## Sponsors
 
-The summer school is generously sponsored by SICSA, the Scottish Informatics and Computer Science Alliance, Well-Typed, and Tweag.
+The summer school is generously sponsored by the Scottish Informatics and Computer Science Alliance, Quantinuum, Well-Typed, and Tweag.
 
 <div class="logos">
 <a href="https://www.sicsa.ac.uk/"><img style="padding-bottom:6px; width:250px;" src="assets/sicsa.png" alt="SICSA"/> </a>
+</div>
+
+### Gold
+
+<div class="logos">
+<a href="https://www.quantinuum.com/"><img style="padding-bottom:6px; width:250px;" src="assets/quantinuum.png" alt="Quantinuum"/> </a>
 </div>
 
 ### Bronze
