@@ -19,8 +19,6 @@ department at the [University of Strathclyde](https://www.strath.ac.uk/).
 
 For announcements and updates concerning SPLV 2024, please subscribe to our [SPLS Zulip stream](https://spls.zulipchat.com/#narrow/stream/402733-splv-2024).
 
-<p class="announcement"><a href="#registration">Registration is open!</a></p>
-
 ## Core Courses
 
 These required lectures cover foundational knowledge.
@@ -225,7 +223,7 @@ Participants will need to have a background in computer science, mathematics or 
 
 ## Registration:
 
-Please register using [this link](https://onlineshop.strath.ac.uk/conferences-and-events/science-faculty/computer-and-information-science/scottish-programming-languages-and-verification-summer-school-2024). Registration closes Sunday 14 July.
+Registration closed Sunday 14 July.
 
 The registration fees are:
 
@@ -242,7 +240,7 @@ For students and academics, we kindly request that you register with an institut
 
 If you are unsure which fee is applicable to you, please do get in contact.
 
-Fees cover: all lecture courses, tea and coffee breaks, and lunch.
+Fees cover: all lecture courses, tea and coffee breaks, lunch, a social event on Monday evening, and conference dinner Tuesday evening.
 
 Fees **do not** cover: travel and accommodation nor subsistence outside of the Summer School times.
 A list of options for accommodation are provided below.
