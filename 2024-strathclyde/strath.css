@@ -129,6 +129,18 @@ summary {
 .invited::before {
   content: "Lindsey";
 }
+.registration {
+  background-color: lightyellow;
+}
+.registration::before {
+  content: "Breakfast | Registration";
+}
+.breakfast {
+  background-color: lightyellow;
+}
+.breakfast::before {
+  content: "Breakfast";
+}
 .coffee {
   background-color: lightyellow;
 }

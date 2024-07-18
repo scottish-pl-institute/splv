@@ -229,11 +229,11 @@ We will have two lightning talk sessions at the end of Monday and Tuesday for st
   </tr>
   <tr>
     <td class="time">08:30</td>
-    <td>Registration</td>
-    <td class="freetime"></td>
+    <td class="registration"></td>
+    <td class="breakfast"></td>
     <td rowspan=3 class="freetime"></td>
-    <td class="freetime"></td>
-    <td class="freetime"></td>
+    <td class="breakfast"></td>
+    <td class="breakfast"></td>
   </tr>
   <tr>
     <td class="time">09:00</td>
@@ -248,7 +248,7 @@ We will have two lightning talk sessions at the end of Monday and Tuesday for st
   <tr>
     <td class="time">10:00</td>
     <td rowspan=2 class="core1"></td>
-    <td class="coffee"></td>
+    <td class="breakfast"></td>
     <td rowspan=2 class="specialc"></td>
     <td rowspan=2 class="speciala"></td>
   </tr>
