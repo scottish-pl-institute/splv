@@ -91,6 +91,7 @@ summary {
   background-color: #9F0162;
 }
 .core1::before {
+  color: white;
   content: "Conor";
 }
 .core2 {
@@ -100,6 +101,7 @@ summary {
   content: "Chris";
 }
 .speciala {
+  color: white;
   background-color: #FF5AAF;
 }
 .speciala::before {
@@ -112,6 +114,7 @@ summary {
   content: "Bob | Sam";
 }
 .specialc {
+  color: white;
   background-color: #008DF9;
 }
 .specialc::before {
@@ -127,6 +130,7 @@ summary {
   background-color: #E20134;
 }
 .invited::before {
+  color: white;
   content: "Lindsey";
 }
 .registration {
