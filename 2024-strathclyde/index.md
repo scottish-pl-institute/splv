@@ -246,7 +246,7 @@ Fees **do not** cover: travel and accommodation nor subsistence outside of the S
 A list of options for accommodation are provided below.
 
 
-## Provisional Schedule:
+## Schedule:
 
 <div class="schedule">
  <table>
