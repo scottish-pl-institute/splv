@@ -107,8 +107,6 @@ Our guest lecture series opens a window to a related field.
 ## Specialised Courses
 
 The specialised courses are offered as two tracks running in parallel.
-The interleaving is currently TBC.
-
 
 <div class="flex-container" markdown="1">
 
