@@ -19,6 +19,148 @@ department at the [University of Strathclyde](https://www.strath.ac.uk/).
 
 For announcements and updates concerning SPLV 2024, please subscribe to our [SPLS Zulip stream](https://spls.zulipchat.com/#narrow/stream/402733-splv-2024).
 
+
+## Schedule:
+
+<div class="schedule">
+ <table>
+  <tr>
+    <th class="time"></th>
+    <th class="weekday">Monday</th>
+    <th class="weekday">Tuesday</th>
+    <th class="weekday">Wednesday</th>
+    <th class="weekday">Thursday</th>
+    <th class="weekday">Friday</th>
+  </tr>
+  <tr>
+    <td class="time">08:30</td>
+    <td class="registration"></td>
+    <td class="breakfast"></td>
+    <td rowspan=3 class="freetime"></td>
+    <td class="breakfast"></td>
+    <td class="breakfast"></td>
+  </tr>
+  <tr>
+    <td class="time">09:00</td>
+    <td rowspan=3 class="core1"></td>
+    <td rowspan=2 class="core2"></td>
+    <td rowspan=2 class="speciala"></td>
+    <td rowspan=2 class="specialb"></td>
+  </tr>
+  <tr>
+    <td class="time">09:30</td>
+  </tr>
+  <tr>
+    <td class="time">10:00</td>
+    <td rowspan=2 class="core1"></td>
+    <td class="breakfast"></td>
+    <td rowspan=2 class="specialc"></td>
+    <td rowspan=2 class="speciala"></td>
+  </tr>
+  <tr>
+    <td class="time">10:30</td>
+    <td class="coffee"></td>
+    <td rowspan=2 class="specialb"></td>
+  </tr>
+  <tr>
+    <td class="time">11:00</td>
+    <td rowspan=3 class="core2"></td>
+    <td class="coffee"></td>
+    <td class="coffee"></td>
+    <td class="coffee"></td>
+  </tr>
+  <tr>
+    <td class="time">11:30</td>
+    <td rowspan=2 class="invited"></td>
+    <td rowspan=2 class="invited"></td>
+    <td rowspan=2 class="invited"></td>
+    <td rowspan=2 class="invited"></td>
+  </tr>
+  <tr>
+    <td class="time">12:00</td>
+  </tr>
+  <tr>
+    <td class="time">12:30</td>
+    <td rowspan=2 class="lunch"></td>
+    <td rowspan=2 class="lunch"></td>
+    <td rowspan=10 class="excursion"></td>
+    <td rowspan=2 class="lunch"></td>
+    <td rowspan=2 class="lunch"></td>
+  </tr>
+  <tr>
+    <td class="time">13:00</td>
+  </tr>
+  <tr>
+    <td class="time">13:30</td>
+    <td rowspan=3 class="core1"></td>
+    <td rowspan=2 class="speciala"></td>
+    <td rowspan=2 class="specialb"></td>
+    <td rowspan=2 class="specialc"></td>
+  </tr>
+  <tr>
+    <td class="time">14:00</td>
+  </tr>
+  <tr>
+    <td class="time">14:30</td>
+    <td rowspan=2 class="specialb"></td>
+    <td rowspan=2 class="specialc"></td>
+    <td class="farewell"></td>
+  </tr>
+  <tr>
+    <td class="time">15:00</td>
+    <td class="coffee"></td>
+    <td rowspan=12 class="freetime"></td>
+  </tr>
+  <tr>
+    <td class="time">15:30</td>
+    <td rowspan=3 class="core2"></td>
+    <td class="coffee"></td>
+    <td class="coffee"></td>
+  </tr>
+  <tr>
+    <td class="time">16:00</td>
+    <td rowspan=2 class="specialc"></td>
+    <td rowspan=2 class="speciala"></td>
+  </tr>
+  <tr>
+    <td class="time">16:30</td>
+  </tr>
+  <tr>
+    <td class="time">17:00</td>
+    <td class="lightning"></td>
+    <td class="lightning"></td>
+    <td rowspan=8 class="freetime"></td>
+  </tr>
+  <tr>
+    <td class="time">17:30</td>
+    <td rowspan=4 class="social"></td>
+    <td rowspan=3 class="freetime"></td>
+    <td rowspan=7 class="freetime"></td>
+  </tr>
+  <tr>
+    <td class="time">18:00</td>
+  </tr>
+  <tr>
+    <td class="time">18:30</td>
+  </tr>
+  <tr>
+    <td class="time">19:00</td>
+    <td rowspan=4 class="dinner"></td>
+  </tr>
+  <tr>
+    <td class="time">19:30</td>
+    <td rowspan=3 class="freetime"></td>
+  </tr>
+  <tr>
+    <td class="time">20:00</td>
+  </tr>
+  <tr>
+    <td class="time">20:30</td>
+  </tr>
+</table>
+</div>
+
+
 ## Core Courses
 
 These required lectures cover foundational knowledge.
@@ -214,146 +356,6 @@ Participants will need to have a background in computer science, mathematics or 
 
 We will have two lightning talk sessions at the end of Monday and Tuesday for students to give a quick introduction to their research. Contact <CIS_splv2024@groups.strath.ac.uk> if you would like to give a talk. More information and currently offered talks [here](lightning.md).
 
-
-## Schedule:
-
-<div class="schedule">
- <table>
-  <tr>
-    <th class="time"></th>
-    <th class="weekday">Monday</th>
-    <th class="weekday">Tuesday</th>
-    <th class="weekday">Wednesday</th>
-    <th class="weekday">Thursday</th>
-    <th class="weekday">Friday</th>
-  </tr>
-  <tr>
-    <td class="time">08:30</td>
-    <td class="registration"></td>
-    <td class="breakfast"></td>
-    <td rowspan=3 class="freetime"></td>
-    <td class="breakfast"></td>
-    <td class="breakfast"></td>
-  </tr>
-  <tr>
-    <td class="time">09:00</td>
-    <td rowspan=3 class="core1"></td>
-    <td rowspan=2 class="core2"></td>
-    <td rowspan=2 class="speciala"></td>
-    <td rowspan=2 class="specialb"></td>
-  </tr>
-  <tr>
-    <td class="time">09:30</td>
-  </tr>
-  <tr>
-    <td class="time">10:00</td>
-    <td rowspan=2 class="core1"></td>
-    <td class="breakfast"></td>
-    <td rowspan=2 class="specialc"></td>
-    <td rowspan=2 class="speciala"></td>
-  </tr>
-  <tr>
-    <td class="time">10:30</td>
-    <td class="coffee"></td>
-    <td rowspan=2 class="specialb"></td>
-  </tr>
-  <tr>
-    <td class="time">11:00</td>
-    <td rowspan=3 class="core2"></td>
-    <td class="coffee"></td>
-    <td class="coffee"></td>
-    <td class="coffee"></td>
-  </tr>
-  <tr>
-    <td class="time">11:30</td>
-    <td rowspan=2 class="invited"></td>
-    <td rowspan=2 class="invited"></td>
-    <td rowspan=2 class="invited"></td>
-    <td rowspan=2 class="invited"></td>
-  </tr>
-  <tr>
-    <td class="time">12:00</td>
-  </tr>
-  <tr>
-    <td class="time">12:30</td>
-    <td rowspan=2 class="lunch"></td>
-    <td rowspan=2 class="lunch"></td>
-    <td rowspan=10 class="excursion"></td>
-    <td rowspan=2 class="lunch"></td>
-    <td rowspan=2 class="lunch"></td>
-  </tr>
-  <tr>
-    <td class="time">13:00</td>
-  </tr>
-  <tr>
-    <td class="time">13:30</td>
-    <td rowspan=3 class="core1"></td>
-    <td rowspan=2 class="speciala"></td>
-    <td rowspan=2 class="specialb"></td>
-    <td rowspan=2 class="specialc"></td>
-  </tr>
-  <tr>
-    <td class="time">14:00</td>
-  </tr>
-  <tr>
-    <td class="time">14:30</td>
-    <td rowspan=2 class="specialb"></td>
-    <td rowspan=2 class="specialc"></td>
-    <td class="farewell"></td>
-  </tr>
-  <tr>
-    <td class="time">15:00</td>
-    <td class="coffee"></td>
-    <td rowspan=12 class="freetime"></td>
-  </tr>
-  <tr>
-    <td class="time">15:30</td>
-    <td rowspan=3 class="core2"></td>
-    <td class="coffee"></td>
-    <td class="coffee"></td>
-  </tr>
-  <tr>
-    <td class="time">16:00</td>
-    <td rowspan=2 class="specialc"></td>
-    <td rowspan=2 class="speciala"></td>
-  </tr>
-  <tr>
-    <td class="time">16:30</td>
-  </tr>
-  <tr>
-    <td class="time">17:00</td>
-    <td class="lightning"></td>
-    <td class="lightning"></td>
-    <td rowspan=8 class="freetime"></td>
-  </tr>
-  <tr>
-    <td class="time">17:30</td>
-    <td rowspan=4 class="social"></td>
-    <td rowspan=3 class="freetime"></td>
-    <td rowspan=7 class="freetime"></td>
-  </tr>
-  <tr>
-    <td class="time">18:00</td>
-  </tr>
-  <tr>
-    <td class="time">18:30</td>
-  </tr>
-  <tr>
-    <td class="time">19:00</td>
-    <td rowspan=4 class="dinner"></td>
-  </tr>
-  <tr>
-    <td class="time">19:30</td>
-    <td rowspan=3 class="freetime"></td>
-  </tr>
-  <tr>
-    <td class="time">20:00</td>
-  </tr>
-  <tr>
-    <td class="time">20:30</td>
-  </tr>
-</table>
-</div>
 
 ## Sponsorship
 
