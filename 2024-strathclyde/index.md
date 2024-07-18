@@ -225,30 +225,6 @@ Participants will need to have a background in computer science, mathematics or 
 
 We will have two lightning talk sessions at the end of Monday and Tuesday for students to give a quick introduction to their research. Contact <CIS_splv2024@groups.strath.ac.uk> if you would like to give a talk. More information and currently offered talks [here](lightning.md).
 
-## Registration:
-
-Registration closed Sunday 14 July.
-
-The registration fees are:
-
-**Free**
-:   for students at a SICSA-affiliated university (limited places)
-
-**250.00 GBP**
-:   for students at non SICSA-affiliated universities and academics
-
-**750.00 GBP**
-:   for all other participants, i.e. industry practitioners and independent researchers
-
-For students and academics, we kindly request that you register with an institutional account.
-
-If you are unsure which fee is applicable to you, please do get in contact.
-
-Fees cover: all lecture courses, tea and coffee breaks, lunch, a social event on Monday evening, and conference dinner Tuesday evening.
-
-Fees **do not** cover: travel and accommodation nor subsistence outside of the Summer School times.
-A list of options for accommodation are provided below.
-
 
 ## Schedule:
 
@@ -440,6 +416,33 @@ The summer school is generously sponsored by the Scottish Informatics and Comput
 
 <a href="https://tweag.io"><img style="padding-bottom:6px; width:250px;" src="assets/tweag.png" alt="Tweag"/> </a>
 </div>
+
+## Registration:
+
+<details markdown="1">
+<summary>Registration closed Sunday 14 July.</summary>
+
+The registration fees are:
+
+**Free**
+:   for students at a SICSA-affiliated university (limited places)
+
+**250.00 GBP**
+:   for students at non SICSA-affiliated universities and academics
+
+**750.00 GBP**
+:   for all other participants, i.e. industry practitioners and independent researchers
+
+For students and academics, we kindly request that you register with an institutional account.
+
+If you are unsure which fee is applicable to you, please do get in contact.
+
+Fees cover: all lecture courses, tea and coffee breaks, lunch, a social event on Monday evening, and conference dinner Tuesday evening.
+
+Fees **do not** cover: travel and accommodation nor subsistence outside of the Summer School times.
+A list of options for accommodation are provided below.
+
+</details>
 
 ## Further Information:
 
