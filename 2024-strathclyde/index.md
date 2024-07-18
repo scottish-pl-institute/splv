@@ -206,15 +206,6 @@ The interleaving is currently TBC.
 </div>
 </div>
 
-## Details
-
-SPLV 2024 is scheduled to run one full week:
-
-> from 9am on **Monday 29th July** to 2:30pm on **Friday August 2nd**.
-
-Lectures will run face-to-face on-site.
-We will use the [SPLS Zulip](https://spls.zulipchat.com/) for online communications (e.g. for questions, arrival/dinner on Sunday, …).
-
 ## Prerequisites:
 
 The school is aimed at PhD students in programming languages, verification and related areas.
