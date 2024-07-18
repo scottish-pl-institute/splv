@@ -221,6 +221,10 @@ The school is aimed at PhD students in programming languages, verification and r
 Researchers and practitioners are very welcome, as are strong undergraduate and masters students with the support of a supervisor.
 Participants will need to have a background in computer science, mathematics or a related discipline, and have basic familiarity with (functional) programming and logic.
 
+## Lightning talks
+
+We will have two lightning talk sessions at the end of Monday and Tuesday for students to give a quick introduction to their research. Contact <CIS_splv2024@groups.strath.ac.uk> if you would like to give a talk. More information and currently offered talks [here](lightning.md).
+
 ## Registration:
 
 Registration closed Sunday 14 July.
