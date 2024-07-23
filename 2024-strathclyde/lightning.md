@@ -20,6 +20,7 @@ So far, we have the following talks (in alphabetical order of first name):
 | Christopher Lam   | Correctly Compiling Proofs About Programs Without Proving Compilers Correct |
 | Murdoch Gabbay    | Polynomial semantics for FOL                                                |
 | Sean Watters      | The modal mu-calculus, type-theoretically                                   |
+| Szumi Xie         | Second-order generalised algebraic theories                                 |
 | Wenhao Tang       | Modal Effect Types                                                          |
 
 Please plan for your talk to be less than five minutes long.
