@@ -356,18 +356,23 @@ Participants will need to have a background in computer science, mathematics or 
 
 We will have two lightning talk sessions at the end of Monday and Tuesday for students to give a quick introduction to their research. Contact <CIS_splv2024@groups.strath.ac.uk> if you would like to give a talk. More information and currently offered talks [here](lightning.md).
 
+## Evening activities and excursion
 
-## Sponsorship
+On Monday evening, after the lightning talks, we will have a social event with free pizza and drinks. This will take place on level 11 of Livingstone Tower, next door to the McCance building, with views over Glasgow.
 
-[Industrial sponsorship](call-for/sponsorship/) is always welcome,
-and if your company would like to sponsor SPLV 2024 then please do
-[get in contact with the organising team](mailto:CIS_splv2024@groups.strath.ac.uk).
+On Tuesday evening, we will have the summer school dinner in [Madha](https://www.madha.co.uk/) in the Merchant City part of Glasgow. Food and reasonable drink is included in your registration.
+
+On Wednesday afternoon, we will take a local train to Pollok Country Park (train station: Pollokshaws West), which is on the outskirts of Glasgow. There is the opportunity to go for a walk in the park (and watch the highland cattle!), admire the formal gardens of Pollok House, or visit [the Burrell Collection](https://burrellcollection.com/) (free entry), an award-winning art museum.
+
+## Covid mitigation
+
+If you can, please take a Covid test before attending the school, and obviously do not attend if you are not feeling well. Feel free to wear a mask during lectures, if you want -- some FFP2 masks will be available for anyone that wants them.
 
 ## Travel and Accommodation
 
 The University of Strathclyde is located a short (five minutes) walk from Glasgow Queen Street, heading east from the City Centre. Glasgow Central Station is 15 minutes away.
 The University provides [travel information](https://www.strath.ac.uk/maps/) including maps and directions.
-The summer school will be taking place in the [McCance Building](https://maps.app.goo.gl/dRV3M6xkEbPh69id7).
+Lectures will take place on the third floor of the [McCance Building](https://maps.app.goo.gl/dRV3M6xkEbPh69id7) on the University of Strathclyde campus. There will be signs directing you from the entrance of the building, which is on the north side of the building, on Richmond Street.
 
 There are many hotels in and around the city centre, as well as some hostels.
 
@@ -388,7 +393,7 @@ You would have to email their [accommodation office](mailto:accommodation@gcu.ac
 
 ## Sponsors
 
-The summer school is generously sponsored by the Scottish Informatics and Computer Science Alliance, Quantinuum, Well-Typed, and Tweag.
+The summer school is generously [sponsored](call-for/sponsorship/) by the Scottish Informatics and Computer Science Alliance, Quantinuum, Well-Typed, and Tweag.
 
 <div class="logos">
 <a href="https://www.sicsa.ac.uk/"><img style="padding-bottom:6px; width:250px;" src="assets/sicsa.png" alt="SICSA"/> </a>
