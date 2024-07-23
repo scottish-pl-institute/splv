@@ -9,7 +9,7 @@ custom_css: strath
 
 # Lightning talks (SPLV 2024)
 
-Lightning talks are your chance to give a quick introduction to your research and your interests. Contact <CIS_splv2024@groups.strath.ac.uk> before Monday 29 July if you would like to give a talk (first come first served).
+Lightning talks are your chance to give a quick introduction to your research and your interests. Contact <CIS_splv2024@groups.strath.ac.uk> before end of Friday 26 July if you would like to give a talk (first come first served), and please send us your slides in PDF format before Monday 29 July.
 
 So far, we have the following talks (in alphabetical order of first name):
 
@@ -24,4 +24,4 @@ So far, we have the following talks (in alphabetical order of first name):
 | Wenhao Tang       | Modal Effect Types                                                          |
 
 Please plan for your talk to be less than five minutes long.
-The final schedule will be generated Monday morning using randomness.
+The final schedule will be generated on Saturday 27 July using *randomness*.
