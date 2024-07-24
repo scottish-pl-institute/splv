@@ -13,15 +13,16 @@ Lightning talks are your chance to give a quick introduction to your research an
 
 So far, we have the following talks (in alphabetical order of first name):
 
-| Speaker           | Title                                                                       |
-| ----------------- | --------------------------------------------------------------------------- |
-| Ariadne Si Suo    | Towards a denotational model of mode systems                                |
-| Cassian Alexandru | Intrinsically correct sorting using bialgebraic semantics                   |
-| Christopher Lam   | Correctly Compiling Proofs About Programs Without Proving Compilers Correct |
-| Murdoch Gabbay    | Polynomial semantics for FOL                                                |
-| Sean Watters      | The modal mu-calculus, type-theoretically                                   |
-| Szumi Xie         | Second-order generalised algebraic theories                                 |
-| Wenhao Tang       | Modal Effect Types                                                          |
+| Speaker          | Title                                                                       |
+| ---------------- | --------------------------------------------------------------------------- |
+| Ariadne Si Suo   | Towards a denotational model of mode systems                                |
+| Cass Alexandru   | Intrinsically correct sorting using bialgebraic semantics                   |
+| Christopher Lam  | Correctly Compiling Proofs About Programs Without Proving Compilers Correct |
+| Murdoch Gabbay   | Polynomial semantics for FOL                                                |
+| Ruben Turkenburg | Proving Behavioural Apartness                                               |
+| Sean Watters     | The modal mu-calculus, type-theoretically                                   |
+| Szumi Xie        | Second-order generalised algebraic theories                                 |
+| Wenhao Tang      | Modal Effect Types                                                          |
 
 Please plan for your talk to be less than five minutes long.
 The final schedule will be generated on Saturday 27 July using *randomness*.
