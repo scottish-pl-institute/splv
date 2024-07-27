@@ -11,7 +11,7 @@ custom_css:
 
 # SPLV24: Scottish Programming Languages and Verification Summer School, 2024
 
-## [Glasgow, UK](https://www.yr.no/en/forecast/daily-table/2-2648579/) — July 29<sup>th</sup> to August 2<sup>nd</sup>
+## University of Strathclyde, [Glasgow, UK](https://www.yr.no/en/forecast/daily-table/2-2648579/) — July 29<sup>th</sup> to August 2<sup>nd</sup>
 
 {% include_relative menu.html %}
 
@@ -23,7 +23,7 @@ department at the [University of Strathclyde](https://www.strath.ac.uk/).
 For announcements and updates concerning SPLV 2024, please subscribe to our [SPLS Zulip stream](https://spls.zulipchat.com/#narrow/stream/402733-splv-2024).
 
 
-## Schedule:
+## Schedule
 
 <div class="schedule">
  <table>
@@ -349,7 +349,7 @@ The specialised courses are offered as two tracks running in parallel.
 </div>
 </div>
 
-## Prerequisites:
+## Prerequisites
 
 The school is aimed at PhD students in programming languages, verification and related areas.
 Researchers and practitioners are very welcome, as are strong undergraduate and masters students with the support of a supervisor.
@@ -416,7 +416,7 @@ The summer school is generously [sponsored](call-for/sponsorship/) by the Scotti
 <a href="https://tweag.io"><img style="padding-bottom:6px; width:250px;" src="assets/tweag.png" alt="Tweag"/> </a>
 </div>
 
-## Registration:
+## Registration
 
 <details markdown="1">
 <summary>Registration closed Sunday 14 July.</summary>
@@ -443,7 +443,7 @@ A list of options for accommodation are provided below.
 
 </details>
 
-## Further Information:
+## Further Information
 
 If you have any further questions please get in contact with the local organising team at:
 
