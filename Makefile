@@ -33,3 +33,8 @@ healthcheck:
 
 build:
 	github-pages build
+# fix local CSS paths
+	find _site -maxdepth 1 -mindepth 1 -type f -name "*.html" -exec sed -i 's_\"/assets/css/style.css?v=_\"assets/css/style.css?v=_g' {} +
+	find _site -maxdepth 2 -mindepth 2 -type f -name "*.html" -exec sed -i 's_\"/assets/css/style.css?v=_\"../assets/css/style.css?v=_g' {} +
+	find _site -maxdepth 3 -mindepth 3 -type f -name "*.html" -exec sed -i 's_\"/assets/css/style.css?v=_\"../../assets/css/style.css?v=_g' {} +
+	find _site -maxdepth 4 -mindepth 4 -type f -name "*.html" -exec sed -i 's_\"/assets/css/style.css?v=_\"../../../assets/css/style.css?v=_g' {} +
