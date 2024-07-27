@@ -126,6 +126,13 @@ summary {
 .lightning::before {
   content: "Lightning";
 }
+.lightning-schedule-a {
+    background-color: #9F0162;
+    color: white;
+}
+.lightning-schedule-b {
+    background-color: #00FCCF;
+}
 .invited {
   background-color: #E20134;
 }

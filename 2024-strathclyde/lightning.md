@@ -22,23 +22,23 @@ The schedule has been generated randomly.
   </tr>
   <tr>
     <td class="time">17:05</td>
-    <td style="background-color: #9F0162;">Szumi Xie</td>
-    <td style="background-color: #00FCCF;">Cass Alexandru</td>
+    <td class="lightning-schedule-a">Szumi Xie</td>
+    <td class="lightning-schedule-b">Cass Alexandru</td>
   </tr>
   <tr>
     <td class="time">17:10</td>
-    <td style="background-color: #00FCCF;">Ruben Turkenburg</td>
-    <td style="background-color: #9F0162;">Sean Watters</td>
+    <td class="lightning-schedule-b">Ruben Turkenburg</td>
+    <td class="lightning-schedule-a">Sean Watters</td>
   </tr>
   <tr>
     <td class="time">17:15</td>
-    <td style="background-color: #9F0162;">Murdoch Gabbay</td>
-    <td style="background-color: #00FCCF;">Wenhao Tang</td>
+    <td class="lightning-schedule-a">Murdoch Gabbay</td>
+    <td class="lightning-schedule-b">Wenhao Tang</td>
   </tr>
   <tr>
     <td class="time">17:20</td>
-    <td style="background-color: #00FCCF;">Ariadne Si Suo</td>
-    <td style="background-color: #9F0162;">Christopher Lam</td>
+    <td class="lightning-schedule-b">Ariadne Si Suo</td>
+    <td class="lightning-schedule-a">Christopher Lam</td>
   </tr>
 </table>
 </div>
