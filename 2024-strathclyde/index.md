@@ -1,8 +1,10 @@
 ---
 
 title: SPLV 2024
-custom_css: strath
-
+custom_css:
+ - strath
+ - pure-min
+ - grids-responsive-min
 ---
 
 <img src="assets/strath_fullcolour.jpg" style="float:right; max-width:15%" alt="University of Strathclyde logo" />
@@ -11,6 +13,7 @@ custom_css: strath
 
 ## [Glasgow, UK](https://www.yr.no/en/forecast/daily-table/2-2648579/) — July 29<sup>th</sup> to August 2<sup>nd</sup>
 
+{% include_relative menu.html %}
 
 This year, the [Scottish Programming Languages and Verification Summer School](..)
 will be held in Strathclyde.

@@ -1,0 +1,177 @@
+ <style>
+  .custom-wrapper {
+          background-color: #ffffff;
+          margin-bottom: 1em;
+          -webkit-font-smoothing: antialiased;
+          height: 2.1em;
+          overflow: hidden;
+          -webkit-transition: height 0.5s;
+          -moz-transition: height 0.5s;
+          -ms-transition: height 0.5s;
+          transition: height 0.5s;
+          position: relative;
+  }
+
+  .custom-wrapper.open {
+          height: auto;
+  }
+
+  .custom-menu-3 {
+          text-align: right;
+  }
+
+  .custom-toggle {
+          width: 34px;
+          height: 34px;
+          position: absolute;
+          top: 0;
+          right: 0;
+          display: none;
+  }
+
+  .custom-toggle .bar {
+          background-color: #000;
+          display: block;
+          width: 20px;
+          height: 2px;
+          border-radius: 100px;
+          position: relative;
+          top: 18px;
+          right: 7px;
+          -webkit-transition: all 0.5s;
+          -moz-transition: all 0.5s;
+          -ms-transition: all 0.5s;
+          transition: all 0.5s;
+  }
+
+  .custom-toggle .bar:first-child {
+          -webkit-transform: translateY(-6px);
+          -moz-transform: translateY(-6px);
+          -ms-transform: translateY(-6px);
+          transform: translateY(-6px);
+  }
+
+  .custom-toggle.x .bar {
+          -webkit-transform: rotate(45deg);
+          -moz-transform: rotate(45deg);
+          -ms-transform: rotate(45deg);
+          transform: rotate(45deg);
+  }
+
+  .custom-toggle.x .bar:first-child {
+          -webkit-transform: rotate(-45deg);
+          -moz-transform: rotate(-45deg);
+          -ms-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+  }
+
+  @media (max-width: 47.999em) {
+
+      .custom-menu-3 {
+              text-align: left;
+      }
+
+      .custom-toggle {
+              display: block;
+      }
+  }
+      </style>
+
+<div class="custom-wrapper pure-g" id="menu">
+ <div class="pure-u-1 pure-u-md-2-24">
+  <div class="pure-menu">
+   <span class="pure-menu-heading custom-brand"><img src="../assets/splv.png" height='25' width='25' alt="SPLV logo"></span>
+   <a href="#" class="custom-toggle" id="toggle"><s class="bar"></s><s class="bar"></s></a>
+  </div>
+ </div>
+ <div class="pure-u-1 pure-u-md-22-24">
+  <div class="pure-menu pure-menu-horizontal custom-can-transform">
+   <ul class="pure-menu-list">
+    <li class="pure-menu-item"><a href="#schedule" class="pure-menu-link">Schedule</a></li>
+    <li class="pure-menu-item"><a href="#core-courses" class="pure-menu-link">Courses</a></li>
+    <li class="pure-menu-item"><a href="#lightning-talks" class="pure-menu-link">Lightning talks</a></li>
+    <li class="pure-menu-item"><a href="#evening-activities-and-excursion" class="pure-menu-link">Social activities</a></li>
+    <li class="pure-menu-item"><a href="#travel-and-accommodation" class="pure-menu-link">Travel</a></li>
+    <li class="pure-menu-item"><a href="#sponsors" class="pure-menu-link">Sponsors</a></li>
+    <li class="pure-menu-item"><a href="#further-information" class="pure-menu-link">Contact</a></li>
+   </ul>
+  </div>
+ </div>
+</div>
+<script>
+      (function (window, document) {
+      var menu = document.getElementById('menu'),
+          rollback,
+          WINDOW_CHANGE_EVENT = ('onorientationchange' in window) ? 'orientationchange':'resize';
+
+      function toggleHorizontal() {
+          menu.classList.remove('closing');
+          [].forEach.call(
+              document.getElementById('menu').querySelectorAll('.custom-can-transform'),
+              function(el){
+                  el.classList.toggle('pure-menu-horizontal');
+              }
+          );
+      };
+
+      function toggleMenu() {
+          // set timeout so that the panel has a chance to roll up
+          // before the menu switches states
+          if (menu.classList.contains('open')) {
+              menu.classList.add('closing');
+              rollBack = setTimeout(toggleHorizontal, 500);
+          }
+          else {
+              if (menu.classList.contains('closing')) {
+                  clearTimeout(rollBack);
+              } else {
+                  toggleHorizontal();
+              }
+          }
+          menu.classList.toggle('open');
+          document.getElementById('toggle').classList.toggle('x');
+      };
+
+      function closeMenu() {
+          if (menu.classList.contains('open')) {
+              toggleMenu();
+          }
+      }
+
+      document.getElementById('toggle').addEventListener('click', function (e) {
+          toggleMenu();
+          e.preventDefault();
+      });
+
+      window.addEventListener(WINDOW_CHANGE_EVENT, closeMenu);
+      })(this, this.document);
+</script>
+
+<!--
+<div class="custom-menu-wrapper">
+ <div class="pure-menu custom-menu custom-menu-top">
+  <a href="#" class="pure-menu-heading custom-menu-brand"></a>
+  <a href="#" class="custom-menu-toggle" id="toggle"><s class="bar"></s><s class="bar"></s></a>
+</div>
+<div class="pure-menu pure-menu-horizontal pure-menu-scrollable custom-menu custom-menu-bottom custom-menu-tucked" id="tuckedMenu">
+ <div class="custom-menu-screen"></div>
+  <ul class="pure-menu-list">
+   <li class="pure-menu-item"><a href="#schedule" class="pure-menu-link">Schedule</a></li>
+   <li class="pure-menu-item"><a href="#core-courses" class="pure-menu-link">Courses</a></li>
+   <li class="pure-menu-item"><a href="#lightning-talks" class="pure-menu-link">Lightning talks</a></li>
+   <li class="pure-menu-item"><a href="#evening-activities-and-excursion" class="pure-menu-link">Social activities</a></li>
+   <li class="pure-menu-item"><a href="#travel-and-accommodation" class="pure-menu-link">Travel</a></li>
+   <li class="pure-menu-item"><a href="#sponsors" class="pure-menu-link">Sponsors</a></li>
+   <li class="pure-menu-item"><a href="#further-information" class="pure-menu-link">Contact</a></li>
+  </ul>
+ </div>
+</div>
+<script>
+ (function (window, document) {
+  document.getElementById('toggle').addEventListener('click', function (e) {
+   document.getElementById('tuckedMenu').classList.toggle('custom-menu-tucked');
+    document.getElementById('toggle').classList.toggle('x');
+ });
+})(this, this.document);
+</script>
+-->
