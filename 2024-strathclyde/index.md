@@ -354,7 +354,7 @@ Participants will need to have a background in computer science, mathematics or 
 
 ## Lightning talks
 
-We will have two lightning talk sessions at the end of Monday and Tuesday for students to give a quick introduction to their research. Contact <CIS_splv2024@groups.strath.ac.uk> if you would like to give a talk. More information and currently offered talks [here](lightning.md).
+We will have two lightning talk sessions at the end of Monday and Tuesday for students to give a quick introduction to their research. More information including the schedule and talk titles [here](lightning.md).
 
 ## Evening activities and excursion
 

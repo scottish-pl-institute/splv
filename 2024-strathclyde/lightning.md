@@ -9,9 +9,41 @@ custom_css: strath
 
 # Lightning talks (SPLV 2024)
 
-Lightning talks are your chance to give a quick introduction to your research and your interests. Contact <CIS_splv2024@groups.strath.ac.uk> before end of Friday 26 July if you would like to give a talk (first come first served), and please send us your slides in PDF format before Monday 29 July.
+Lightning talks are your chance to give a quick introduction to your research and your interests. Signing up to give a lightning talk is now closed. If you are giving a talk, please send your slides in PDF format to <CIS_splv2024@groups.strath.ac.uk> before Monday 29 July. Please plan for your talk to be less than five minutes long.
 
-So far, we have the following talks (in alphabetical order of first name):
+The schedule has been generated randomly.
+
+<div class="schedule">
+ <table>
+  <tr>
+    <th class="time"></th>
+    <th class="weekday">Monday</th>
+    <th class="weekday">Tuesday</th>
+  </tr>
+  <tr>
+    <td class="time">17:05</td>
+    <td style="background-color: #9F0162;">Szumi Xie</td>
+    <td style="background-color: #00FCCF;">Cass Alexandru</td>
+  </tr>
+  <tr>
+    <td class="time">17:10</td>
+    <td style="background-color: #00FCCF;">Ruben Turkenburg</td>
+    <td style="background-color: #9F0162;">Sean Watters</td>
+  </tr>
+  <tr>
+    <td class="time">17:15</td>
+    <td style="background-color: #9F0162;">Murdoch Gabbay</td>
+    <td style="background-color: #00FCCF;">Wenhao Tang</td>
+  </tr>
+  <tr>
+    <td class="time">17:20</td>
+    <td style="background-color: #00FCCF;">Ariadne Si Suo</td>
+    <td style="background-color: #9F0162;">Christopher Lam</td>
+  </tr>
+</table>
+</div>
+
+The titles are as follows:
 
 | Speaker          | Title                                                                       |
 | ---------------- | --------------------------------------------------------------------------- |
@@ -23,6 +55,3 @@ So far, we have the following talks (in alphabetical order of first name):
 | Sean Watters     | The modal mu-calculus, type-theoretically                                   |
 | Szumi Xie        | Second-order generalised algebraic theories                                 |
 | Wenhao Tang      | Modal Effect Types                                                          |
-
-Please plan for your talk to be less than five minutes long.
-The final schedule will be generated on Saturday 27 July using *randomness*.
