@@ -16,9 +16,8 @@ custom_css:
 {% include_relative menu.html %}
 
 This year, the [Scottish Programming Languages and Verification Summer School](..)
-will be held in Strathclyde.
-The event is organized by the [Computer and Information Sciences](https://www.strath.ac.uk/science/computerinformationsciences/)
-department at the [University of Strathclyde](https://www.strath.ac.uk/).
+will be held at the University of Strathclyde campus in the [McCance Building](https://maps.app.goo.gl/dRV3M6xkEbPh69id7), 16 Richmond Street, G1 1XQ.
+The event is organized by the [Mathematically Structured Programming group](https://msp.cis.strath.ac.uk) in the [Department of Computer and Information Sciences](https://www.strath.ac.uk/science/computerinformationsciences/).
 
 For announcements and updates concerning SPLV 2024, please subscribe to our [SPLS Zulip stream](https://spls.zulipchat.com/#narrow/stream/402733-splv-2024).
 
