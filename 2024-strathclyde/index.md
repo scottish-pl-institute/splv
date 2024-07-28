@@ -24,7 +24,7 @@ For announcements and updates concerning SPLV 2024, please subscribe to our [SPL
 
 ## Schedule
 
-All talks will take place on level 3 of the [McCance Building](https://maps.app.goo.gl/dRV3M6xkEbPh69id7). (Follow the signs from the building entrance at 16 Richmond street.)
+All talks will take place on level 3 of the [McCance Building](https://maps.app.goo.gl/dRV3M6xkEbPh69id7) (follow the signs from the building entrance at 16 Richmond street).
 
 <div class="schedule">
  <table>
