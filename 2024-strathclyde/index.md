@@ -226,8 +226,11 @@ Our guest lecture series opens a window to a related field.
 
   </details>
 
+Unfortunately our original invited course had to be cancelled due to
+Covid, and was replaced by the course above.
+
 <details markdown="1">
-<summary>Cancelled</summary>
+<summary>Cancelled course details</summary>
 **A few ideas from distributed systems for PL folk**<img class="avatar" src="assets/lindsey_kuper.jpg" />
 : **Invited Lecturer:** [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)
 : <details open>
@@ -242,7 +245,7 @@ Our guest lecture series opens a window to a related field.
     excursion into choreographic programming.  No background in distributed
     systems is necessary, only an open mind.
   </details>
-: <details>
+: <details open>
     <summary>Bio</summary>
     Lindsey Kuper is an Assistant Professor at the University of California,
     Santa Cruz.  She works on programming-language-based approaches to building
