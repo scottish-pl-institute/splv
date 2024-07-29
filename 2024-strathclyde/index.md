@@ -218,6 +218,8 @@ These required lectures cover foundational knowledge.
 Our guest lecture series opens a window to a related field.
 
 
+<details markdown="1">
+<summary>Cancelled</summary>
 **A few ideas from distributed systems for PL folk**<img class="avatar" src="assets/lindsey_kuper.jpg" />
 : **Invited Lecturer:** [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)
 : <details open>
@@ -248,7 +250,7 @@ Our guest lecture series opens a window to a related field.
     Research Award (2019), and received her Ph.D. in computer science in 2015
     from Indiana University.
   </details>
-
+</details>
 
 ## Specialised Courses
 

@@ -138,7 +138,7 @@ summary {
 }
 .invited::before {
   color: white;
-  content: "Lindsey";
+  content: "Cancelled";
 }
 .registration {
   background-color: lightyellow;
