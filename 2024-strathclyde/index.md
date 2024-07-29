@@ -217,6 +217,12 @@ These required lectures cover foundational knowledge.
 
 Our guest lecture series opens a window to a related field.
 
+**Introduction to Separation Logic**<img class="avatar" src="assets/placeholder.png" />
+: **Invited Lecturer:** [Jean-Marie Madiot](https://madiot.fr/)
+: <details open>
+    <summary>Abstract</summary>
+
+  </details>
 
 <details markdown="1">
 <summary>Cancelled</summary>
