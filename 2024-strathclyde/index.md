@@ -173,6 +173,8 @@ These required lectures cover foundational knowledge.
 
   **Category Theory**<img class="avatar" src="assets/chris_heunen.jpg" />
   : **Lecturer:** [Chris Heunen](https://homepages.inf.ed.ac.uk/cheunen/)
+
+    **Slides:** [Monday](assets/slides/chris-monday.pdf)
   : <details open>
     <summary>Abstract</summary>
       Category theory is a powerful way to describe objects only in terms of how they interact &mdash;
