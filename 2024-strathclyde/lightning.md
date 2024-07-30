@@ -48,10 +48,10 @@ The titles are as follows:
 | Speaker          | Title                                                                       |
 | ---------------- | --------------------------------------------------------------------------- |
 | Ariadne Si Suo   | Towards a denotational model of mode systems                                |
-| Cass Alexandru   | Intrinsically correct sorting using bialgebraic semantics                   |
-| Christopher Lam  | Correctly Compiling Proofs About Programs Without Proving Compilers Correct |
+| Cass Alexandru   | Intrinsically correct sorting using bialgebraic semantics ([slides](assets/lightning/monday/alexandru.pdf)) |
+| Christopher Lam  | Correctly Compiling Proofs About Programs Without Proving Compilers Correct ([slides](assets/lightning/monday/lam.pdf)) |
 | Murdoch Gabbay   | Polynomial semantics for FOL ([slides](assets/lightning/monday/gabbay.pdf)) |
 | Ruben Turkenburg | Proving Behavioural Apartness ([slides](assets/lightning/monday/turkenburg.pdf)) |
-| Sean Watters     | The modal mu-calculus, type-theoretically                                   |
+| Sean Watters     | The modal mu-calculus, type-theoretically ([slides](assets/lightning/monday/watters.pdf)) |
 | Szumi Xie        | Second-order generalised algebraic theories ([slides](assets/lightning/monday/xie.pdf)) |
-| Wenhao Tang      | Modal Effect Types                                                          |
+| Wenhao Tang      | Modal Effect Types ([slides](assets/lightning/monday/tang.pdf)) |
