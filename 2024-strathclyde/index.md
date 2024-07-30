@@ -6,12 +6,13 @@ custom_css:
  - pure-min
  - grids-responsive-min
 
-speciala: Vikraman | Andrés
-specialb: Bob | Sam
-specialc: Kathrin | Jules
-core1: Conor
-core2: Chris
-invited: Jean-Marie
+speciala: Vikraman&nbsp;<sup>MC319</sup> | Andrés&nbsp;<sup>MC301</sup>
+specialb: Bob&nbsp;<sup>MC301</sup> | Sam&nbsp;<sup>MC319</sup>
+specialc: Kathrin&nbsp;<sup>MC301</sup> | Jules&nbsp;<sup>MC319</sup>
+core1: Conor&nbsp;<sup>MC301</sup>
+core2: Chris&nbsp;<sup>MC301</sup>
+invited: Jean-Marie&nbsp;<sup>MC301</sup>
+lightning: <a href="lightning.html">Lightning</a>
 ---
 
 <img src="assets/strath_fullcolour.jpg" style="float:right; max-width:15%" alt="University of Strathclyde logo" />
@@ -32,6 +33,7 @@ For announcements and updates concerning SPLV 2024, please subscribe to our [SPL
 ## Schedule
 
 All talks will take place on level 3 of the [McCance Building](https://maps.app.goo.gl/dRV3M6xkEbPh69id7) (follow the signs from the building entrance at 16 Richmond street).
+The invited and core courses will take place in room MC301. The specialised courses will take place in rooms MC301 and MC319.
 
 <div class="schedule">
  <table>
@@ -138,8 +140,8 @@ All talks will take place on level 3 of the [McCance Building](https://maps.app.
   </tr>
   <tr>
     <td class="time">17:00</td>
-    <td class="lightning"></td>
-    <td class="lightning"></td>
+    <td class="lightning">{{page.lightning}}</td>
+    <td class="lightning">{{page.lightning}}</td>
     <td rowspan=8 class="freetime"></td>
   </tr>
   <tr>

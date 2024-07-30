@@ -31,6 +31,10 @@
   width: 100%;
 }
 
+.schedule sup {
+  font-size: 8pt;
+}
+
 .weekday {
   width: 18%;
 }
@@ -108,8 +112,8 @@ summary {
 .lightning {
   background-color: #FF6E3A;
 }
-.lightning::before {
-  content: "Lightning";
+.lightning a {
+  color: white;
 }
 .lightning-schedule-a {
     background-color: #9F0162;
