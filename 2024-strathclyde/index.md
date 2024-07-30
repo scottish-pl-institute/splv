@@ -5,6 +5,13 @@ custom_css:
  - strath
  - pure-min
  - grids-responsive-min
+
+speciala: Vikraman | Andrés
+specialb: Bob | Sam
+specialc: Kathrin | Jules
+core1: Conor
+core2: Chris
+invited: Jean-Marie
 ---
 
 <img src="assets/strath_fullcolour.jpg" style="float:right; max-width:15%" alt="University of Strathclyde logo" />
@@ -46,39 +53,39 @@ All talks will take place on level 3 of the [McCance Building](https://maps.app.
   </tr>
   <tr>
     <td class="time">09:00</td>
-    <td rowspan=3 class="core1"></td>
-    <td rowspan=2 class="core2"></td>
-    <td rowspan=2 class="speciala"></td>
-    <td rowspan=2 class="specialb"></td>
+    <td rowspan=3 class="core1">{{page.core1}}</td>
+    <td rowspan=2 class="core2">{{page.core2}}</td>
+    <td rowspan=2 class="speciala">{{page.speciala}}</td>
+    <td rowspan=2 class="specialb">{{page.specialb}}</td>
   </tr>
   <tr>
     <td class="time">09:30</td>
   </tr>
   <tr>
     <td class="time">10:00</td>
-    <td rowspan=2 class="core1"></td>
+    <td rowspan=2 class="core1">{{page.core1}}</td>
     <td class="breakfast"></td>
-    <td rowspan=2 class="specialc"></td>
-    <td rowspan=2 class="speciala"></td>
+    <td rowspan=2 class="specialc">{{page.specialc}}</td>
+    <td rowspan=2 class="speciala">{{page.speciala}}</td>
   </tr>
   <tr>
     <td class="time">10:30</td>
     <td class="coffee"></td>
-    <td rowspan=2 class="specialb"></td>
+    <td rowspan=2 class="specialb">{{page.specialb}}</td>
   </tr>
   <tr>
     <td class="time">11:00</td>
-    <td rowspan=3 class="core2"></td>
+    <td rowspan=3 class="core2">{{page.core2}}</td>
     <td class="coffee"></td>
     <td class="coffee"></td>
     <td class="coffee"></td>
   </tr>
   <tr>
     <td class="time">11:30</td>
-    <td rowspan=2 class="invited"></td>
-    <td rowspan=2 class="invited"></td>
-    <td rowspan=2 class="invited"></td>
-    <td rowspan=2 class="invited"></td>
+    <td rowspan=2 class="invited">{{page.invited}}</td>
+    <td rowspan=2 class="invited">{{page.invited}}</td>
+    <td rowspan=2 class="invited">{{page.invited}}</td>
+    <td rowspan=2 class="invited">{{page.invited}}</td>
   </tr>
   <tr>
     <td class="time">12:00</td>
@@ -96,18 +103,18 @@ All talks will take place on level 3 of the [McCance Building](https://maps.app.
   </tr>
   <tr>
     <td class="time">13:30</td>
-    <td rowspan=3 class="core1"></td>
-    <td rowspan=2 class="speciala"></td>
-    <td rowspan=2 class="specialb"></td>
-    <td rowspan=2 class="specialc"></td>
+    <td rowspan=3 class="core1">{{page.core1}}</td>
+    <td rowspan=2 class="speciala">{{page.speciala}}</td>
+    <td rowspan=2 class="specialb">{{page.specialb}}</td>
+    <td rowspan=2 class="specialc">{{page.specialc}}</td>
   </tr>
   <tr>
     <td class="time">14:00</td>
   </tr>
   <tr>
     <td class="time">14:30</td>
-    <td rowspan=2 class="specialb"></td>
-    <td rowspan=2 class="specialc"></td>
+    <td rowspan=2 class="specialb">{{page.specialb}}</td>
+    <td rowspan=2 class="specialc">{{page.specialc}}</td>
     <td class="farewell"></td>
   </tr>
   <tr>
@@ -117,14 +124,14 @@ All talks will take place on level 3 of the [McCance Building](https://maps.app.
   </tr>
   <tr>
     <td class="time">15:30</td>
-    <td rowspan=3 class="core2"></td>
+    <td rowspan=3 class="core2">{{page.core2}}</td>
     <td class="coffee"></td>
     <td class="coffee"></td>
   </tr>
   <tr>
     <td class="time">16:00</td>
-    <td rowspan=2 class="specialc"></td>
-    <td rowspan=2 class="speciala"></td>
+    <td rowspan=2 class="specialc">{{page.specialc}}</td>
+    <td rowspan=2 class="speciala">{{page.speciala}}</td>
   </tr>
   <tr>
     <td class="time">16:30</td>

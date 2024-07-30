@@ -88,37 +88,22 @@ summary {
   width: 10%;
 }
 .core1 {
-  background-color: #9F0162;
-}
-.core1::before {
   color: white;
-  content: "Conor";
+  background-color: #9F0162;
 }
 .core2 {
   background-color: #00FCCF;
-}
-.core2::before {
-  content: "Chris";
 }
 .speciala {
   color: white;
   background-color: #FF5AAF;
 }
-.speciala::before {
-  content: "Vikraman | Andrés";
-}
 .specialb {
   background-color: #FFC33B;
-}
-.specialb::before {
-  content: "Bob | Sam";
 }
 .specialc {
   color: white;
   background-color: #008DF9;
-}
-.specialc::before {
-  content: "Kathrin | Jules";
 }
 .lightning {
   background-color: #FF6E3A;
@@ -134,11 +119,8 @@ summary {
     background-color: #00FCCF;
 }
 .invited {
-  background-color: #E20134;
-}
-.invited::before {
   color: white;
-  content: "Jean-Marie";
+  background-color: #E20134;
 }
 .registration {
   background-color: lightyellow;
