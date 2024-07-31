@@ -199,6 +199,8 @@ These required lectures cover foundational knowledge.
 
   **Type Theory**<img class="avatar" src="assets/conor_mcbride.jpg" />
   : **Lecturer:** [Conor Mc Bride](https://personal.cis.strath.ac.uk/conor.mcbride/)
+
+    **Slides:** [Document camera scans](assets/slides/conor.pdf), [Agda code](https://github.com/pigworker/TypesWhoSayNi/tree/master/spls)
   : <details open>
     <summary>Abstract</summary>
       What makes type theories tick? I intend these lectures to communicate an approach to the
@@ -230,6 +232,8 @@ Our guest lecture series opens a window to a related field.
 
 **Introduction to Separation Logic**<img class="avatar" src="assets/placeholder.png" />
 : **Invited Lecturer:** [Jean-Marie Madiot](https://madiot.fr/)
+
+  **Slides:** [Tuesday](assets/slides/jean-marie-1.pdf)
 : <details open>
     <summary>Abstract</summary>
 
@@ -332,6 +336,8 @@ The specialised courses are offered as two tracks running in parallel.
 
 **Protocol Verification**<img class="avatar" src="assets/andres_goens.png" />
 : **Lecturer:** [Andrés Goens](https://goens.org/)
+
+  **Slides:** [Tuesday (still with some typos)](assets/slides/andres-1.pdf)
 : <details open>
     <summary>Abstract</summary>
     Protocols are central to the functioning of many crucial systems. From
