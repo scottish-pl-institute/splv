@@ -297,7 +297,7 @@ The specialised courses are offered as two tracks running in parallel.
 **Type Theory & Implicit Complexity**<img class="avatar" src="assets/bob_atkey.jpeg" />
 : **Lecturer:** [Bob Atkey](https://bentnib.org/)
 
-  **Slides:** [Tuesday](assets/slides/bob-1.pdf), [Wednesday](assets/slides/bob-2.pdf)
+  **Slides:** [Tuesday](assets/slides/bob-1.pdf), [Wednesday](assets/slides/bob-2.pdf), [Thursday](assets/slides/bob-3.pdf)
 : <details open>
     <summary>Abstract</summary>
     Implicit Computational Complexity is concerned with the
