@@ -1,0 +1,203 @@
+/* Using 12-color palette for deuteranopia color blindness */
+/* http://mkweb.bcgsc.ca/colorblind/palettes.mhtml */
+
+.announcement {
+    font-size: 24pt;
+    font-weight: bold;
+    color:red;
+    text-align: center
+}
+
+.logos {
+    display: grid;
+    align-items: center;
+    gap: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+}
+.logos img {
+    width:220px;
+    padding:25px;
+}
+
+.avatar {
+  float:right;
+  vertical-align: middle;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+
+.schedule table {
+  width: 100%;
+}
+
+.schedule sup {
+  font-size: 8pt;
+}
+
+.weekday {
+  width: 18%;
+}
+
+.schedule td {
+  margin: auto;
+  text-align: center;
+  font-weight: bold;
+}
+
+.schedule td:first-child {
+  width: 10%;
+}
+
+.sponsorship table {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.detail {
+    text-align: center;
+}
+
+.package {
+    margin: 1em;
+    padding-left: 2em;
+    text-align: left;
+}
+
+.platinum {
+    background-color: #E5E4E2;
+    font-weight: bold;
+}
+
+.gold {
+  background-color: #FFD700;
+    font-weight: bold;
+}
+
+.silver {
+  background-color: #C0C0C0;
+    font-weight: bold;
+}
+
+.bronze {
+    background-color: #8C7853;
+    font-weight: bold;
+}
+
+summary {
+  font-weight: bold;
+}
+.time {
+  width: 10%;
+}
+.core1 {
+  color: white;
+  background-color: #9F0162;
+}
+.core2 {
+  background-color: #00FCCF;
+}
+.speciala {
+  color: white;
+  background-color: #FF5AAF;
+}
+.specialb {
+  background-color: #FFC33B;
+}
+.specialc {
+  color: white;
+  background-color: #008DF9;
+}
+.lightning {
+  background-color: #FF6E3A;
+}
+.lightning a {
+  color: white;
+}
+.lightning-schedule-a {
+    background-color: #9F0162;
+    color: white;
+}
+.lightning-schedule-b {
+    background-color: #00FCCF;
+}
+.invited {
+  color: white;
+  background-color: #E20134;
+}
+.registration {
+  background-color: lightyellow;
+}
+.registration::before {
+  content: "Breakfast | Registration";
+}
+.breakfast {
+  background-color: lightyellow;
+}
+.breakfast::before {
+  content: "Breakfast";
+}
+.coffee {
+  background-color: lightyellow;
+}
+.coffee::before {
+  content: "Coffee";
+}
+.lunch {
+  background-color: lightyellow;
+}
+.lunch::before {
+  content: "Lunch";
+}
+.dinner {
+  background-color: lightyellow;
+}
+.dinner::before {
+  content: "Dinner";
+}
+.freetime {
+  background-color: #FFFFFF;
+}
+.social {
+  background-color: #009F81;
+}
+.social::before {
+  content: "Social";
+}
+.excursion {
+  background-color: #009F81;
+}
+.excursion::before {
+  content: "Excursion";
+}
+.farewell {
+  background-color: #FFFFFF;
+}
+.farewell::before {
+  content: "Farewell";
+}
+
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  column-gap: 5%;
+}
+
+@media (max-width: 800px) {
+  .flex-container {
+    flex-direction: column;
+  }
+}
+
+.flex-element {
+  width: 47.5%;
+  text-align: justify;
+}
+
+@media (max-width: 800px) {
+  .flex-element {
+    width: 100%;
+  }
+}
