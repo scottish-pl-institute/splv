@@ -236,7 +236,15 @@ Our guest lecture series opens a window to a related field.
   **Slides:** [Tuesday](assets/slides/jean-marie-1.pdf)
 : <details open>
     <summary>Abstract</summary>
-
+    Separation Logic is a program logic for reasoning on shared mutable data structures
+    that is also robust enough to be used in the verification of real programming
+    languages. These lectures are intended to be a gentle but precise introduction
+    to Hoare logic, weakest preconditions, then separation logic operators and
+    representation predicates for lists and more higher-order data structures.
+    We will see how to reason with and without sharing, garbage collection,
+    higher-order functions, resources, parallelism and concurrency, and effect handlers.
+    I will also give you a taste of the concurrent separation logic framework Iris,
+    and will make a few demos.
   </details>
 
 Unfortunately our original invited course had to be cancelled due to
