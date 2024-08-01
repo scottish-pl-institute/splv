@@ -27,6 +27,10 @@ all SPLV events and activities operate under the [following Code of Conduct](COD
 
 # Current and Previous Summer Schools:
 
+## Future Edition
+
+* [2025 edition in Edinburgh](2025-edinburgh)
+
 ## Current Edition
 
 * [2024 edition in Strathclyde](2024-strathclyde)
