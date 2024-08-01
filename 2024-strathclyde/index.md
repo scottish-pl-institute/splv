@@ -363,7 +363,7 @@ The specialised courses are offered as two tracks running in parallel.
 **Effects and Handlers**<img class="avatar" src="assets/sam_lindley.jpg" />
 : **Lecturer:** [Sam Lindley](https://homepages.inf.ed.ac.uk/slindley/)
 
-  **Slides:** [Tuesday](assets/slides/sam-1.pdf), [Wednesday](assets/slides/sam-2.pdf)
+  **Slides:** [Tuesday](assets/slides/sam-1.pdf), [Wednesday and Thursday](assets/slides/sam-2.pdf)
 : <details open>
     <summary>Abstract</summary>
       Effect handlers allow programmers to define, customise, and compose a
