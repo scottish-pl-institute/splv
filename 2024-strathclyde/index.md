@@ -330,6 +330,8 @@ The specialised courses are offered as two tracks running in parallel.
 
 **Category Theory for Semantics**<img class="avatar" src="assets/vikraman_choudhury.jpg" />
 : **Lecturer:** [Vikraman Choudhury](https://vikraman.org/)
+
+  **Slides:** [Friday](assets/slides/vikraman-4.pdf) (lecture notes to come)
 : <details open>
     <summary>Abstract</summary>
       A programming language is a very exotic object: it provides a vocabulary
