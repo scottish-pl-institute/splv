@@ -351,7 +351,7 @@ The specialised courses are offered as two tracks running in parallel.
 **Protocol Verification**<img class="avatar" src="assets/andres_goens.png" />
 : **Lecturer:** [Andrés Goens](https://goens.org/)
 
-  **Slides:** [Tuesday (still with some typos)](assets/slides/andres-1.pdf)
+  **Slides:** [Combined](assets/slides/andres.pdf)
 : <details open>
     <summary>Abstract</summary>
     Protocols are central to the functioning of many crucial systems. From
