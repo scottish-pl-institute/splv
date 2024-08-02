@@ -63,10 +63,6 @@ TBD
 
 TBD
 
-## Covid mitigation
-
-If you can, please take a Covid test before attending the school, and obviously do not attend if you are not feeling well. Feel free to wear a mask during lectures, if you want -- some FFP2 masks will be available for anyone that wants them.
-
 ## Travel and Accommodation
 
 TBD
