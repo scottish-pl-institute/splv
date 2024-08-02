@@ -233,7 +233,7 @@ Our guest lecture series opens a window to a related field.
 **Introduction to Separation Logic**<img class="avatar" src="assets/placeholder.png" />
 : **Invited Lecturer:** [Jean-Marie Madiot](https://madiot.fr/)
 
-  **Slides:** [Combined (last updated: Friday)](assets/slides/jean-marie.pdf)
+  **Slides:** [Combined](assets/slides/jean-marie.pdf)
 : <details open>
     <summary>Abstract</summary>
     Separation Logic is a program logic for reasoning on shared mutable data structures
