@@ -314,6 +314,8 @@ The specialised courses are offered as two tracks running in parallel.
 
 **Mechanization of Binders**<img class="avatar" src="assets/kathrin_stark.jpg" />
 : **Lecturer:** [Kathrin Stark](https://www.k-stark.de/)
+
+  **Slides:** [Combined](assets/slides/kathrin.pdf)
 : <details open>
     <summary>Abstract</summary>
     Binders are ubiquitous when mechanising results about programming languages.
