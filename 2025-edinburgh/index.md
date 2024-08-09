@@ -38,7 +38,8 @@ These required lectures cover foundational knowledge.
 
 Our guest lecture series opens a window to a related field.
 
-**Iris** <img class="avatar" src="assets/robbert_krebbers.png" />
+**Program verification using concurrent separation logic**
+<img class="avatar" src="assets/robbert_krebbers.png" />
 : **Invited Lecturer:** [Robbert Krebbers](https://robbertkrebbers.nl/)
 : <details open>
     <summary>Abstract</summary>
