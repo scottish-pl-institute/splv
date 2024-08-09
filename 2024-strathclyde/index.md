@@ -380,6 +380,8 @@ The specialised courses are offered as two tracks running in parallel.
 
 **Applied Category Theory**<img class="avatar" src="assets/jules_hedges.jpg" />
 : **Lecturer:** [Jules Hedges](https://julesh.com/)
+
+  **Slides:** [Tuesday](assets/slides/jules-1.pdf), [Thursday AM](assets/slides/jules-2.pdf), [Thursday PM](assets/slides/jules-3.pdf)
 : <details open>
     <summary>Abstract</summary>
     This course will be about symmetric monoidal categories and what they have to tell us about computation and systems. I plan the topics of my 4 lectures to be:
