@@ -84,7 +84,7 @@ TBD
 
 The principal organisers of SPLV25 are:
 
-* Malin Altenmütter <malin.altenmuller@ed.ac.uk>
+* Malin Altenmüller <malin.altenmuller@ed.ac.uk>
 * Ohad Kammar <ohad.kammar@ed.ac.uk>
 * Sam Lindley <sam.lindley@ed.ac.uk>
 * Nachi Valliappan <nachi.v@ed.ac.uk>
