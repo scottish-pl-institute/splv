@@ -7,11 +7,11 @@ custom_css:
 
 <img src="assets/edinburgh_fullcolour.png" style="float:right; max-width:15%" alt="University of Edinburgh logo" />
 
-# SPLV25: Scottish Programming Languages and Verification Summer School, 2025
+# SPLV25: Scottish Programming Languages and Verification Summer School 2025
 
 ## University of Edinburgh, Edinburgh, UK — July (exact date TBD)
 
-## Core Courses
+<!-- ## Core Courses
 
 These required lectures cover foundational knowledge.
 
@@ -32,7 +32,7 @@ These required lectures cover foundational knowledge.
     </details>
   {: .flex-element }
 </div>
-
+-->
 
 ## Invited Course
 
@@ -41,21 +41,34 @@ Our guest lecture series opens a window to a related field.
 **Program verification using concurrent separation logic**
 <img class="avatar" src="assets/robbert_krebbers.png" />
 : **Invited Lecturer:** [Robbert Krebbers](https://robbertkrebbers.nl/)
+<!--
 : <details open>
     <summary>Abstract</summary>
     TBD
     </details>
+-->
 
+## Courses
+
+In addition to the invited course, SPLV25 will offer core courses covering
+foundational knowledge as well as specialised courses. Confirmed details will
+appear here.
+
+<!--
 ## Specialised Courses
 
 TBD
-
+-->
 ## Prerequisites
 
-The school is aimed at PhD students in programming languages, verification and related areas.
-Researchers and practitioners are very welcome, as are strong undergraduate and masters students with the support of a supervisor.
-Participants will need to have a background in computer science, mathematics or a related discipline, and have basic familiarity with (functional) programming and logic.
+The school is aimed at PhD students in programming languages, verification and
+related areas. Researchers and practitioners are very welcome, as are strong
+undergraduate and masters students with the support of a supervisor.
+Participants will need to have a background in computer science, mathematics or
+a related discipline, and have basic familiarity with (functional) programming
+and logic.
 
+<!--
 ## Lightning talks
 
 TBD
@@ -75,12 +88,19 @@ TBD
 ## Registration
 
 TBD
+-->
+
+## Sponsorship
+
+We are currently seeking sponsorship for the school. If your company is
+interested in supporting SPLV25, please get in touch with the organisers.
 
 ## Further Information
 
-If you have any further questions please get in contact with the local organising team at:
+If you have any questions please get in contact with the local organising team
+at:
 
-TBD
+<splv-2025-organisers-group@uoe.onmicrosoft.com>
 
 The principal organisers of SPLV25 are:
 
