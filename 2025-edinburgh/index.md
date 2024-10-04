@@ -41,12 +41,11 @@ Our guest lecture series opens a window to a related field.
 **Program verification using concurrent separation logic**
 <img class="avatar" src="assets/robbert_krebbers.png" />
 : **Invited Lecturer:** [Robbert Krebbers](https://robbertkrebbers.nl/)
-<!--
+
 : <details open>
     <summary>Abstract</summary>
     TBD
     </details>
--->
 
 ## Courses
 
