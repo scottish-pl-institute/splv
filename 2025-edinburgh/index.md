@@ -9,7 +9,7 @@ custom_css:
 
 # SPLV25: Scottish Programming Languages and Verification Summer School 2025
 
-## University of Edinburgh, Edinburgh, UK — July (exact date TBD)
+## University of Edinburgh - 21st to 25th July
 
 <!-- ## Core Courses
 
@@ -42,11 +42,12 @@ Our guest lecture series opens a window to a related field.
 <img class="avatar" src="assets/robbert_krebbers.png" />
 : **Invited Lecturer:** [Robbert Krebbers](https://robbertkrebbers.nl/)
 
+<!--
 : <details open>
     <summary>Abstract</summary>
     TBD
     </details>
-
+--<
 ## Courses
 
 In addition to the invited course, SPLV25 will offer core courses covering
