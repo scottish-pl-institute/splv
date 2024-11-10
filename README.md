@@ -43,15 +43,11 @@ all SPLV events and activities operate under the [following Code of Conduct](COD
 * [2020 edition in (virtual) Edinburgh](https://www.macs.hw.ac.uk/splv/splv20/)
 * [2019 edition in Strathclyde](https://www.macs.hw.ac.uk/splv/splv19/)
 
-# Steering committee:
+# Steering committee
 
-* Ekaterina Komendantskaya (Heriot-Watt University)
-* Clemens Kupke (University of Strathclyde)
-* Susmit Sarkar (University of St Andrews)
+* James Cheney (The University of Edinburgh) --- Chair
 * Jeremy Singer (University of Glasgow)
-* James Cheney (University of Edinburgh)
-* Ohad Kammar (University of Edinburgh)
-
-## General publicity chair:
-
-* Alasdair Hill (Heriot-Watt University)
+* Rob Stewart (Heriot-Watt University)
+* Susmit Sarkar (University of St Andrews)
+* Guillaume Allais (University of Strathclyde)
+* Sam Lindley (The University of Edinburgh)
