@@ -29,14 +29,15 @@ all SPLV events and activities operate under the [following Code of Conduct](COD
 
 ## Future Edition
 
-* [2025 edition in Edinburgh](2025-edinburgh)
+* 2026 edition in Glasgow
 
 ## Current Edition
 
-* [2024 edition in Strathclyde](2024-strathclyde)
+* [2025 edition in Edinburgh](2025-edinburgh)
 
 ## Past Editions
 
+* [2024 edition in Strathclyde](2024-strathclyde)
 * [2023 edition in St Andrews](2023-st-andrews)
 * [2022 edition in Heriot-Watt](https://www.macs.hw.ac.uk/splv/splv-2022/)
 * [2021 edition in (virtual) Glasgow](https://www.macs.hw.ac.uk/splv/splv-2021/)
