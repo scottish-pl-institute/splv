@@ -73,6 +73,30 @@ Participants will need to have a background in computer science, mathematics or
 a related discipline, and have basic familiarity with (functional) programming
 and logic.
 
+## Funding Opportunities
+
+We are happy to be able to offer some financial support for attendees.
+
+# EuroProofNet
+
+Participants from Inclusiveness Target Countries* (ITC) can apply with
+EuroProofNet for funding towards travel and accommodation. The reimbursment
+rules can be found on the [EPN website](
+https://europroofnet.github.io/reimbursement-rules/). Please contact [Frédéric
+Blanqui](https://blanqui.gitlabpages.inria.fr/) to apply.
+
+
+(*) list of ITC countries: Albania, Armenia, Bosnia and Herzegovina, Bulgaria,
+Croatia, > Cyprus, Czech Republic, Estonia, Georgia, Greece, Hungary, Latvia, >
+Lithuania, Malta, Moldova, Montenegro, North Macedonia, Poland, > Portugal,
+Romania, Serbia, Slovakia, Slovenia, Turkey and Ukraine.
+
+
+# EDI Sponsorship
+
+We can offer financial support towards attending the School to members of
+underrepresented groups in our community, thanks to our sponsors.
+
 <!--
 ## Lightning talks
 
