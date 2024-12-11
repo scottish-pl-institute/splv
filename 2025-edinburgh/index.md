@@ -34,13 +34,11 @@ These required lectures cover foundational knowledge.
 </div>
 -->
 
-## Invited Course
-
-Our guest lecture series opens a window to a related field.
+## Guest Courses
 
 **Program verification using concurrent separation logic**
 <img class="avatar" src="assets/robbert_krebbers.png" />
-: **Invited Lecturer:** [Robbert Krebbers](https://robbertkrebbers.nl/)
+: **Guest Lecturer:** [Robbert Krebbers](https://robbertkrebbers.nl/)
 
 : <details closed>
     <summary>Abstract</summary>
@@ -50,19 +48,18 @@ Our guest lecture series opens a window to a related field.
 
 **A few ideas from distributed systems for PL folk**
 <img class="avatar" src="assets/lindsey_kuper.jpg" />
-: **Invited Lecturer:** [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)
+: **Guest Lecturer:** [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)
 
 : <details closed>
     <summary>Abstract</summary>
     TBD
     </details>
 
-
 ## Courses
 
-In addition to the invited course, SPLV25 will offer core courses covering
-foundational knowledge as well as specialised courses. Confirmed details will
-appear here.
+In addition to the guest courses, SPLV25 will offer core courses
+covering foundational knowledge as well as specialised courses
+covering more advanced topics. Details will appear here.
 
 <!--
 ## Specialised Courses
