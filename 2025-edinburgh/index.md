@@ -42,16 +42,21 @@ Our guest lecture series opens a window to a related field.
 <img class="avatar" src="assets/robbert_krebbers.png" />
 : **Invited Lecturer:** [Robbert Krebbers](https://robbertkrebbers.nl/)
 
-<!--
-: <details open>
+: <details closed>
     <summary>Abstract</summary>
     TBD
     </details>
--->
+
 
 **A few ideas from distributed systems for PL folk**
 <img class="avatar" src="assets/lindsey_kuper.jpg" />
 : **Invited Lecturer:** [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)
+
+: <details closed>
+    <summary>Abstract</summary>
+    TBD
+    </details>
+
 
 ## Courses
 
@@ -77,7 +82,7 @@ and logic.
 
 We are happy to be able to offer some financial support for attendees.
 
-# EuroProofNet
+**EuroProofNet:**
 
 Participants from Inclusiveness Target Countries* (ITC) can apply with
 EuroProofNet for funding towards travel and accommodation. The reimbursment
@@ -87,13 +92,11 @@ Blanqui](https://blanqui.gitlabpages.inria.fr/) to apply.
 
 
 (*) list of ITC countries: Albania, Armenia, Bosnia and Herzegovina, Bulgaria,
-Croatia, > Cyprus, Czech Republic, Estonia, Georgia, Greece, Hungary, Latvia, >
-Lithuania, Malta, Moldova, Montenegro, North Macedonia, Poland, > Portugal,
-Romania, Serbia, Slovakia, Slovenia, Turkey and Ukraine.
+Croatia, Cyprus, Czech Republic, Estonia, Georgia, Greece, Hungary, Latvia,
+Lithuania, Malta, Moldova, Montenegro, North Macedonia, Poland, Portugal,
+Romania, Serbia, Slovakia, Slovenia, Turkey, Ukraine.
 
-
-# EDI Sponsorship
-
+**EDI Sponsorship:**
 We can offer financial support towards attending the School to members of
 underrepresented groups in our community, thanks to our sponsors.
 
