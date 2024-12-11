@@ -47,7 +47,12 @@ Our guest lecture series opens a window to a related field.
     <summary>Abstract</summary>
     TBD
     </details>
---<
+-->
+
+**A few ideas from distributed systems for PL folk**
+<img class="avatar" src="assets/lindsey_kuper.png" />
+: **Invited Lecturer:** [Lindsey Kupers](https://users.soe.ucsc.edu/~lkuper/)
+
 ## Courses
 
 In addition to the invited course, SPLV25 will offer core courses covering
