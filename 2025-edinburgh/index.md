@@ -50,8 +50,8 @@ Our guest lecture series opens a window to a related field.
 -->
 
 **A few ideas from distributed systems for PL folk**
-<img class="avatar" src="assets/lindsey_kuper.png" />
-: **Invited Lecturer:** [Lindsey Kupers](https://users.soe.ucsc.edu/~lkuper/)
+<img class="avatar" src="assets/lindsey_kuper.jpg" />
+: **Invited Lecturer:** [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)
 
 ## Courses
 
