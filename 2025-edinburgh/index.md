@@ -72,7 +72,7 @@ covering more advanced topics.
     </details>
 
 **Concurrency theory**
-<img class="avatar" src="assets/placeholder.png" />
+<img class="avatar" src="assets/rob_van_glabbeek.jpg" />
 : **Lecturer:** [Rob van Glabbeek](http://theory.stanford.edu/~rvg/), University
   of Edinburgh
 
