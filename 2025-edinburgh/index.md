@@ -61,11 +61,69 @@ In addition to the guest courses, SPLV25 will offer core courses
 covering foundational knowledge as well as specialised courses
 covering more advanced topics. Details will appear here.
 
-<!--
-## Specialised Courses
+**Type theory**
+<img class="avatar" src="assets/fred_forsberg.jpg" />
+: **Lecturer:** [Fredrik Nordvall Forsberg](https://fredriknf.com/), University
+  of Strathclyde
 
-TBD
--->
+: <details closed>
+    <summary>Abstract</summary>
+    TBD
+    </details>
+
+**Concurrency theory**
+<img class="avatar" src="assets/rob_van_glabbeek.jpg" />
+: **Lecturer:** [Rob van Glabbeek](http://theory.stanford.edu/~rvg/), University
+  of Edinburgh
+
+: <details closed>
+    <summary>Abstract</summary>
+    TBD
+    </details>
+
+**Application programming with dependent types**
+<img class="avatar" src="assets/edwin_brady.jpeg" />
+: **Lecturer:** [Edwin Brady](https://www.type-driven.org.uk/edwinb/),
+  University of St Andrews
+
+: <details closed>
+    <summary>Abstract</summary>
+    TBD
+    </details>
+
+**Behavioural types**
+<img class="avatar" src="assets/simon_fowler.png" />
+: **Lecturer:** [Simon Fowler](https://simonjf.com/about/), University of
+  Glasgow
+
+: <details closed>
+    <summary>Abstract</summary>
+    TBD
+    </details>
+
+**Models, programs and bidirectional transformations**
+<img class="avatar" src="assets/perdita_stevens.jpg" />
+: **Lecturer:** [Perdita Stevens](https://perditastevens.com/), University of
+  Edinburgh
+
+: <details closed>
+    <summary>Abstract</summary>
+    TBD
+    </details>
+
+**Logical relations for program equivalence**
+<img class="avatar" src="assets/filip_sieczkowski.jpeg" />
+: **Lecturer:** [Filip Sieczkowski](https://fsieczkowski.github.io/),
+  Heriot-Watt University
+
+: <details closed>
+    <summary>Abstract</summary>
+    TBD
+    </details>
+
+
+
+
 ## Prerequisites
 
 The school is aimed at PhD students in programming languages, verification and
