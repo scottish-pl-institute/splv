@@ -59,7 +59,7 @@ These required lectures cover foundational knowledge.
 
 In addition to the guest courses, SPLV25 will offer core courses
 covering foundational knowledge as well as specialised courses
-covering more advanced topics. Details will appear here.
+covering more advanced topics.
 
 **Type theory**
 <img class="avatar" src="assets/fred_forsberg.jpg" />
