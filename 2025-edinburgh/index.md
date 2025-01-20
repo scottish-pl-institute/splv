@@ -82,7 +82,7 @@ covering more advanced topics.
     </details>
 
 **Application programming with dependent types**
-<img class="avatar" src="assets/edwin_brady.png" />
+<img class="avatar" src="assets/edwin_brady.jpeg" />
 : **Lecturer:** [Edwin Brady](https://www.type-driven.org.uk/edwinb/),
   University of St Andrews
 
@@ -102,7 +102,7 @@ covering more advanced topics.
     </details>
 
 **Models, programs and bidirectional transformations**
-<img class="avatar" src="assets/perdita_stevens.png" />
+<img class="avatar" src="assets/perdita_stevens.jpg" />
 : **Lecturer:** [Perdita Stevens](https://perditastevens.com/), University of
   Edinburgh
 
