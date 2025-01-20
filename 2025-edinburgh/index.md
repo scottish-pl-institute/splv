@@ -72,7 +72,7 @@ covering more advanced topics. Details will appear here.
     </details>
 
 **Concurrency theory**
-<img class="avatar" src="assets/rob_van_glabbeek.jpg" />
+<img class="avatar" src="assets/placeholder.png" />
 : **Lecturer:** [Rob van Glabbeek](http://theory.stanford.edu/~rvg/), University
   of Edinburgh
 
@@ -82,7 +82,7 @@ covering more advanced topics. Details will appear here.
     </details>
 
 **Application programming with dependent types**
-<img class="avatar" src="assets/edwin_brady.jpeg" />
+<img class="avatar" src="assets/edwin_brady.png" />
 : **Lecturer:** [Edwin Brady](https://www.type-driven.org.uk/edwinb/),
   University of St Andrews
 
@@ -102,7 +102,7 @@ covering more advanced topics. Details will appear here.
     </details>
 
 **Models, programs and bidirectional transformations**
-<img class="avatar" src="assets/perdita_stevens.jpg" />
+<img class="avatar" src="assets/perdita_stevens.png" />
 : **Lecturer:** [Perdita Stevens](https://perditastevens.com/), University of
   Edinburgh
 
@@ -112,7 +112,7 @@ covering more advanced topics. Details will appear here.
     </details>
 
 **Logical relations for program equivalence**
-<img class="avatar" src="assets/filip_sieczkowski.jpeg" />
+<img class="avatar" src="assets/filip_sieczkowski.png" />
 : **Lecturer:** [Filip Sieczkowski](https://fsieczkowski.github.io/),
   Heriot-Watt University
 
@@ -120,8 +120,6 @@ covering more advanced topics. Details will appear here.
     <summary>Abstract</summary>
     TBD
     </details>
-
-
 
 
 ## Prerequisites
