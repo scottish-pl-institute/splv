@@ -11,32 +11,17 @@ custom_css:
 
 ## University of Edinburgh - 21st to 25th July
 
-<!-- ## Core Courses
+This year, the [Scottish Programming Languages and Verification Summer
+School](https://spli.scot/splv/) will be held at The University of
+Edinburgh.
 
-These required lectures cover foundational knowledge.
+For announcements and updates concerning SPLV 2025, please subscribe
+to our [SPLS Zulip
+stream](https://spls.zulipchat.com/#narrow/stream/481612-splv-2025).
 
-<div class="flex-container" markdown="1">
-  **TBD**<img class="avatar" src="assets/placeholder.png" />
-  : **Lecturer:** TBD
-  : <details open>
-    <summary>Abstract</summary>
-    TBD
-    </details>
-  {: .flex-element }
+## Courses
 
-  **TBD**<img class="avatar" src="assets/placeholder.png" />
-  : **Lecturer:** TBD
-  : <details open>
-    <summary>Abstract</summary>
-    TBD
-    </details>
-  {: .flex-element }
-</div>
--->
-
-## Guest Courses
-
-**Program verification using concurrent separation logic**
+**Program verification using concurrent separation logic** (guest course)
 <img class="avatar" src="assets/robbert_krebbers.png" />
 : **Guest Lecturer:** [Robbert Krebbers](https://robbertkrebbers.nl/)
 
@@ -46,35 +31,9 @@ These required lectures cover foundational knowledge.
     </details>
 
 
-**A few ideas from distributed systems for PL folk**
+**A few ideas from distributed systems for PL folk** (guest course)
 <img class="avatar" src="assets/lindsey_kuper.jpg" />
 : **Guest Lecturer:** [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)
-
-: <details closed>
-    <summary>Abstract</summary>
-    TBD
-    </details>
-
-## Courses
-
-In addition to the guest courses, SPLV25 will offer core courses
-covering foundational knowledge as well as specialised courses
-covering more advanced topics.
-
-**Type theory**
-<img class="avatar" src="assets/fred_forsberg.jpg" />
-: **Lecturer:** [Fredrik Nordvall Forsberg](https://fredriknf.com/), University
-  of Strathclyde
-
-: <details closed>
-    <summary>Abstract</summary>
-    TBD
-    </details>
-
-**Concurrency theory**
-<img class="avatar" src="assets/rob_van_glabbeek.jpg" />
-: **Lecturer:** [Rob van Glabbeek](http://theory.stanford.edu/~rvg/), University
-  of Edinburgh
 
 : <details closed>
     <summary>Abstract</summary>
@@ -91,6 +50,16 @@ covering more advanced topics.
     TBD
     </details>
 
+**Type theory**
+<img class="avatar" src="assets/fred_forsberg.jpg" />
+: **Lecturer:** [Fredrik Nordvall Forsberg](https://fredriknf.com/), University
+  of Strathclyde
+
+: <details closed>
+    <summary>Abstract</summary>
+    TBD
+    </details>
+
 **Behavioural types**
 <img class="avatar" src="assets/simon_fowler.png" />
 : **Lecturer:** [Simon Fowler](https://simonjf.com/about/), University of
@@ -101,10 +70,10 @@ covering more advanced topics.
     TBD
     </details>
 
-**Models, programs and bidirectional transformations**
-<img class="avatar" src="assets/perdita_stevens.jpg" />
-: **Lecturer:** [Perdita Stevens](https://perditastevens.com/), University of
-  Edinburgh
+**Concurrency theory**
+<img class="avatar" src="assets/rob_van_glabbeek.jpg" />
+: **Lecturer:** [Rob van Glabbeek](http://theory.stanford.edu/~rvg/), University
+  of Edinburgh
 
 : <details closed>
     <summary>Abstract</summary>
@@ -121,6 +90,15 @@ covering more advanced topics.
     TBD
     </details>
 
+**Models, programs and bidirectional transformations**
+<img class="avatar" src="assets/perdita_stevens.jpg" />
+: **Lecturer:** [Perdita Stevens](https://perditastevens.com/), University of
+  Edinburgh
+
+: <details closed>
+    <summary>Abstract</summary>
+    TBD
+    </details>
 
 ## Prerequisites
 
