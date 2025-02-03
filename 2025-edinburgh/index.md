@@ -36,9 +36,18 @@ stream](https://spls.zulipchat.com/#narrow/stream/481612-splv-2025).
 : **Guest Lecturer:** [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)
 
 : <details closed>
-    <summary>Abstract</summary>
-    TBD
-    </details>
+	<summary>Abstract</summary>
+	TBD
+<!-- Fifteen years ago, when I was a new PhD student and suffering from an
+    advanced case of PL myopia, I foolishly ignored every other area of computer
+    science. It was only years later that I realized that distributed systems
+    had a lot to teach me. In these lectures, I'll fill you in on what I've
+    learned so far, so you won't be as foolish as I was. We'll start with the
+    very basics (what is a distributed system?) and work our way up to an
+    implementation of causal broadcast, then finish the week with a brief
+    excursion into choreographic programming. No background in distributed
+    systems is necessary, only an open mind. -->
+	</details>
 
 **Application programming with dependent types**
 <img class="avatar" src="assets/edwin_brady.jpeg" />
@@ -98,6 +107,18 @@ stream](https://spls.zulipchat.com/#narrow/stream/481612-splv-2025).
 : <details closed>
     <summary>Abstract</summary>
     TBD
+	<!-- Historically there has - surprisingly, perhaps - been something of a
+    gulf between the programming languages and software engineering communities,
+    which I will argue has been to the detriment of both. One of the many places
+    this shows up is in the fields' treatments of bidirectional transformations,
+    by which I mean, automated means of checking and restoring appropriate
+    notions of consistency between data sources. I will introduce this topic
+    from a software engineering perspective, which will necessitate introducing
+    modelling and model-driven engineering more generally. I will briefly wave
+    at the treatment of the topic in the functional programming community, via
+    optics. I will opine about some open problems and some things I think the
+    next generation of researchers should pay attention to, in order to narrow
+    rather than widen the gulf between PL and SE, to the benefit of both. -->
     </details>
 
 ## Prerequisites
@@ -129,7 +150,14 @@ Romania, Serbia, Slovakia, Slovenia, Turkey, Ukraine.
 
 **EDI Sponsorship:**
 We can offer financial support towards attending the School to members of
-underrepresented groups in our community, thanks to our sponsors.
+underrepresented groups in our community, thanks to our sponsors:
+
+<div class="logos">
+
+<a href="https://www.janestreet.com/"><img style="padding-bottom:6px;
+width:250px;" src="assets/logo_janest.svg" alt="Jane Street"/> </a>
+
+</div>
 
 <!--
 ## Lightning talks
@@ -156,15 +184,6 @@ TBD
 ## Sponsorship
 
 The summer school is generously supported by the following sponsors:
-
-### EDI Sponsors
-
-<div class="logos">
-
-<a href="https://www.janestreet.com/"><img style="padding-bottom:6px;
-width:250px;" src="assets/logo_janest.svg" alt="Jane Street"/> </a>
-
-</div>
 
 ### Gold
 
