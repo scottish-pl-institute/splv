@@ -155,8 +155,37 @@ TBD
 
 ## Sponsorship
 
-We are currently seeking sponsorship for the school. If your company is
-interested in supporting SPLV25, please get in touch with the organisers.
+The summer school is generously supported by the following sponsors:
+
+### EDI Sponsors
+
+<div class="logos">
+
+<a href="https://www.janestreet.com/"><img style="padding-bottom:6px;
+width:250px;" src="assets/logo_janest.svg" alt="Jane Street"/> </a>
+
+</div>
+
+### Gold
+
+<div class="logos">
+
+<a href="https://www.janestreet.com/"><img style="padding-bottom:6px;
+width:250px;" src="assets/logo_janest.svg" alt="Jane Street"/> </a>
+
+</div>
+
+### Bronze
+
+<div class="logos">
+
+<a href="https://tarides.com/"><img style="padding-bottom:6px; width:250px;"
+src="assets/logo_tarides.svg" alt="Tarides"/> </a>
+
+<a href="https://www.well-typed.com/"><img style="padding-bottom:6px;
+width:250px;" src="assets/logo_well-typed.svg" alt="Well-Typed"/> </a>
+
+</div>
 
 ## Further Information
 
