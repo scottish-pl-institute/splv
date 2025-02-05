@@ -130,7 +130,7 @@ Participants will need to have a background in computer science, mathematics or
 a related discipline, and have basic familiarity with (functional) programming
 and logic.
 
-## Funding Opportunities
+## Scholarship Opportunities
 
 We are happy to be able to offer some financial support for attendees.
 
@@ -182,7 +182,7 @@ width:180px;" src="assets/logo_well-typed.svg" alt="Well-Typed"/> </a>
 <div class="logos">
 
 <a href="https://europroofnet.github.io/"><img style="padding-bottom:6px;
-width:180px;" src="assets/logo_epn.png" alt="EuroProofNet"/> </a>
+width:200px;" src="assets/logo_epn.png" alt="EuroProofNet"/> </a>
 
 </div>
 
