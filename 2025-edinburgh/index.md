@@ -182,7 +182,7 @@ width:180px;" src="assets/logo_well-typed.svg" alt="Well-Typed"/> </a>
 <div class="logos">
 
 <a href="https://europroofnet.github.io/"><img style="padding-bottom:6px;
-width:70px;" src="assets/logo_epn.svg" alt="EuroProofNet"/> </a>
+width:180px;" src="assets/logo_epn.png" alt="EuroProofNet"/> </a>
 
 </div>
 
