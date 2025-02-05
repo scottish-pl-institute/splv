@@ -142,51 +142,21 @@ rules can be found on the [EPN website](
 https://europroofnet.github.io/reimbursement-rules/). Please contact [Frédéric
 Blanqui](https://blanqui.gitlabpages.inria.fr/) to apply.
 
-
 (*) list of ITC countries: Albania, Armenia, Bosnia and Herzegovina, Bulgaria,
 Croatia, Cyprus, Czech Republic, Estonia, Georgia, Greece, Hungary, Latvia,
 Lithuania, Malta, Moldova, Montenegro, North Macedonia, Poland, Portugal,
 Romania, Serbia, Slovakia, Slovenia, Turkey, Ukraine.
 
-**EDI Sponsorship:**
+**Support for PhD Students:**
 
-We can offer financial support towards attending the School to members of
-underrepresented groups in our community, thanks to our sponsors:
-
-<div class="logos">
-
-<a href="https://www.janestreet.com/"><img style="padding-bottom:6px;
-width:180px;" src="assets/logo_janest.svg" alt="Jane Street"/> </a>
-
-</div>
-
-<!--
-## Lightning talks
-
-TBD
-
-## Evening activities and excursion
-
-TBD
-
-## Travel and Accommodation
-
-TBD
-
-## Sponsors
-
-TBD
-
-## Registration
-
-TBD
--->
+We will be able to subsidise student participation. Details about scholarships
+will appear here.
 
 ## Sponsorship
 
 The summer school is generously supported by the following sponsors:
 
-### Gold
+### Gold & EDI Sponsor
 
 <div class="logos">
 
@@ -206,6 +176,16 @@ src="assets/logo_tarides.svg" alt="Tarides"/> </a>
 width:180px;" src="assets/logo_well-typed.svg" alt="Well-Typed"/> </a>
 
 </div>
+
+### EDI Sponsor
+
+<div class="logos">
+
+<a href="https://europroofnet.github.io/"><img style="padding-bottom:6px;
+width:90px;" src="assets/logo_epn.svg" alt="EuroProofNet"/> </a>
+
+</div>
+
 
 ## Further Information
 
