@@ -23,17 +23,18 @@ stream](https://spls.zulipchat.com/#narrow/stream/481612-splv-2025).
 
 **Program verification using concurrent separation logic** (guest course)
 <img class="avatar" src="assets/robbert_krebbers.png" />
-: **Guest Lecturer:** [Robbert Krebbers](https://robbertkrebbers.nl/)
+: **Guest Lecturer:** [Robbert Krebbers](https://robbertkrebbers.nl/), Radboud
+  University Nijmegen
 
 : <details closed>
     <summary>Abstract</summary>
     TBD
     </details>
 
-
 **A few ideas from distributed systems for PL folk** (guest course)
 <img class="avatar" src="assets/lindsey_kuper.jpg" />
-: **Guest Lecturer:** [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)
+: **Guest Lecturer:** [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/),
+  University of California, Santa Cruz
 
 : <details closed>
 	<summary>Abstract</summary>
