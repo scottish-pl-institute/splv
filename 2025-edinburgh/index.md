@@ -149,13 +149,14 @@ Lithuania, Malta, Moldova, Montenegro, North Macedonia, Poland, Portugal,
 Romania, Serbia, Slovakia, Slovenia, Turkey, Ukraine.
 
 **EDI Sponsorship:**
+
 We can offer financial support towards attending the School to members of
 underrepresented groups in our community, thanks to our sponsors:
 
 <div class="logos">
 
 <a href="https://www.janestreet.com/"><img style="padding-bottom:6px;
-width:250px;" src="assets/logo_janest.svg" alt="Jane Street"/> </a>
+width:180px;" src="assets/logo_janest.svg" alt="Jane Street"/> </a>
 
 </div>
 
@@ -190,7 +191,7 @@ The summer school is generously supported by the following sponsors:
 <div class="logos">
 
 <a href="https://www.janestreet.com/"><img style="padding-bottom:6px;
-width:250px;" src="assets/logo_janest.svg" alt="Jane Street"/> </a>
+width:180px;" src="assets/logo_janest.svg" alt="Jane Street"/> </a>
 
 </div>
 
@@ -198,11 +199,11 @@ width:250px;" src="assets/logo_janest.svg" alt="Jane Street"/> </a>
 
 <div class="logos">
 
-<a href="https://tarides.com/"><img style="padding-bottom:6px; width:250px;"
+<a href="https://tarides.com/"><img style="padding-bottom:6px; width:180px;"
 src="assets/logo_tarides.svg" alt="Tarides"/> </a>
 
 <a href="https://www.well-typed.com/"><img style="padding-bottom:6px;
-width:250px;" src="assets/logo_well-typed.svg" alt="Well-Typed"/> </a>
+width:180px;" src="assets/logo_well-typed.svg" alt="Well-Typed"/> </a>
 
 </div>
 
