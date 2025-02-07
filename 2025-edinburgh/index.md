@@ -157,12 +157,15 @@ will appear here.
 
 The summer school is generously supported by the following sponsors:
 
-### Gold & EDI Sponsor
+### Gold & EDI Sponsors
 
 <div class="logos">
 
 <a href="https://www.janestreet.com/"><img style="padding-bottom:6px;
 width:180px;" src="assets/logo_janest.svg" alt="Jane Street"/> </a>
+
+<a href="https://www.sigplan.org/"><img style="padding-bottom:6px;
+width:180px;" src="assets/logo_sigplan.svg" alt="ACM SIGPLAN"/> </a>
 
 </div>
 
