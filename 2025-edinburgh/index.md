@@ -97,7 +97,7 @@ stream](https://spls.zulipchat.com/#narrow/stream/481612-splv-2025).
     many-to-one communication. This course will give an overview of behavioural
     typing, going into depth on the theoretical and practical aspects of session
     types and mailbox types.
-</details>
+	</details>
 
 **Concurrency theory**
 <img class="avatar" src="assets/rob_van_glabbeek.jpg" />
