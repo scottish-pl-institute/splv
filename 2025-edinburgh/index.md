@@ -26,9 +26,19 @@ stream](https://spls.zulipchat.com/#narrow/stream/481612-splv-2025).
 : **Guest Lecturer:** [Robbert Krebbers](https://robbertkrebbers.nl/), Radboud
   University Nijmegen
 
-: <details closed>
-    <summary>Abstract</summary>
-    TBD
+: <details closed> <summary>Abstract</summary>
+	Concurrent programs are challenging to get right, especially if threads
+    share access to memory. The formalism of "concurrent separation Logic"
+    (which was pioneered by O'Hearn and Brookes in 2007) provides a powerful
+    framework to verify concurrent programs. Over the last 20 years, concurrent
+    separation Logic has emerged into an active research field, has been
+    extended with many features (e.g., fine-grained concurrency, weak memory
+    consistency, higher-order programs), been applied to many programming
+    languages (e.g., Rust), and has been implemented in numerous verification
+    tools (e.g., F*, Iris, Verifast, Viper, VST). We will discuss the
+    foundations of separation logic and show how they scale to the verification
+    of challenging concurrent programs. Exercises and demos using the Iris
+	framework in the Rocq proof assistant will be provided.
     </details>
 
 **A few ideas from distributed systems for PL folk** (guest course)
@@ -38,8 +48,7 @@ stream](https://spls.zulipchat.com/#narrow/stream/481612-splv-2025).
 
 : <details closed>
 	<summary>Abstract</summary>
-	TBD
-<!-- Fifteen years ago, when I was a new PhD student and suffering from an
+	Fifteen years ago, when I was a new PhD student and suffering from an
     advanced case of PL myopia, I foolishly ignored every other area of computer
     science. It was only years later that I realized that distributed systems
     had a lot to teach me. In these lectures, I'll fill you in on what I've
@@ -47,7 +56,7 @@ stream](https://spls.zulipchat.com/#narrow/stream/481612-splv-2025).
     very basics (what is a distributed system?) and work our way up to an
     implementation of causal broadcast, then finish the week with a brief
     excursion into choreographic programming. No background in distributed
-    systems is necessary, only an open mind. -->
+    systems is necessary, only an open mind.
 	</details>
 
 **Application programming with dependent types**
@@ -76,9 +85,19 @@ stream](https://spls.zulipchat.com/#narrow/stream/481612-splv-2025).
   Glasgow
 
 : <details closed>
-    <summary>Abstract</summary>
-    TBD
-    </details>
+	<summary>Abstract</summary>
+	Much like data types allow us to rule out common programming errors before
+    we compile or run a program, behavioural type systems provide a lightweight
+    way of checking the correctness of behavioural properties of programs. Three
+    examples include typestate, which allows us to ensure that we call object
+    methods in the correct order (e.g. opening a file handle for reading before
+    performing read operations and eventually closing the handle); session
+    types, which allow us to check that a communication follows a protocol; and
+    mailbox types, which allow us to specify patterns of messages received in
+    many-to-one communication. This course will give an overview of behavioural
+    typing, going into depth on the theoretical and practical aspects of session
+    types and mailbox types.
+</details>
 
 **Concurrency theory**
 <img class="avatar" src="assets/rob_van_glabbeek.jpg" />
@@ -87,7 +106,14 @@ stream](https://spls.zulipchat.com/#narrow/stream/481612-splv-2025).
 
 : <details closed>
     <summary>Abstract</summary>
-    TBD
+	This course aims to make students familiar with state-of-the-art techniques
+	in modelling concurrent systems. This is done by comparing some of the more
+	successful semantic models of concurrency found in the literature, including
+	transition systems, Petri nets and process algebras. The focus will be on
+	the rationale behind the design decisions underlying those models, viewed
+	from philosophical, mathematical and computational perspectives. A central
+	concept will be that of a semantic equivalence or preorder, relating system
+	specifications and implementations.
     </details>
 
 **Logical relations for program equivalence**
@@ -107,9 +133,8 @@ stream](https://spls.zulipchat.com/#narrow/stream/481612-splv-2025).
 
 : <details closed>
     <summary>Abstract</summary>
-    TBD
-	<!-- Historically there has - surprisingly, perhaps - been something of a
-    gulf between the programming languages and software engineering communities,
+	Historically there has - surprisingly, perhaps - been something of a gulf
+    between the programming languages and software engineering communities,
     which I will argue has been to the detriment of both. One of the many places
     this shows up is in the fields' treatments of bidirectional transformations,
     by which I mean, automated means of checking and restoring appropriate
@@ -119,7 +144,7 @@ stream](https://spls.zulipchat.com/#narrow/stream/481612-splv-2025).
     at the treatment of the topic in the functional programming community, via
     optics. I will opine about some open problems and some things I think the
     next generation of researchers should pay attention to, in order to narrow
-    rather than widen the gulf between PL and SE, to the benefit of both. -->
+    rather than widen the gulf between PL and SE, to the benefit of both.
     </details>
 
 ## Prerequisites
