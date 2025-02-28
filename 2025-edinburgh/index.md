@@ -75,9 +75,18 @@ stream](https://spls.zulipchat.com/#narrow/stream/481612-splv-2025).
   of Strathclyde
 
 : <details closed>
-    <summary>Abstract</summary>
-    TBD
-    </details>
+	<summary>Abstract</summary>
+	Type theory is both a foundation of mathematics and an expressive functional
+    programming language, and the basis of proof assistants and programming
+    languages such as Agda, Idris, Rocq, and Lean. There are many aspects to
+    type theory, and these lectures will give an introduction to three of them:
+    (i) what it is, and how to work in it (the user's perspective); (ii)
+    studying type theory as a formal system, and proving properties such as
+    normalisation, canonicity, and subject reduction (the metatheorist's
+    perspective); and (iii) models of type theory, and how they suggest new
+    axioms, as well as let us conveniently manipulate mathematical structures of
+    interest (the semanticist's perspective).
+	</details>
 
 **Behavioural types**
 <img class="avatar" src="assets/simon_fowler.png" />
