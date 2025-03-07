@@ -132,7 +132,14 @@ stream](https://spls.zulipchat.com/#narrow/stream/481612-splv-2025).
 
 : <details closed>
     <summary>Abstract</summary>
-    TBD
+	In this course we will explore logical relations, as a classic type-based
+    method of proving equivalence of programs and, crucially, program
+    fragments. We will introduce the problem of program (fragment) equivalence
+    and solve it in the setting of simply-typed lambda calculus, and proceed to
+    extend the method to some of the features found in modern programming
+    languages, including polymorphism, recursion in types and terms, and
+    computational effects, ending with a look at extending the methodology to
+    type-and-effect systems.
     </details>
 
 **Models, programs and bidirectional transformations**
