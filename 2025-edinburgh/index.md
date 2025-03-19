@@ -210,7 +210,17 @@ width:180px;" src="assets/logo_sigplan.svg" alt="ACM SIGPLAN"/> </a>
 
 </div>
 
-### Bronze
+### Silver & EDI Sponsor
+
+<a href="https://aws.amazon.com/"><img style="padding-bottom:6px; width:180px;"
+src="assets/logo_aws.svg" alt="Amazon Web Services"/> </a>
+
+### Bronze & EDI Sponsor
+
+<a href="https://www.sc.com/en/"><img style="padding-bottom:6px; width:180px;"
+src="assets/logo_sc.png" alt="Standard Chartered Bank"/> </a>
+
+### Bronze Sponsors
 
 <div class="logos">
 
