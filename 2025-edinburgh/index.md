@@ -9,15 +9,9 @@ custom_css:
 
 # SPLV25: Scottish Programming Languages and Verification Summer School 2025
 
-## University of Edinburgh - 21st to 25th July
+## The University of Edinburgh - 21st to 25th July
 
-This year, the [Scottish Programming Languages and Verification Summer
-School](https://spli.scot/splv/) will be held at The University of
-Edinburgh.
-
-For announcements and updates concerning SPLV 2025, please subscribe
-to our [SPLS Zulip
-stream](https://spls.zulipchat.com/#narrow/stream/481612-splv-2025).
+For SPLV 2025 announcements and updates, subscribe to our [SPLS Zulip stream](https://spls.zulipchat.com/#narrow/stream/481612-splv-2025).
 
 ## Courses
 
@@ -194,9 +188,7 @@ Romania, Serbia, Slovakia, Slovenia, Turkey, Ukraine.
 We will be able to subsidise student participation. Details about scholarships
 will appear here.
 
-## Sponsorship
-
-The summer school is generously supported by the following sponsors:
+## Sponsors
 
 ### Gold & EDI Sponsors
 
@@ -244,12 +236,11 @@ width:200px;" src="assets/logo_epn.png" alt="EuroProofNet"/> </a>
 
 ## Further Information
 
-If you have any questions please get in contact with the local organising team
-at:
+If you have any questions please contact the organisers at:
 
 <splv-2025-organisers-group@uoe.onmicrosoft.com>
 
-The principal organisers of SPLV25 are:
+The organisers of SPLV25 are:
 
 * Malin Altenmüller <malin.altenmuller@ed.ac.uk>
 * Ohad Kammar <ohad.kammar@ed.ac.uk>
