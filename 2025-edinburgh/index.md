@@ -9,9 +9,11 @@ custom_css:
 
 # SPLV25: Scottish Programming Languages and Verification Summer School 2025
 
-## The University of Edinburgh - 21st to 25th July
+## The University of Edinburgh --- Monday 21st to Friday 25th July 2025
 
 For SPLV 2025 announcements and updates, subscribe to our [SPLS Zulip stream](https://spls.zulipchat.com/#narrow/stream/481612-splv-2025).
+
+**Application deadline:** 30th April 2025 ([see below](#application))
 
 ## Courses
 
@@ -167,18 +169,17 @@ and logic.
 
 ## Application
 
-To apply for the Summer School, please fill in [this
-form](https://forms.office.com/e/rDDGuYDsJB).
+To apply for the Summer School, please fill in [this form](https://forms.office.com/e/rDDGuYDsJB).
 
-#### Accommodation
+#### Subsidised accommodation
 
-Applicants can register interest in a room in subsidised accommodation for the week. See details below.
+Applicants can register interest in a room in [subsidised accommodation](#accommodation) for the week.
 
 #### Scholarships
 
 Applicants can apply for a scholarship, which we encourage all students and members of underrepresented groups to do. Scholarships cover registration for the summer school.
 
-#### Application deadline
+#### Deadline
 
 The submission deadline for the form is the 30th April 2025. We will send out confirmations of scholarships and subsidised accommodation by the 7th May.
 
