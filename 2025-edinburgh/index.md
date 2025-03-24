@@ -181,15 +181,13 @@ Applicants can apply for a scholarship, which we encourage all students and memb
 
 #### Deadline
 
-The submission deadline for the form is the 30th April 2025. We will send out confirmations of scholarships and subsidised accommodation by the 7th May.
-
-Early registration will close on 21st May.
+The submission deadline for the application form is **30th April 2025**. We will send out confirmations of scholarships and subsidised accommodation by the 7th May 2025, when we will open up registration.
 
 <div class="prices">
   <table>
 	<tr>
-        <th></th>
-	  <th>Early registration (until 30th April)</th>
+      <th></th>
+	  <th>Early registration (closes 21st May 2025)</th>
 	  <th>Standard registration</th>
 	</tr>
 	<tr>
@@ -207,13 +205,13 @@ Early registration will close on 21st May.
 
 The academic rate applies to students and staff at academic institutions.
 
-If you do not fill in the application form by 30th April then you will still be able to register, but will not qualify for a scholarship, early registration rate, or subsidised accommodation.
+If you do not fill in the application form by 30th April 2025 then you will still be able to register, but will not qualify for a scholarship, early registration rate, or subsidised accommodation.
 
 ## Accommodation
 
 Accommodation is not included in the registration fee.
 
-We can offer a limited amount of subsidised accommodation to those who fill in the application form by 30th April:
+We can offer a limited amount of subsidised accommodation to those who fill in the application form by 30th April 2025:
 
 - Single room with shared kitchen and bathroom in a flat of 5 (all participants
   of SPLV) in student accommodation.
