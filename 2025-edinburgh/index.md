@@ -187,7 +187,7 @@ The submission deadline for the application form is **30th April 2025**. We will
   <table>
 	<tr>
       <th></th>
-	  <th>Early registration (closes 21st May 2025)</th>
+	  <th>Early registration</th>
 	  <th>Standard registration</th>
 	</tr>
 	<tr>
