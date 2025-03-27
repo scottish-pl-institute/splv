@@ -230,8 +230,14 @@ We cannot offer additional (or fewer) nights of accommodation. Confirmations may
 Participants from Inclusiveness Target Countries* (ITC) can apply with
 EuroProofNet for funding towards travel and accommodation. The reimbursement
 rules can be found on the [EPN website](
-https://europroofnet.github.io/reimbursement-rules/). Please contact [Frédéric
-Blanqui](https://blanqui.gitlabpages.inria.fr/) to apply.
+https://europroofnet.github.io/reimbursement-rules/). To apply for a grant from
+EuroProofNet for the transport and accommodation, please send an email to
+[Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) by the 30th of April
+with:
+- a short description of what you are doing and why you want to attend this school,
+- an estimation of the cost of your transport in EUROS together with a screen
+capture.
+Notifications will be sent by the 7th of May.
 
 (*) list of ITC countries: Albania, Armenia, Bosnia and Herzegovina, Bulgaria,
 Croatia, Cyprus, Czech Republic, Estonia, Georgia, Greece, Hungary, Latvia,
