@@ -207,24 +207,6 @@ The academic rate applies to students and staff at academic institutions.
 
 If you do not fill in the application form by 30th April 2025 then you will still be able to register, but will not qualify for a scholarship, early registration rate, or subsidised accommodation.
 
-## Accommodation
-
-Accommodation is not included in the registration fee.
-
-We can offer a limited amount of subsidised accommodation to those who fill in the application form by 30th April 2025:
-
-- Single room with shared kitchen and bathroom in a flat of 5 (all participants
-  of SPLV) in student accommodation.
-
-  Cost: £210 for 7 nights (Saturday 19th July--Saturday 26th July).
-
-- Ensuite room with breakfast in a nearby hotel (owned by the University).
-
-  Cost: £750 for 5 nights (Sunday 20th July--Friday 25th July) or
-        £900 for 6 nights (Sunday 20th July--Saturday 26th July).
-
-We cannot offer additional (or fewer) nights of accommodation. Confirmations may include the offer of a room in subsidised accommodation.
-
 #### EuroProofNet
 
 Participants from Inclusiveness Target Countries* (ITC) can apply with
@@ -243,6 +225,24 @@ Notifications will be sent by the 7th of May.
 Croatia, Cyprus, Czech Republic, Estonia, Georgia, Greece, Hungary, Latvia,
 Lithuania, Malta, Moldova, Montenegro, North Macedonia, Poland, Portugal,
 Romania, Serbia, Slovakia, Slovenia, Turkey, Ukraine.
+
+## Accommodation
+
+Accommodation is not included in the registration fee.
+
+We can offer a limited amount of subsidised accommodation to those who fill in the application form by 30th April 2025:
+
+- Single room with shared kitchen and bathroom in a flat of 5 (all participants
+  of SPLV) in student accommodation.
+
+  Cost: £210 for 7 nights (Saturday 19th July--Saturday 26th July).
+
+- Ensuite room with breakfast in a nearby hotel (owned by the University).
+
+  Cost: £750 for 5 nights (Sunday 20th July--Friday 25th July) or
+        £900 for 6 nights (Sunday 20th July--Saturday 26th July).
+
+We cannot offer additional (or fewer) nights of accommodation. Confirmations may include the offer of a room in subsidised accommodation.
 
 ## Sponsors
 
