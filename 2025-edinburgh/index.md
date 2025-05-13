@@ -11,9 +11,10 @@ custom_css:
 
 ## The University of Edinburgh --- Monday 21st to Friday 25th July 2025
 
-For SPLV 2025 announcements and updates, subscribe to our [SPLS Zulip stream](https://spls.zulipchat.com/#narrow/stream/481612-splv-2025).
+For SPLV 2025 announcements and updates, subscribe to our [SPLS Zulip
+stream](https://spls.zulipchat.com/#narrow/stream/481612-splv-2025).
 
-**Application deadline:** 30th April 2025 ([see below](#application))
+**Standard registration in now open!**([see below](#registration))
 
 ## Courses
 
@@ -163,25 +164,17 @@ For SPLV 2025 announcements and updates, subscribe to our [SPLS Zulip stream](ht
 
 The school is aimed at PhD students in programming languages, verification and
 related areas. Researchers and practitioners are welcome, as are strong
-undergraduate and masters students with the support of a supervisor. Participants will need to have a background in computer science, mathematics or
-a related discipline, and have basic familiarity with (functional) programming
-and logic.
+undergraduate and masters students with the support of a
+supervisor. Participants will need to have a background in computer science,
+mathematics or a related discipline, and have basic familiarity with
+(functional) programming and logic.
 
-## Application
+## Registration
 
-To apply for the Summer School, please fill in [this form](https://forms.office.com/e/rDDGuYDsJB).
+Standard registration is through the Edinburgh [online shop](https://www.epay.ed.ac.uk/conferences-and-events/college-of-science-and-engineering/school-of-informatics/informatics-events/scottish-programming-languages-and-verification-summer-school-2025):
 
-#### Subsidised accommodation
-
-Applicants can register interest in a room in [subsidised accommodation](#accommodation) for the week.
-
-#### Scholarships
-
-Applicants can apply for a scholarship, which we encourage all students and members of underrepresented groups to do. Scholarships cover registration for the summer school.
-
-#### Deadline
-
-The submission deadline for the application form is **30th April 2025**. We will send out confirmations of scholarships and subsidised accommodation by the 7th May 2025, when we will open up registration.
+- *A. Academic rate Standard* for students and academic staff.
+- *B. Full rate Standard* otherwise.
 
 <div class="prices">
   <table>
@@ -203,46 +196,9 @@ The submission deadline for the application form is **30th April 2025**. We will
   </table>
 </div>
 
-The academic rate applies to students and staff at academic institutions.
-
-If you do not fill in the application form by 30th April 2025 then you will still be able to register, but will not qualify for a scholarship, early registration rate, or subsidised accommodation.
-
-#### EuroProofNet
-
-Participants from Inclusiveness Target Countries* (ITC) can apply with
-EuroProofNet for funding towards travel and accommodation. The reimbursement
-rules can be found on the [EPN website](
-https://europroofnet.github.io/reimbursement-rules/). To apply for a grant from
-EuroProofNet for the transport and accommodation, please send an email to
-[Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) by the 30th of April
-with:
-- a short description of what you are doing and why you want to attend this school,
-- an estimation of the cost of your transport in EUROS together with a screen
-capture.
-Notifications will be sent by the 7th of May.
-
-(*) list of ITC countries: Albania, Armenia, Bosnia and Herzegovina, Bulgaria,
-Croatia, Cyprus, Czech Republic, Estonia, Georgia, Greece, Hungary, Latvia,
-Lithuania, Malta, Moldova, Montenegro, North Macedonia, Poland, Portugal,
-Romania, Serbia, Slovakia, Slovenia, Turkey, Ukraine.
-
-## Accommodation
-
-Accommodation is not included in the registration fee.
-
-We can offer a limited amount of subsidised accommodation to those who fill in the application form by 30th April 2025:
-
-- Single room with shared kitchen and bathroom in a flat of 5 (all participants
-  of SPLV) in student accommodation.
-
-  Cost: £210 for 7 nights (Saturday 19th July--Saturday 26th July).
-
-- Ensuite room with breakfast in a nearby hotel (owned by the University).
-
-  Cost: £750 for 5 nights (Sunday 20th July--Friday 25th July) or
-        £900 for 6 nights (Sunday 20th July--Saturday 26th July).
-
-We cannot offer additional (or fewer) nights of accommodation. Confirmations may include the offer of a room in subsidised accommodation.
+Application for early registration as well as scholarships and subsidised
+accommodation is now closed. Successful applicants can secure their spot until
+the **21st of May** in the online shop.
 
 ## Sponsors
 
