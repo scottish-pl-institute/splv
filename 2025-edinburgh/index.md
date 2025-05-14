@@ -14,8 +14,10 @@ custom_css:
 For SPLV 2025 announcements and updates, subscribe to our [SPLS Zulip
 stream](https://spls.zulipchat.com/#narrow/stream/481612-splv-2025).
 
-**Standard registration is now open!**([see below](#registration))**
-**Successful applicants can secure their spot until the 21st of May in the online shop**
+**Standard registration is now open!** ([see below](#registration))
+
+**Successful applicants can secure their spot until the 21st of May in the
+[online shop](https://www.epay.ed.ac.uk/conferences-and-events/college-of-science-and-engineering/school-of-informatics/informatics-events/scottish-programming-languages-and-verification-summer-school-2025)**
 
 ## Courses
 
