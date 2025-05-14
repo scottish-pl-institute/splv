@@ -14,7 +14,8 @@ custom_css:
 For SPLV 2025 announcements and updates, subscribe to our [SPLS Zulip
 stream](https://spls.zulipchat.com/#narrow/stream/481612-splv-2025).
 
-**Standard registration in now open!**([see below](#registration))
+**Standard registration is now open!**([see below](#registration))**
+**Successful applicants can secure their spot until the 21st of May in the online shop**
 
 ## Courses
 
@@ -171,6 +172,10 @@ mathematics or a related discipline, and have basic familiarity with
 
 ## Registration
 
+Application for early registration as well as scholarships and subsidised
+accommodation is now closed. Successful applicants can secure their spot until
+the **21st of May** in the online shop.
+
 Standard registration is through the Edinburgh [online shop](https://www.epay.ed.ac.uk/conferences-and-events/college-of-science-and-engineering/school-of-informatics/informatics-events/scottish-programming-languages-and-verification-summer-school-2025):
 
 - *A. Academic rate Standard* for students and academic staff.
@@ -196,9 +201,6 @@ Standard registration is through the Edinburgh [online shop](https://www.epay.ed
   </table>
 </div>
 
-Application for early registration as well as scholarships and subsidised
-accommodation is now closed. Successful applicants can secure their spot until
-the **21st of May** in the online shop.
 
 ## Sponsors
 
