@@ -249,6 +249,83 @@ width:200px;" src="assets/logo_epn.png" alt="EuroProofNet"/> </a>
 
 </div>
 
+## Application
+
+Application for early registration as well as scholarships and accommodation is now closed.
+
+#### Subsidised accommodation
+
+Applicants can register interest in a room in [subsidised accommodation](#accommodation) for the week.
+
+#### Scholarships
+
+Applicants can apply for a scholarship, which we encourage all students and members of underrepresented groups to do. Scholarships cover registration for the summer school.
+
+#### Deadline
+
+The submission deadline for the application form is **30th April 2025**. We will send out confirmations of scholarships and subsidised accommodation by the 7th May 2025, when we will open up registration.
+
+<div class="prices">
+  <table>
+	<tr>
+      <th></th>
+	  <th>Early registration</th>
+	  <th>Standard registration</th>
+	</tr>
+	<tr>
+	  <th>Academic rate</th>
+	  <th>£250</th>
+	  <th>£350</th>
+	</tr>
+	<tr>
+	  <th>Full rate</th>
+	  <th>£750</th>
+	  <th>£850</th>
+	</tr>
+  </table>
+</div>
+
+The academic rate applies to students and staff at academic institutions.
+
+If you do not fill in the application form by 30th April 2025 then you will still be able to register, but will not qualify for a scholarship, early registration rate, or subsidised accommodation.
+
+#### EuroProofNet
+
+Participants from Inclusiveness Target Countries* (ITC) can apply with
+EuroProofNet for funding towards travel and accommodation. The reimbursement
+rules can be found on the [EPN website](
+https://europroofnet.github.io/reimbursement-rules/). To apply for a grant from
+EuroProofNet for the transport and accommodation, please send an email to
+[Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) by the 30th of April
+with:
+- a short description of what you are doing and why you want to attend this school,
+- an estimation of the cost of your transport in EUROS together with a screen
+capture.
+Notifications will be sent by the 7th of May.
+
+(*) list of ITC countries: Albania, Armenia, Bosnia and Herzegovina, Bulgaria,
+Croatia, Cyprus, Czech Republic, Estonia, Georgia, Greece, Hungary, Latvia,
+Lithuania, Malta, Moldova, Montenegro, North Macedonia, Poland, Portugal,
+Romania, Serbia, Slovakia, Slovenia, Turkey, Ukraine.
+
+## Accommodation
+
+Accommodation is not included in the registration fee.
+
+We can offer a limited amount of subsidised accommodation to those who fill in the application form by 30th April 2025:
+
+- Single room with shared kitchen and bathroom in a flat of 5 (all participants
+  of SPLV) in student accommodation.
+
+  Cost: £210 for 7 nights (Saturday 19th July--Saturday 26th July).
+
+- Ensuite room with breakfast in a nearby hotel (owned by the University).
+
+  Cost: £750 for 5 nights (Sunday 20th July--Friday 25th July) or
+        £900 for 6 nights (Sunday 20th July--Saturday 26th July).
+
+We cannot offer additional (or fewer) nights of accommodation. Confirmations may include the offer of a room in subsidised accommodation.
+
 
 ## Further Information
 
