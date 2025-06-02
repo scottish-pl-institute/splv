@@ -185,17 +185,14 @@ until the **25th of June**:
   <table>
 	<tr>
       <th></th>
-	  <th>Early registration</th>
 	  <th>Standard registration</th>
 	</tr>
 	<tr>
 	  <th>Academic rate</th>
-	  <th>£250</th>
 	  <th>£350</th>
 	</tr>
 	<tr>
 	  <th>Full rate</th>
-	  <th>£750</th>
 	  <th>£850</th>
 	</tr>
   </table>
