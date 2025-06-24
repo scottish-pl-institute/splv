@@ -36,120 +36,120 @@ The School takes place in the following locations:
     <th class="weekday">Friday</th>
   </tr>
   <tr>
-    <td class="time">09:00</td>
+    <td class="time">09:00 -- 09:30</td>
     <td class="registration">Registration&nbsp;<sup>ALT</sup></td>
-    <td rowspan=3>Edwin&nbsp;<sup>ALT</sup></td>
-    <td rowspan=3>Robbert&nbsp;<sup>ALT</sup></td>
-    <td rowspan=3>Perdita&nbsp;<sup>MLT</sup></td>
-    <td rowspan=3>Lindsey&nbsp;<sup>INF</sup></td>
+    <td rowspan=3 class="lecture">Edwin&nbsp;<sup>ALT</sup></td>
+    <td rowspan=3 class="lecture">Robbert&nbsp;<sup>ALT</sup></td>
+    <td rowspan=3 class="lecture">Perdita&nbsp;<sup>MLT</sup></td>
+    <td rowspan=3 class="lecture">Lindsey&nbsp;<sup>INF</sup></td>
   </tr>
   <tr>
-    <td class="time">09:30</td>
-    <td rowspan=3>Rob&nbsp;<sup>ALT</sup></td>
+    <td class="time">09:30 -- 10:00</td>
+    <td rowspan=3 class="lecture">Rob&nbsp;<sup>ALT</sup></td>
   </tr>
   <tr>
-    <td class="time">10:00</td>
+    <td class="time">10:00 -- 10:30</td>
   </tr>
   <tr>
-    <td class="time">10:30</td>
+    <td class="time">10:30 -- 11:00</td>
     <td class="coffee">Coffee&nbsp;<sup>ALT</sup></td>
     <td class="coffee">Coffee&nbsp;<sup>ALT</sup></td>
     <td class="coffee">Coffee&nbsp;<sup>ALT</sup></td>
     <td class="coffee">Coffee&nbsp;<sup>INF</sup></td>
   </tr>
   <tr>
-    <td class="time">11:00</td>
+    <td class="time">11:00 -- 11:30</td>
     <td class="coffee">Coffee&nbsp;<sup>ALT</sup></td>
-    <td rowspan=3>Perdita&nbsp;<sup>ALT</sup></td>
-    <td rowspan=3>Lindsey&nbsp;<sup>ALT</sup></td>
-    <td rowspan=3>Rob&nbsp;<sup>ALT</sup> | Fred&nbsp;<sup>MLT</sup></td>
-    <td rowspan=3>Robbert&nbsp;<sup>INF</sup></td>
+    <td rowspan=3 class="lecture">Perdita&nbsp;<sup>ALT</sup></td>
+    <td rowspan=3 class="lecture">Lindsey&nbsp;<sup>ALT</sup></td>
+    <td rowspan=3 class="lecture">Rob&nbsp;<sup>ALT</sup> | Fred&nbsp;<sup>MLT</sup></td>
+    <td rowspan=3 class="lecture">Robbert&nbsp;<sup>INF</sup></td>
   </tr>
   <tr>
-    <td class="time">11:30</td>
+    <td class="time">11:30 -- 12:00</td>
     <td rowspan=3>Fred&nbsp;<sup>ALT</sup></td>
   </tr>
   <tr>
-    <td class="time">12:00</td>
+    <td class="time">12:00 -- 12:30</td>
   </tr>
   <tr>
-    <td class="time">12:30</td>
+    <td class="time">12:30 -- 13:00</td>
     <td rowspan=3 class="lunch">Lunch&nbsp;<sup>ALT</sup></td>
     <td rowspan=3 class="lunch">Lunch&nbsp;<sup>ALT</sup></td>
     <td rowspan=3 class="lunch">Lunch&nbsp;<sup>ALT</sup></td>
     <td rowspan=3 class="lunch">Lunch&nbsp;<sup>INF</sup></td>
   </tr>
   <tr>
-    <td class="time">13:00</td>
+    <td class="time">13:00 -- 13:30</td>
     <td rowspan=2 class="lunch">Lunch&nbsp;<sup>ALT</sup></td>
   </tr>
   <tr>
-    <td class="time">13:30</td>
+    <td class="time">13:30 -- 14:00</td>
   </tr>
   <tr>
-    <td class="time">14:00</td>
-     <td rowspan=3>Robbert&nbsp;<sup>ALT</sup></td>
-     <td rowspan=3>Rob&nbsp;<sup>ALT</sup> | Fred&nbsp;<sup>MLT</sup></td>
+    <td class="time">14:00 -- 14:30</td>
+     <td rowspan=3 class="lecture">Robbert&nbsp;<sup>ALT</sup></td>
+     <td rowspan=3 class="lecture">Rob&nbsp;<sup>ALT</sup> | Fred&nbsp;<sup>MLT</sup></td>
      <td rowspan=10 class="excursion"></td>
-     <td rowspan=3>Filip&nbsp;<sup>ALT</sup></td>
-     <td rowspan=3>Edwin&nbsp;<sup>INF</sup></td>
+     <td rowspan=3 class="lecture">Filip&nbsp;<sup>ALT</sup></td>
+     <td rowspan=3 class="lecture">Edwin&nbsp;<sup>INF</sup></td>
   </tr>
   <tr>
-    <td class="time">14:30</td>
+    <td class="time">14:30 -- 15:00</td>
   </tr>
   <tr>
-    <td class="time">15:00</td>
+    <td class="time">15:00 -- 15:30</td>
   </tr>
   <tr>
-    <td class="time">15:30</td>
+    <td class="time">15:30 -- 16:00</td>
     <td class="coffee">Coffee&nbsp;<sup>ALT</sup></td>
     <td class="coffee">Coffee&nbsp;<sup>ALT</sup></td>
     <td class="coffee">Coffee&nbsp;<sup>ALT</sup></td>
     <td rowspan=13 class="freetime"></td>
   </tr>
   <tr>
-    <td class="time">16:00</td>
-    <td rowspan=3>Lindsey&nbsp;<sup>MLT</sup></td>
-    <td rowspan=3>Filip&nbsp;<sup>MLT</sup></td>
-    <td rowspan=3>Mentoring Event&nbsp;<sup>MLT</sup></td>
+    <td class="time">16:00 -- 16:30</td>
+    <td rowspan=3 class="lecture">Lindsey&nbsp;<sup>MLT</sup></td>
+    <td rowspan=3 class="lecture">Filip&nbsp;<sup>MLT</sup></td>
+    <td rowspan=3 class="mentoring">Mentoring Event&nbsp;<sup>MLT</sup></td>
   </tr>
   <tr>
-    <td class="time">16:30</td>
+    <td class="time">16:30 -- 17:00</td>
   </tr>
   <tr>
-    <td class="time">17:00</td>
+    <td class="time">17:00 -- 17:30</td>
   </tr>
   <tr>
-    <td class="time">17:30</td>
+    <td class="time">17:30 -- 18:00</td>
     <td rowspan=4 class="social">Social&nbsp;<sup>INF</sup></td>
     <td rowspan=9 class="freetime"></td>
     <td rowspan=9 class="freetime"></td>
   </tr>
   <tr>
-    <td class="time">18:00</td>
+    <td class="time">18:00 -- 18:30</td>
   </tr>
   <tr>
-    <td class="time">18:30</td>
+    <td class="time">18:30 -- 19:00</td>
   </tr>
   <tr>
-    <td class="time">19:00</td>
+    <td class="time">19:00 -- 19:30</td>
     <td rowspan=6 class="dinner">Dinner</td>
   </tr>
   <tr>
-    <td class="time">19:30</td>
+    <td class="time">19:30 -- 20:00</td>
     <td rowspan=5 class="freetime"></td>
   </tr>
   <tr>
-    <td class="time">20:00</td>
+    <td class="time">20:00 -- 20:30</td>
   </tr>
   <tr>
-    <td class="time">20:30</td>
+    <td class="time">20:30 -- 21:00</td>
   </tr>
   <tr>
-    <td class="time">21:00</td>
+    <td class="time">21:00 -- 21:30</td>
   </tr>
   <tr>
-    <td class="time">21:30</td>
+    <td class="time">21:30 -- 22:00</td>
   </tr>
 </table>
 </div>

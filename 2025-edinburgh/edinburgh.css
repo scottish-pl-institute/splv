@@ -91,6 +91,12 @@ summary {
 .time {
   width: 10%;
 }
+.lecture {
+  background-color: white;
+}
+.mentoring {
+  background-color: #00FCCF;
+}
 .core1 {
   color: white;
   background-color: #9F0162;
