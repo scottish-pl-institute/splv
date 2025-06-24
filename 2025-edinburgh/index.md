@@ -21,9 +21,9 @@ stream](https://spls.zulipchat.com/#narrow/stream/481612-splv-2025).
 
 The School takes place in the following locations:
 
-- The Anatomy Lecture Theatre (ALT), Room 1.425 at the Old Medical School, Doorway 3, Teviot Pl, Edinburgh EH8 9AG
-- The Meadows Lecture Theatre (MLT), Room G.07 at the Old Medical School, Doorway 4, Teviot Pl, Edinburgh EH8 9AG
-- The Informatics Forum (INF), Room G.07, 10 Crichton Street, Edinburgh EH8 9AB
+- The Anatomy Lecture Theatre (**ALT**), Room 1.425 at the Old Medical School, Doorway 3, Teviot Pl, Edinburgh EH8 9AG
+- The Meadows Lecture Theatre (**MLT**), Room G.07 at the Old Medical School, Doorway 4, Teviot Pl, Edinburgh EH8 9AG
+- The Informatics Forum (**INF**), Room G.07, 10 Crichton Street, Edinburgh EH8 9AB
 
 <div class="schedule">
  <table>
