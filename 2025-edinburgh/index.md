@@ -265,7 +265,7 @@ The School takes place in the following locations:
 
 : <details open>
     <summary>Abstract</summary>
-	Historically there has - surprisingly, perhaps - been something of a gulf
+    Historically there has - surprisingly, perhaps - been something of a gulf
     between the programming languages and software engineering communities,
     which I will argue has been to the detriment of both. One of the many places
     this shows up is in the fields' treatments of bidirectional transformations,
@@ -277,7 +277,7 @@ The School takes place in the following locations:
     optics. I will opine about some open problems and some things I think the
     next generation of researchers should pay attention to, in order to narrow
     rather than widen the gulf between PL and SE, to the benefit of both.
-</details>
+    </details>
 
 Unfortunately, Simon Fowler is unable to join us and had to cancel his course.
 
@@ -288,19 +288,19 @@ Unfortunately, Simon Fowler is unable to join us and had to cancel his course.
 : **Lecturer:** [Simon Fowler](https://simonjf.com/about/), University of
   Glasgow
 : <details open>
-	<summary>Abstract</summary>
-	Much like data types allow us to rule out common programming errors before
-    we compile or run a program, behavioural type systems provide a lightweight
-    way of checking the correctness of behavioural properties of programs. Three
-    examples include typestate, which allows us to ensure that we call object
-    methods in the correct order (e.g. opening a file handle for reading before
-    performing read operations and eventually closing the handle); session
-    types, which allow us to check that a communication follows a protocol; and
-    mailbox types, which allow us to specify patterns of messages received in
-    many-to-one communication. This course will give an overview of behavioural
-    typing, going into depth on the theoretical and practical aspects of session
-    types and mailbox types.
-</details>
+  <summary>Abstract</summary>
+  Much like data types allow us to rule out common programming errors before
+  we compile or run a program, behavioural type systems provide a lightweight
+  way of checking the correctness of behavioural properties of programs. Three
+  examples include typestate, which allows us to ensure that we call object
+  methods in the correct order (e.g. opening a file handle for reading before
+  performing read operations and eventually closing the handle); session
+  types, which allow us to check that a communication follows a protocol; and
+  mailbox types, which allow us to specify patterns of messages received in
+  many-to-one communication. This course will give an overview of behavioural
+  typing, going into depth on the theoretical and practical aspects of session
+  types and mailbox types.
+  </details>
 </details>
 
 
