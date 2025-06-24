@@ -195,6 +195,23 @@ The School takes place in the following locations:
     systems is necessary, only an open mind.
 	</details>
 
+**Core Course: Concurrency theory**
+<img class="avatar" src="assets/rob_van_glabbeek.jpg" />
+: **Lecturer:** [Rob van Glabbeek](http://theory.stanford.edu/~rvg/), University
+  of Edinburgh
+
+: <details open>
+    <summary>Abstract</summary>
+	This course aims to make students familiar with state-of-the-art techniques
+	in modelling concurrent systems. This is done by comparing some of the more
+	successful semantic models of concurrency found in the literature, including
+	transition systems, Petri nets and process algebras. The focus will be on
+	the rationale behind the design decisions underlying those models, viewed
+	from philosophical, mathematical and computational perspectives. A central
+	concept will be that of a semantic equivalence or preorder, relating system
+	specifications and implementations.
+    </details>
+
 **Core Course: Type theory**
 <img class="avatar" src="assets/fred_forsberg.jpg" />
 : **Lecturer:** [Fredrik Nordvall Forsberg](https://fredriknf.com/), University
@@ -213,23 +230,6 @@ The School takes place in the following locations:
     axioms, as well as let us conveniently manipulate mathematical structures of
     interest (the semanticist's perspective).
 	</details>
-
-**Core Course: Concurrency theory**
-<img class="avatar" src="assets/rob_van_glabbeek.jpg" />
-: **Lecturer:** [Rob van Glabbeek](http://theory.stanford.edu/~rvg/), University
-  of Edinburgh
-
-: <details open>
-    <summary>Abstract</summary>
-	This course aims to make students familiar with state-of-the-art techniques
-	in modelling concurrent systems. This is done by comparing some of the more
-	successful semantic models of concurrency found in the literature, including
-	transition systems, Petri nets and process algebras. The focus will be on
-	the rationale behind the design decisions underlying those models, viewed
-	from philosophical, mathematical and computational perspectives. A central
-	concept will be that of a semantic equivalence or preorder, relating system
-	specifications and implementations.
-    </details>
 
 **Application programming with dependent types**
 <img class="avatar" src="assets/edwin_brady.jpeg" />
