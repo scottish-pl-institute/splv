@@ -133,7 +133,7 @@ The School takes place in the following locations:
   </tr>
   <tr>
     <td class="time">19:00</td>
-    <td rowspan=6 class="dinner"></td>
+    <td rowspan=6 class="dinner">Dinner</td>
   </tr>
   <tr>
     <td class="time">19:30</td>
