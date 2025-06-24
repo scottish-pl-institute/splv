@@ -129,9 +129,9 @@ summary {
 .registration {
   background-color: lightyellow;
 }
-.registration::before {
+/*.registration::before {
   content: "Breakfast | Registration";
-}
+}*/
 .breakfast {
   background-color: lightyellow;
 }
@@ -141,15 +141,15 @@ summary {
 .coffee {
   background-color: lightyellow;
 }
-.coffee::before {
+/*.coffee::before {
   content: "Coffee";
-}
+}*/
 .lunch {
   background-color: lightyellow;
 }
-.lunch::before {
+/*.lunch::before {
   content: "Lunch";
-}
+}*/
 .dinner {
   background-color: lightyellow;
 }
@@ -162,9 +162,9 @@ summary {
 .social {
   background-color: #009F81;
 }
-.social::before {
+/*.social::before {
   content: "Social";
-}
+}*/
 .excursion {
   background-color: #009F81;
 }

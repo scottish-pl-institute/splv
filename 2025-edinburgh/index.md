@@ -3,6 +3,7 @@
 title: SPLV 2025
 custom_css:
  - edinburgh
+
 ---
 
 <img src="assets/edinburgh_fullcolour.png" style="float:right; max-width:15%" alt="University of Edinburgh logo" />
@@ -16,6 +17,144 @@ stream](https://spls.zulipchat.com/#narrow/stream/481612-splv-2025).
 
 **Standard registration is open until the 25th of June!** ([see below](#registration))
 
+## Schedule
+
+The School takes place in the following locations:
+
+- The Anatomy Lecture Theatre (ALT), Room 1.425 at the Old Medical School, Doorway 3, Teviot Pl, Edinburgh EH8 9AG
+- The Meadows Lecture Theatre (MLT), Room G.07 at the Old Medical School, Doorway 4, Teviot Pl, Edinburgh EH8 9AG
+- The Informatics Forum (INF), Room G.07, 10 Crichton Street, Edinburgh EH8 9AB
+
+<div class="schedule">
+ <table>
+  <tr>
+    <th class="time"></th>
+    <th class="weekday">Monday</th>
+    <th class="weekday">Tuesday</th>
+    <th class="weekday">Wednesday</th>
+    <th class="weekday">Thursday</th>
+    <th class="weekday">Friday</th>
+  </tr>
+  <tr>
+    <td class="time">09:00</td>
+    <td class="registration">Registration (ALT)</td>
+    <td rowspan=3>Edwin (ALT)</td>
+    <td rowspan=3>Robbert(ALT)</td>
+    <td rowspan=3>Perdita (MLT)</td>
+    <td rowspan=3>Lindsey (INF)</td>
+  </tr>
+  <tr>
+    <td class="time">09:30</td>
+    <td rowspan=3>Rob (ALT)</td>
+  </tr>
+  <tr>
+    <td class="time">10:00</td>
+  </tr>
+  <tr>
+    <td class="time">10:30</td>
+    <td class="coffee">Coffee (ALT)</td>
+    <td class="coffee">Coffee (ALT)</td>
+    <td class="coffee">Coffee (ALT)</td>
+    <td class="coffee">Coffee (INF)</td>
+  </tr>
+  <tr>
+    <td class="time">11:00</td>
+    <td class="coffee">Coffee (ALT)</td>
+    <td rowspan=3>Perdita (ALT)</td>
+    <td rowspan=3>Lindsey (ALT)</td>
+    <td rowspan=3> Rob (ALT) | Fred (MLT)</td>
+    <td rowspan=3>Robbert (INF)</td>
+  </tr>
+  <tr>
+    <td class="time">11:30</td>
+    <td rowspan=3>Fred (ALT)</td>
+  </tr>
+  <tr>
+    <td class="time">12:00</td>
+  </tr>
+  <tr>
+    <td class="time">12:30</td>
+    <td rowspan=3 class="lunch">Lunch (ALT)</td>
+    <td rowspan=3 class="lunch">Lunch (ALT)</td>
+    <td rowspan=3 class="lunch">Lunch (ALT)</td>
+    <td rowspan=3 class="lunch">Lunch (INF)</td>
+  </tr>
+  <tr>
+    <td class="time">13:00</td>
+    <td rowspan=2 class="lunch">Lunch (ALT)</td>
+  </tr>
+  <tr>
+    <td class="time">13:30</td>
+  </tr>
+  <tr>
+    <td class="time">14:00</td>
+     <td rowspan=3>Robbert (ALT)</td>
+     <td rowspan=3>Rob (ALT) | Fred (MLT)</td>
+     <td rowspan=10 class="excursion"></td>
+     <td rowspan=3>Filip (ALT)</td>
+     <td rowspan=3>Edwin (INF)</td>
+  </tr>
+  <tr>
+    <td class="time">14:30</td>
+  </tr>
+  <tr>
+    <td class="time">15:00</td>
+  </tr>
+  <tr>
+    <td class="time">15:30</td>
+    <td class="coffee">Coffee (ALT)</td>
+    <td class="coffee">Coffee (ALT)</td>
+    <td class="coffee">Coffee (ALT)</td>
+    <td rowspan=13 class="freetime"></td>
+  </tr>
+  <tr>
+    <td class="time">16:00</td>
+    <td rowspan=3>Lindsey (MLT)</td>
+    <td rowspan=3>Filip (MLT)</td>
+    <td rowspan=3>Mentoring Event (MLT)</td>
+  </tr>
+  <tr>
+    <td class="time">16:30</td>
+  </tr>
+  <tr>
+    <td class="time">17:00</td>
+  </tr>
+  <tr>
+    <td class="time">17:30</td>
+    <td rowspan=4 class="social">Social (INF)</td>
+    <td rowspan=9 class="freetime"></td>
+    <td rowspan=9 class="freetime"></td>
+  </tr>
+  <tr>
+    <td class="time">18:00</td>
+  </tr>
+  <tr>
+    <td class="time">18:30</td>
+  </tr>
+  <tr>
+    <td class="time">19:00</td>
+    <td rowspan=6 class="dinner"></td>
+  </tr>
+  <tr>
+    <td class="time">19:30</td>
+    <td rowspan=3></td>
+  </tr>
+  <tr>
+    <td class="time">20:00</td>
+  </tr>
+  <tr>
+    <td class="time">20:30</td>
+  </tr>
+  <tr>
+    <td class="time">21:00</td>
+  </tr>
+  <tr>
+    <td class="time">21:30</td>
+  </tr>
+</table>
+</div>
+
+
 ## Courses
 
 **Program verification using concurrent separation logic** (guest course)
@@ -23,7 +162,7 @@ stream](https://spls.zulipchat.com/#narrow/stream/481612-splv-2025).
 : **Guest Lecturer:** [Robbert Krebbers](https://robbertkrebbers.nl/), Radboud
   University Nijmegen
 
-: <details closed> <summary>Abstract</summary>
+: <details open> <summary>Abstract</summary>
 	Concurrent programs are challenging to get right, especially if threads
     share access to memory. The formalism of "concurrent separation Logic"
     (which was pioneered by O'Hearn and Brookes in 2007) provides a powerful
@@ -43,7 +182,7 @@ stream](https://spls.zulipchat.com/#narrow/stream/481612-splv-2025).
 : **Guest Lecturer:** [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/),
   University of California, Santa Cruz
 
-: <details closed>
+: <details open>
 	<summary>Abstract</summary>
 	Fifteen years ago, when I was a new PhD student and suffering from an
     advanced case of PL myopia, I foolishly ignored every other area of computer
@@ -56,22 +195,12 @@ stream](https://spls.zulipchat.com/#narrow/stream/481612-splv-2025).
     systems is necessary, only an open mind.
 	</details>
 
-**Application programming with dependent types**
-<img class="avatar" src="assets/edwin_brady.jpeg" />
-: **Lecturer:** [Edwin Brady](https://www.type-driven.org.uk/edwinb/),
-  University of St Andrews
-
-: <details closed>
-    <summary>Abstract</summary>
-    TBD
-    </details>
-
-**Type theory**
+**Core Course: Type theory**
 <img class="avatar" src="assets/fred_forsberg.jpg" />
 : **Lecturer:** [Fredrik Nordvall Forsberg](https://fredriknf.com/), University
   of Strathclyde
 
-: <details closed>
+: <details open>
 	<summary>Abstract</summary>
 	Type theory is both a foundation of mathematics and an expressive functional
     programming language, and the basis of proof assistants and programming
@@ -85,32 +214,12 @@ stream](https://spls.zulipchat.com/#narrow/stream/481612-splv-2025).
     interest (the semanticist's perspective).
 	</details>
 
-**Behavioural types**
-<img class="avatar" src="assets/simon_fowler.png" />
-: **Lecturer:** [Simon Fowler](https://simonjf.com/about/), University of
-  Glasgow
-
-: <details closed>
-	<summary>Abstract</summary>
-	Much like data types allow us to rule out common programming errors before
-    we compile or run a program, behavioural type systems provide a lightweight
-    way of checking the correctness of behavioural properties of programs. Three
-    examples include typestate, which allows us to ensure that we call object
-    methods in the correct order (e.g. opening a file handle for reading before
-    performing read operations and eventually closing the handle); session
-    types, which allow us to check that a communication follows a protocol; and
-    mailbox types, which allow us to specify patterns of messages received in
-    many-to-one communication. This course will give an overview of behavioural
-    typing, going into depth on the theoretical and practical aspects of session
-    types and mailbox types.
-	</details>
-
-**Concurrency theory**
+**Core Course: Concurrency theory**
 <img class="avatar" src="assets/rob_van_glabbeek.jpg" />
 : **Lecturer:** [Rob van Glabbeek](http://theory.stanford.edu/~rvg/), University
   of Edinburgh
 
-: <details closed>
+: <details open>
     <summary>Abstract</summary>
 	This course aims to make students familiar with state-of-the-art techniques
 	in modelling concurrent systems. This is done by comparing some of the more
@@ -122,12 +231,22 @@ stream](https://spls.zulipchat.com/#narrow/stream/481612-splv-2025).
 	specifications and implementations.
     </details>
 
+**Application programming with dependent types**
+<img class="avatar" src="assets/edwin_brady.jpeg" />
+: **Lecturer:** [Edwin Brady](https://www.type-driven.org.uk/edwinb/),
+  University of St Andrews
+
+: <details open>
+    <summary>Abstract</summary>
+    TBD
+    </details>
+
 **Logical relations for program equivalence**
 <img class="avatar" src="assets/filip_sieczkowski.png" />
 : **Lecturer:** [Filip Sieczkowski](https://fsieczkowski.github.io/),
   Heriot-Watt University
 
-: <details closed>
+: <details open>
     <summary>Abstract</summary>
 	In this course we will explore logical relations, as a classic type-based
     method of proving equivalence of programs and, crucially, program
@@ -144,7 +263,7 @@ stream](https://spls.zulipchat.com/#narrow/stream/481612-splv-2025).
 : **Lecturer:** [Perdita Stevens](https://perditastevens.com/), University of
   Edinburgh
 
-: <details closed>
+: <details open>
     <summary>Abstract</summary>
 	Historically there has - surprisingly, perhaps - been something of a gulf
     between the programming languages and software engineering communities,
@@ -158,7 +277,32 @@ stream](https://spls.zulipchat.com/#narrow/stream/481612-splv-2025).
     optics. I will opine about some open problems and some things I think the
     next generation of researchers should pay attention to, in order to narrow
     rather than widen the gulf between PL and SE, to the benefit of both.
-    </details>
+</details>
+
+Unfortunately, Simon Fowler is unable to join us and had to cancel his course.
+
+<details markdown="1">
+<summary>Cancelled course details</summary>
+**Behavioural types**
+<img class="avatar" src="assets/simon_fowler.png" />
+: **Lecturer:** [Simon Fowler](https://simonjf.com/about/), University of
+  Glasgow
+: <details open>
+	<summary>Abstract</summary>
+	Much like data types allow us to rule out common programming errors before
+    we compile or run a program, behavioural type systems provide a lightweight
+    way of checking the correctness of behavioural properties of programs. Three
+    examples include typestate, which allows us to ensure that we call object
+    methods in the correct order (e.g. opening a file handle for reading before
+    performing read operations and eventually closing the handle); session
+    types, which allow us to check that a communication follows a protocol; and
+    mailbox types, which allow us to specify patterns of messages received in
+    many-to-one communication. This course will give an overview of behavioural
+    typing, going into depth on the theoretical and practical aspects of session
+    types and mailbox types.
+</details>
+</details>
+
 
 ## Prerequisites
 
