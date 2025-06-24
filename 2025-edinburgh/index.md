@@ -67,7 +67,7 @@ The School takes place in the following locations:
   </tr>
   <tr>
     <td class="time">11:30 &ndash; 12:00</td>
-    <td rowspan=3>Fred&nbsp;<sup>ALT</sup></td>
+    <td rowspan=3 class="lecture">Fred&nbsp;<sup>ALT</sup></td>
   </tr>
   <tr>
     <td class="time">12:00 &ndash; 12:30</td>
