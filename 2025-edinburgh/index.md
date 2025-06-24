@@ -248,7 +248,7 @@ The School takes place in the following locations:
 
 : <details open>
     <summary>Abstract</summary>
-	In this course we will explore logical relations, as a classic type-based
+    In this course we will explore logical relations, as a classic type-based
     method of proving equivalence of programs and, crucially, program
     fragments. We will introduce the problem of program (fragment) equivalence
     and solve it in the setting of simply-typed lambda calculus, and proceed to
@@ -279,11 +279,11 @@ The School takes place in the following locations:
     rather than widen the gulf between PL and SE, to the benefit of both.
     </details>
 
-Unfortunately, Simon Fowler is unable to join us and had to cancel his course.
 
+**~~Behavioural types~~**
+Unfortunately, Simon Fowler is unable to join us and had to cancel his course.
 <details markdown="1">
 <summary>Cancelled course details</summary>
-**Behavioural types**
 <img class="avatar" src="assets/simon_fowler.png" />
 : **Lecturer:** [Simon Fowler](https://simonjf.com/about/), University of
   Glasgow
