@@ -37,62 +37,62 @@ The School takes place in the following locations:
   </tr>
   <tr>
     <td class="time">09:00</td>
-    <td class="registration">Registration (ALT)</td>
-    <td rowspan=3>Edwin (ALT)</td>
-    <td rowspan=3>Robbert(ALT)</td>
-    <td rowspan=3>Perdita (MLT)</td>
-    <td rowspan=3>Lindsey (INF)</td>
+    <td class="registration">Registration&nbsp;<sup>ALT</sup></td>
+    <td rowspan=3>Edwin&nbsp;<sup>ALT</sup></td>
+    <td rowspan=3>Robbert&nbsp;<sup>ALT</sup></td>
+    <td rowspan=3>Perdita&nbsp;<sup>MLT</sup></td>
+    <td rowspan=3>Lindsey&nbsp;<sup>INF</sup></td>
   </tr>
   <tr>
     <td class="time">09:30</td>
-    <td rowspan=3>Rob (ALT)</td>
+    <td rowspan=3>Rob&nbsp;<sup>ALT</sup></td>
   </tr>
   <tr>
     <td class="time">10:00</td>
   </tr>
   <tr>
     <td class="time">10:30</td>
-    <td class="coffee">Coffee (ALT)</td>
-    <td class="coffee">Coffee (ALT)</td>
-    <td class="coffee">Coffee (ALT)</td>
-    <td class="coffee">Coffee (INF)</td>
+    <td class="coffee">Coffee&nbsp;<sup>ALT</sup></td>
+    <td class="coffee">Coffee&nbsp;<sup>ALT</sup></td>
+    <td class="coffee">Coffee&nbsp;<sup>ALT</sup></td>
+    <td class="coffee">Coffee&nbsp;<sup>INF</sup></td>
   </tr>
   <tr>
     <td class="time">11:00</td>
-    <td class="coffee">Coffee (ALT)</td>
-    <td rowspan=3>Perdita (ALT)</td>
-    <td rowspan=3>Lindsey (ALT)</td>
-    <td rowspan=3> Rob (ALT) | Fred (MLT)</td>
-    <td rowspan=3>Robbert (INF)</td>
+    <td class="coffee">Coffee&nbsp;<sup>ALT</sup></td>
+    <td rowspan=3>Perdita&nbsp;<sup>ALT</sup></td>
+    <td rowspan=3>Lindsey&nbsp;<sup>ALT</sup></td>
+    <td rowspan=3>Rob&nbsp;<sup>ALT</sup> | Fred&nbsp;<sup>MLT</sup></td>
+    <td rowspan=3>Robbert&nbsp;<sup>INF</sup></td>
   </tr>
   <tr>
     <td class="time">11:30</td>
-    <td rowspan=3>Fred (ALT)</td>
+    <td rowspan=3>Fred&nbsp;<sup>ALT</sup></td>
   </tr>
   <tr>
     <td class="time">12:00</td>
   </tr>
   <tr>
     <td class="time">12:30</td>
-    <td rowspan=3 class="lunch">Lunch (ALT)</td>
-    <td rowspan=3 class="lunch">Lunch (ALT)</td>
-    <td rowspan=3 class="lunch">Lunch (ALT)</td>
-    <td rowspan=3 class="lunch">Lunch (INF)</td>
+    <td rowspan=3 class="lunch">Lunch&nbsp;<sup>ALT</sup></td>
+    <td rowspan=3 class="lunch">Lunch&nbsp;<sup>ALT</sup></td>
+    <td rowspan=3 class="lunch">Lunch&nbsp;<sup>ALT</sup></td>
+    <td rowspan=3 class="lunch">Lunch&nbsp;<sup>INF</sup></td>
   </tr>
   <tr>
     <td class="time">13:00</td>
-    <td rowspan=2 class="lunch">Lunch (ALT)</td>
+    <td rowspan=2 class="lunch">Lunch&nbsp;<sup>ALT</sup></td>
   </tr>
   <tr>
     <td class="time">13:30</td>
   </tr>
   <tr>
     <td class="time">14:00</td>
-     <td rowspan=3>Robbert (ALT)</td>
-     <td rowspan=3>Rob (ALT) | Fred (MLT)</td>
+     <td rowspan=3>Robbert&nbsp;<sup>ALT</sup></td>
+     <td rowspan=3>Rob&nbsp;<sup>ALT</sup> | Fred&nbsp;<sup>MLT</sup></td>
      <td rowspan=10 class="excursion"></td>
-     <td rowspan=3>Filip (ALT)</td>
-     <td rowspan=3>Edwin (INF)</td>
+     <td rowspan=3>Filip&nbsp;<sup>ALT</sup></td>
+     <td rowspan=3>Edwin&nbsp;<sup>INF</sup></td>
   </tr>
   <tr>
     <td class="time">14:30</td>
@@ -102,16 +102,16 @@ The School takes place in the following locations:
   </tr>
   <tr>
     <td class="time">15:30</td>
-    <td class="coffee">Coffee (ALT)</td>
-    <td class="coffee">Coffee (ALT)</td>
-    <td class="coffee">Coffee (ALT)</td>
+    <td class="coffee">Coffee&nbsp;<sup>ALT</sup></td>
+    <td class="coffee">Coffee&nbsp;<sup>ALT</sup></td>
+    <td class="coffee">Coffee&nbsp;<sup>ALT</sup></td>
     <td rowspan=13 class="freetime"></td>
   </tr>
   <tr>
     <td class="time">16:00</td>
-    <td rowspan=3>Lindsey (MLT)</td>
-    <td rowspan=3>Filip (MLT)</td>
-    <td rowspan=3>Mentoring Event (MLT)</td>
+    <td rowspan=3>Lindsey&nbsp;<sup>MLT</sup></td>
+    <td rowspan=3>Filip&nbsp;<sup>MLT</sup></td>
+    <td rowspan=3>Mentoring Event&nbsp;<sup>MLT</sup></td>
   </tr>
   <tr>
     <td class="time">16:30</td>
@@ -121,7 +121,7 @@ The School takes place in the following locations:
   </tr>
   <tr>
     <td class="time">17:30</td>
-    <td rowspan=4 class="social">Social (INF)</td>
+    <td rowspan=4 class="social">Social&nbsp;<sup>INF</sup></td>
     <td rowspan=9 class="freetime"></td>
     <td rowspan=9 class="freetime"></td>
   </tr>
@@ -137,7 +137,7 @@ The School takes place in the following locations:
   </tr>
   <tr>
     <td class="time">19:30</td>
-    <td rowspan=3></td>
+    <td rowspan=5 class="freetime"></td>
   </tr>
   <tr>
     <td class="time">20:00</td>

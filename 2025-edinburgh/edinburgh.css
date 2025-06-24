@@ -129,44 +129,27 @@ summary {
 .registration {
   background-color: lightyellow;
 }
-/*.registration::before {
-  content: "Breakfast | Registration";
-}*/
 .breakfast {
   background-color: lightyellow;
-}
-.breakfast::before {
-  content: "Breakfast";
 }
 .coffee {
   background-color: lightyellow;
 }
-/*.coffee::before {
-  content: "Coffee";
-}*/
 .lunch {
   background-color: lightyellow;
 }
-/*.lunch::before {
-  content: "Lunch";
-}*/
 .dinner {
   background-color: lightyellow;
-}
-.dinner::before {
-  content: "Dinner";
 }
 .freetime {
   background-color: #FFFFFF;
 }
 .social {
-  background-color: #009F81;
+  background-color: #FFC33B;
 }
-/*.social::before {
-  content: "Social";
-}*/
+
 .excursion {
-  background-color: #009F81;
+  background-color: #FFC33B;
 }
 .excursion::before {
   content: "Excursion";
@@ -177,7 +160,6 @@ summary {
 .farewell::before {
   content: "Farewell";
 }
-
 
 .flex-container {
   display: flex;
