@@ -280,7 +280,8 @@ The School takes place in the following locations:
     </details>
 
 
-**~~Behavioural types~~**
+***~~Behavioural types~~***
+
 Unfortunately, Simon Fowler is unable to join us and had to cancel his course.
 <details markdown="1">
 <summary>Cancelled course details</summary>
