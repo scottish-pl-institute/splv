@@ -25,7 +25,7 @@ The School takes place in the following locations:
 - The Meadows Lecture Theatre (**MLT**), Room G.07 at the Old Medical School, Doorway 4, Teviot Pl, Edinburgh EH8 9AG
 - The Informatics Forum (**INF**), Room G.07, 10 Crichton Street, Edinburgh EH8 9AB
 
-<div id="colours"></div>
+<div id="colourful"></div>
 <div id="plain"></div>
 
 <div class="schedule">
@@ -158,7 +158,7 @@ The School takes place in the following locations:
 </div>
 
 <div>
-<form action="#colours" style="display: inline-block;"><input type="submit" value="colours"></form>
+<form action="#colourful" style="display: inline-block;"><input type="submit" value="colourful"></form>
 <form action="#plain" style="display: inline-block;"><input type="submit" value="plain"></form>
 </div>
 

@@ -154,31 +154,31 @@ summary {
   background-color: #A40122;
 }
 
-#colours:target ~ .schedule .edwin {
+#colourful:target ~ .schedule .edwin {
   color: white;
   background-color: #FF5AAF;
 }
-#colours:target ~ .schedule .filip {
+#colourful:target ~ .schedule .filip {
   color: white;
   background-color: #009F81;
 }
-#colours:target ~ .schedule .fred {
+#colourful:target ~ .schedule .fred {
   color: white;
   background-color: #9F0162;
 }
-#colours:target ~ .schedule .lindsey {
+#colourful:target ~ .schedule .lindsey {
   color: white;
   background-color: #E20134;
 }
-#colours:target ~ .schedule .perdita {
+#colourful:target ~ .schedule .perdita {
   color: white;
   background-color: #8400CD;
 }
-#colours:target ~ .schedule .rob {
+#colourful:target ~ .schedule .rob {
   color: white;
   background-color: #9F0162;
 }
-#colours:target ~ .schedule .robbert {
+#colourful:target ~ .schedule .robbert {
   color: white;
   background-color: #008DF9;
 }
