@@ -25,6 +25,9 @@ The School takes place in the following locations:
 - The Meadows Lecture Theatre (**MLT**), Room G.07 at the Old Medical School, Doorway 4, Teviot Pl, Edinburgh EH8 9AG
 - The Informatics Forum (**INF**), Room G.07, 10 Crichton Street, Edinburgh EH8 9AB
 
+<div id="colours"></div>
+<div id="plain"></div>
+
 <div class="schedule">
  <table>
   <tr>
@@ -38,14 +41,14 @@ The School takes place in the following locations:
   <tr>
     <td class="time">09:00 &ndash; 09:30</td>
     <td class="registration">Registration&nbsp;<sup>ALT</sup></td>
-    <td rowspan=3 class="lecture">Edwin&nbsp;<sup>ALT</sup></td>
-    <td rowspan=3 class="lecture">Robbert&nbsp;<sup>ALT</sup></td>
-    <td rowspan=3 class="lecture">Perdita&nbsp;<sup>MLT</sup></td>
-    <td rowspan=3 class="lecture">Lindsey&nbsp;<sup>INF</sup></td>
+    <td rowspan=3 class="edwin">Edwin&nbsp;<sup>ALT</sup></td>
+    <td rowspan=3 class="robbert">Robbert&nbsp;<sup>ALT</sup></td>
+    <td rowspan=3 class="perdita">Perdita&nbsp;<sup>MLT</sup></td>
+    <td rowspan=3 class="lindsey">Lindsey&nbsp;<sup>INF</sup></td>
   </tr>
   <tr>
     <td class="time">09:30 &ndash; 10:00</td>
-    <td rowspan=3 class="lecture">Rob&nbsp;<sup>ALT</sup></td>
+    <td rowspan=3 class="rob">Rob&nbsp;<sup>ALT</sup></td>
   </tr>
   <tr>
     <td class="time">10:00 &ndash; 10:30</td>
@@ -60,14 +63,14 @@ The School takes place in the following locations:
   <tr>
     <td class="time">11:00 &ndash; 11:30</td>
     <td class="coffee">Coffee&nbsp;<sup>ALT</sup></td>
-    <td rowspan=3 class="lecture">Perdita&nbsp;<sup>ALT</sup></td>
-    <td rowspan=3 class="lecture">Lindsey&nbsp;<sup>ALT</sup></td>
-    <td rowspan=3 class="lecture">Rob&nbsp;<sup>ALT</sup> | Fred&nbsp;<sup>MLT</sup></td>
-    <td rowspan=3 class="lecture">Robbert&nbsp;<sup>INF</sup></td>
+    <td rowspan=3 class="perdita">Perdita&nbsp;<sup>ALT</sup></td>
+    <td rowspan=3 class="lindsey">Lindsey&nbsp;<sup>ALT</sup></td>
+    <td rowspan=3 class="rob">Rob&nbsp;<sup>ALT</sup> | Fred&nbsp;<sup>MLT</sup></td>
+    <td rowspan=3 class="robbert">Robbert&nbsp;<sup>INF</sup></td>
   </tr>
   <tr>
     <td class="time">11:30 &ndash; 12:00</td>
-    <td rowspan=3 class="lecture">Fred&nbsp;<sup>ALT</sup></td>
+    <td rowspan=3 class="fred">Fred&nbsp;<sup>ALT</sup></td>
   </tr>
   <tr>
     <td class="time">12:00 &ndash; 12:30</td>
@@ -88,11 +91,11 @@ The School takes place in the following locations:
   </tr>
   <tr>
     <td class="time">14:00 &ndash; 14:30</td>
-     <td rowspan=3 class="lecture">Robbert&nbsp;<sup>ALT</sup></td>
-     <td rowspan=3 class="lecture">Rob&nbsp;<sup>ALT</sup> | Fred&nbsp;<sup>MLT</sup></td>
+     <td rowspan=3 class="robbert">Robbert&nbsp;<sup>ALT</sup></td>
+     <td rowspan=3 class="rob">Rob&nbsp;<sup>ALT</sup> | Fred&nbsp;<sup>MLT</sup></td>
      <td rowspan=10 class="excursion"></td>
-     <td rowspan=3 class="lecture">Filip&nbsp;<sup>ALT</sup></td>
-     <td rowspan=3 class="lecture">Edwin&nbsp;<sup>INF</sup></td>
+     <td rowspan=3 class="filip">Filip&nbsp;<sup>ALT</sup></td>
+     <td rowspan=3 class="edwin">Edwin&nbsp;<sup>INF</sup></td>
   </tr>
   <tr>
     <td class="time">14:30 &ndash; 15:00</td>
@@ -109,8 +112,8 @@ The School takes place in the following locations:
   </tr>
   <tr>
     <td class="time">16:00 &ndash; 16:30</td>
-    <td rowspan=3 class="lecture">Lindsey&nbsp;<sup>MLT</sup></td>
-    <td rowspan=3 class="lecture">Filip&nbsp;<sup>MLT</sup></td>
+    <td rowspan=3 class="lindsey">Lindsey&nbsp;<sup>MLT</sup></td>
+    <td rowspan=3 class="filip">Filip&nbsp;<sup>MLT</sup></td>
     <td rowspan=3 class="mentoring">Mentoring Event&nbsp;<sup>MLT</sup></td>
   </tr>
   <tr>
@@ -154,6 +157,10 @@ The School takes place in the following locations:
 </table>
 </div>
 
+<div>
+<form action="#colours" style="display: inline-block;"><input type="submit" value="colours"></form>
+<form action="#plain" style="display: inline-block;"><input type="submit" value="plain"></form>
+</div>
 
 ## Courses
 
