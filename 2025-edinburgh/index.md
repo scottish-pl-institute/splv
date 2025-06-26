@@ -244,8 +244,9 @@ The School takes place in the following locations:
   University of St Andrews
 
 : <details open>
-    <summary>Abstract</summary>
-    TBD
+  <summary>Abstract</summary>
+    Some FFI in Idris 2, some lessons from self hosting Idris 2, some mundane
+    but valuable uses of dependent types.
     </details>
 
 **Logical relations for program equivalence**
