@@ -322,14 +322,6 @@ supervisor. Participants will need to have a background in computer science,
 mathematics or a related discipline, and have basic familiarity with
 (functional) programming and logic.
 
-## Registration
-
-Application for early registration as well as scholarships and subsidised
-accommodation is now closed.
-
-Standard registration is now closed.
-
-
 ## Sponsors
 
 ### Gold & EDI Sponsors
@@ -374,6 +366,28 @@ width:180px;" src="assets/logo_well-typed.svg" alt="Well-Typed"/> </a>
 width:200px;" src="assets/logo_epn.png" alt="EuroProofNet"/> </a>
 
 </div>
+
+
+## Contact
+
+If you have any questions please contact the organisers at:
+
+<splv-2025-organisers-group@uoe.onmicrosoft.com>
+
+The organisers of SPLV25 are:
+
+* Malin Altenmüller <malin.altenmuller@ed.ac.uk>
+* Ohad Kammar <ohad.kammar@ed.ac.uk>
+* Sam Lindley <sam.lindley@ed.ac.uk>
+* Nachi Valliappan <nachi.v@ed.ac.uk>
+
+
+## Registration
+
+Application for early registration as well as scholarships and subsidised
+accommodation is now closed.
+
+Standard registration is now closed.
 
 ## Application
 
@@ -451,17 +465,3 @@ We can offer a limited amount of subsidised accommodation to those who fill in t
         £900 for 6 nights (Sunday 20th July--Saturday 26th July).
 
 We cannot offer additional (or fewer) nights of accommodation. Confirmations may include the offer of a room in subsidised accommodation.
-
-
-## Further Information
-
-If you have any questions please contact the organisers at:
-
-<splv-2025-organisers-group@uoe.onmicrosoft.com>
-
-The organisers of SPLV25 are:
-
-* Malin Altenmüller <malin.altenmuller@ed.ac.uk>
-* Ohad Kammar <ohad.kammar@ed.ac.uk>
-* Sam Lindley <sam.lindley@ed.ac.uk>
-* Nachi Valliappan <nachi.v@ed.ac.uk>
