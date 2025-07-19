@@ -125,8 +125,8 @@ The School takes place in the following locations:
   <tr>
     <td class="time">17:30 &ndash; 18:00</td>
     <td rowspan=5 class="social">Social&nbsp;<sup>INF</sup></td>
-	<td rowspan=3 class="freetime"></td>
     <td rowspan=9 class="freetime"></td>
+	<td rowspan=3 class="freetime"></td>
     <td rowspan=9 class="freetime"></td>
   </tr>
   <tr>
