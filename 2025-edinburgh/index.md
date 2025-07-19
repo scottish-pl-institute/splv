@@ -326,7 +326,7 @@ pub, walk around Holyrood park, etc.
 
 The SPLV dinner on Wednesday is at the [Playfair
 Library](https://www.uoecollection.com/conferences-events/venue-hubs/old-town-campus/old-college-and-playfair-library/),
-on South Bride, EH8 9YL.
+on South Bridge, EH8 9YL.
 
 ## Mentoring event
 
