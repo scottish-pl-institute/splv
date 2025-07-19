@@ -324,17 +324,44 @@ pub, walk around Holyrood park, etc.
 
 ## Dinner
 
-The School dinner on Wednesday is at the [Playfair
+The SPLV dinner on Wednesday is at the [Playfair
 Library](https://www.uoecollection.com/conferences-events/venue-hubs/old-town-campus/old-college-and-playfair-library/),
 on South Bride, EH8 9YL.
 
-## Mentoring Event
+## Mentoring event
 
 The mentoring event consists of two parts:
 
 - Talk by [Murdoch James Gabbay](https://www.gabbay.org.uk/)
 - Panel session with: Lindsey Kuper, Robbert Krebbers, Anton Lorenzen, Cristina
   Matache, and Perdita Stevens
+
+## Places to eat
+
+There are many places to eat around Edinburgh. Here's a somewhat ad
+hoc list of places close to the university that members of the PL
+group sometimes frequent:
+
+* Mosque Kitchen (there are two of these)
+* Nile Valley
+* Maki & Ramen (the one on Nicolson Street)
+* Shish
+* Beirut
+* Satoru
+* Pizza Posto
+* San Chuan
+* Sen
+* Umi
+* Mother India
+* Roti
+* Paradise Palms
+* Soderberg
+* Ting Thai
+* Nanyang
+* Tanjore
+* Ciao Roma
+* Civerinos (the one on Forrest Road)
+* Holyrood 9A
 
 ## Prerequisites
 
@@ -347,7 +374,7 @@ mathematics or a related discipline, and have basic familiarity with
 
 ## Sponsors
 
-### Gold & EDI Sponsors
+### Gold & EDI sponsors
 
 <div class="logos">
 
@@ -359,17 +386,17 @@ width:180px;" src="assets/logo_sigplan.svg" alt="ACM SIGPLAN"/> </a>
 
 </div>
 
-### Silver & EDI Sponsor
+### Silver & EDI sponsor
 
 <a href="https://aws.amazon.com/"><img style="padding-bottom:6px; width:180px;"
 src="assets/logo_aws.svg" alt="Amazon Web Services"/> </a>
 
-### Bronze & EDI Sponsor
+### Bronze & EDI sponsor
 
 <a href="https://www.sc.com/en/"><img style="padding-bottom:6px; width:180px;"
 src="assets/logo_sc.png" alt="Standard Chartered Bank"/> </a>
 
-### Bronze Sponsors
+### Bronze sponsors
 
 <div class="logos">
 
@@ -381,7 +408,7 @@ width:180px;" src="assets/logo_well-typed.svg" alt="Well-Typed"/> </a>
 
 </div>
 
-### EDI Sponsor
+### EDI sponsor
 
 <div class="logos">
 
