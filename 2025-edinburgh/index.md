@@ -313,6 +313,28 @@ Unfortunately, Simon Fowler is unable to join us and had to cancel his course.
   </details>
 </details>
 
+## Excursion
+
+On Wednesday afternoon we will visit the [National Museum of
+Scotland](https://www.nms.ac.uk/national-museum-of-scotland) on Chambers
+Street.
+
+Between the excursion and the dinner, there is time to explore the city, go to a
+pub, walk around Holyrood park, etc.
+
+## Dinner
+
+The School dinner on Wednesday is at the [Playfair
+Library](https://www.uoecollection.com/conferences-events/venue-hubs/old-town-campus/old-college-and-playfair-library/),
+on South Bride, EH8 9YL.
+
+## Mentoring Event
+
+The mentoring event consists of two parts:
+
+- Talk by [Murdoch James Gabbay](https://www.gabbay.org.uk/)
+- Panel session with: Lindsey Kuper, Robbert Krebbers, Anton Lorenzen, Cristina
+  Matache, and Perdita Stevens
 
 ## Prerequisites
 
