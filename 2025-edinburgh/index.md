@@ -114,7 +114,7 @@ The School takes place in the following locations:
     <td class="time">16:00 &ndash; 16:30</td>
     <td rowspan=3 class="lindsey">Lindsey&nbsp;<sup>MLT</sup></td>
     <td rowspan=3 class="filip">Filip&nbsp;<sup>MLT</sup></td>
-    <td rowspan=3 class="mentoring">[Mentoring Event](#mentoring event)&nbsp;<sup>MLT</sup></td>
+    <td rowspan=3 class="mentoring">[Mentoring Event](#mentoring-event)&nbsp;<sup>MLT</sup></td>
   </tr>
   <tr>
     <td class="time">16:30 &ndash; 17:00</td>
