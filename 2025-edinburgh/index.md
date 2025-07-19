@@ -93,7 +93,7 @@ The School takes place in the following locations:
     <td class="time">14:00 &ndash; 14:30</td>
      <td rowspan=3 class="robbert">Robbert&nbsp;<sup>ALT</sup></td>
      <td rowspan=3 class="rob">Rob&nbsp;<sup>ALT</sup> | Fred&nbsp;<sup>MLT</sup></td>
-     <td rowspan=10 class="excursion"></td>
+     <td rowspan=7 class="excursion"></td>
      <td rowspan=3 class="filip">Filip&nbsp;<sup>ALT</sup></td>
      <td rowspan=3 class="edwin">Edwin&nbsp;<sup>INF</sup></td>
   </tr>
@@ -125,6 +125,7 @@ The School takes place in the following locations:
   <tr>
     <td class="time">17:30 &ndash; 18:00</td>
     <td rowspan=5 class="social">Social&nbsp;<sup>INF</sup></td>
+	<td rowspan=3 class="freetime"></td>
     <td rowspan=9 class="freetime"></td>
     <td rowspan=9 class="freetime"></td>
   </tr>
