@@ -208,9 +208,7 @@ summary {
 .excursion {
   background-color: #FFC33B;
 }
-.excursion::before {
-  content: "Excursion";
-}
+
 .farewell {
   background-color: #FFFFFF;
 }

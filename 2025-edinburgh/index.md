@@ -93,7 +93,7 @@ The School takes place in the following locations:
     <td class="time">14:00 &ndash; 14:30</td>
      <td rowspan=3 class="robbert">Robbert&nbsp;<sup>ALT</sup></td>
      <td rowspan=3 class="rob">Rob&nbsp;<sup>ALT</sup> | Fred&nbsp;<sup>MLT</sup></td>
-     <td rowspan=7 class="excursion"></td>
+     <td rowspan=7 class="excursion">[Excursion](#excursion)</td>
      <td rowspan=3 class="filip">Filip&nbsp;<sup>ALT</sup></td>
      <td rowspan=3 class="edwin">Edwin&nbsp;<sup>INF</sup></td>
   </tr>
@@ -114,7 +114,7 @@ The School takes place in the following locations:
     <td class="time">16:00 &ndash; 16:30</td>
     <td rowspan=3 class="lindsey">Lindsey&nbsp;<sup>MLT</sup></td>
     <td rowspan=3 class="filip">Filip&nbsp;<sup>MLT</sup></td>
-    <td rowspan=3 class="mentoring">Mentoring Event&nbsp;<sup>MLT</sup></td>
+    <td rowspan=3 class="mentoring">[Mentoring Event](#mentoring event)&nbsp;<sup>MLT</sup></td>
   </tr>
   <tr>
     <td class="time">16:30 &ndash; 17:00</td>
@@ -137,7 +137,7 @@ The School takes place in the following locations:
   </tr>
   <tr>
     <td class="time">19:00 &ndash; 19:30</td>
-    <td rowspan=6 class="dinner">Dinner</td>
+    <td rowspan=6 class="dinner">[Dinner](#dinner)</td>
   </tr>
   <tr>
     <td class="time">19:30 &ndash; 20:00</td>
