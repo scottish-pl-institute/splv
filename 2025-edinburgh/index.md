@@ -315,16 +315,23 @@ Unfortunately, Simon Fowler is unable to join us and had to cancel his course.
 
 ## Excursion
 
-On Wednesday afternoon we will visit the [National Museum of
-Scotland](https://www.nms.ac.uk/national-museum-of-scotland) on Chambers
-Street.
+On Wednesday after lunch we will visit the [National Museum of
+Scotland](https://www.nms.ac.uk/national-museum-of-scotland) on
+Chambers Street.
 
-Between the excursion and the dinner, there is time to explore the city, go to a
-pub, walk around Holyrood park, etc.
+Between the excursion and the dinner, there is time to explore the
+city, go to a cafe / pub, walk around Holyrood park, etc.
+
+If the weather's not terrible then we'll organise some walks around
+Holyrood Park, for those who are keen, after the trip to the
+museum. There will be a variety of options ranging from visiting St
+Margaret's Lake and the ruins of St Anthony's Chapel, to climbing
+Salisbury Crags, to climbing Arthur's Seat. We'll use Zulip to
+coordinate.
 
 ## Dinner
 
-The SPLV dinner on Wednesday is at the [Playfair
+The SPLV dinner on Wednesday is at 7pm on Wednesday at the [Playfair
 Library](https://www.uoecollection.com/conferences-events/venue-hubs/old-town-campus/old-college-and-playfair-library/),
 on South Bridge, EH8 9YL.
 
