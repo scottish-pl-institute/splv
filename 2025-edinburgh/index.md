@@ -107,7 +107,7 @@ The School takes place in the following locations:
     <td class="time">15:30 &ndash; 16:00</td>
     <td class="coffee">Coffee&nbsp;<sup>ALT</sup></td>
     <td class="coffee">Coffee&nbsp;<sup>ALT</sup></td>
-    <td class="coffee">Coffee&nbsp;<sup>ALT</sup></td>
+    <td class="coffee">Coffee&nbsp;<sup>ALT*</sup></td>
     <td rowspan=13 class="freetime"></td>
   </tr>
   <tr>
@@ -156,12 +156,14 @@ The School takes place in the following locations:
     <td class="time">21:30 &ndash; 22:00</td>
   </tr>
 </table>
+*The coffee break on Thursday afternoon is in Doorway 3 downstairs.
 </div>
 
 <div>
 <form action="#colourful" style="display: inline-block;"><input type="submit" value="colourful"></form>
 <form action="#plain" style="display: inline-block;"><input type="submit" value="plain"></form>
 </div>
+
 
 ## Courses
 
