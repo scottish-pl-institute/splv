@@ -17,6 +17,9 @@ stream](https://spls.zulipchat.com/#narrow/stream/481612-splv-2025).
 
 Registration for SPLV 2025 is now closed.
 
+<img src="assets/splv2025-forum.jpg" style="max-width:49%" alt="Group photo (Informatics Forum)" />
+<img src="assets/splv2025-arthurs-seat.jpg" style="max-width:49%" alt="Group photo (Arthur's Seat)" />
+
 ## Schedule
 
 The School takes place in the following locations:
