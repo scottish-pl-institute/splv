@@ -47,9 +47,16 @@ all SPLV events and activities operate under the [following Code of Conduct](COD
 
 # Steering committee
 
-* James Cheney (The University of Edinburgh) --- Chair
-* Jeremy Singer (University of Glasgow)
+* Jeremy Singer (University of Glasgow) --- Chair
 * Rob Stewart (Heriot-Watt University)
 * Susmit Sarkar (University of St Andrews)
 * Guillaume Allais (University of Strathclyde)
 * Sam Lindley (The University of Edinburgh)
+* Simon Fowler (University of Glasgow)
+
+# Past SC members
+* Ekaterina Komendantskaya (Heriot Watt University/University of Southampton)
+* Ohad Kammar (The University of Edinburgh)
+* Clemens Kupke (University of Strathclyde)
+* James Cheney (The University of Edinburgh) 
+
