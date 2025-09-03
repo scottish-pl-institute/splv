@@ -29,7 +29,7 @@ all SPLV events and activities operate under the [following Code of Conduct](COD
 
 ## Current Edition
 
-* 2026 edition in Glasgow
+* [2026 edition in Glasgow](2026-glasgow)
 
 ## Future Edition
 
