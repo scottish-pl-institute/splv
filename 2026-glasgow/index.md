@@ -31,6 +31,10 @@ about background knowledge.
 
 ## Contact
 
+You can reach the organisers at:
+
+<glasgow-splv-organisers@lists.cent.gla.ac.uk>
+
 The organisers of SPLV'26 are:
 
 * Simon Fowler <Simon.Fowler@glasgow.ac.uk>
@@ -43,5 +47,12 @@ The organisers of SPLV'26 are:
 ## Registration
 
 Early registration is not yet open. Check back in March 2026. 
+
+## Sponsors
+
+### Gold and EDI Sponsors
+
+<a href="https://www.sigplan.org/"><img style="padding-bottom:6px;
+width:180px;" src="assets/logo_sigplan.svg" alt="ACM SIGPLAN"/> </a>
 
 
