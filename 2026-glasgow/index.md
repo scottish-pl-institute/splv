@@ -8,12 +8,11 @@ custom_css:
 
 # SPLV'26: Scottish Programming Languages and Verification Summer School 2026
 
-## The University of Glasgow --- 3rd Aug to 7th Aug*
+## The University of Glasgow --- 3rd Aug to 7th Aug
 
 <!-- For SPLV 2026 announcements and updates, subscribe to our [SPLS Zulip
 stream](). -->
 
-\* Provisional dates, subject to confirmation. 
 
 
 ## Target Audience
@@ -50,7 +49,7 @@ Early registration is not yet open. Check back in March 2026.
 
 ## Sponsors
 
-### Gold and EDI Sponsors
+### Gold Sponsors
 
 <a href="https://www.sigplan.org/"><img style="padding-bottom:6px;
 width:180px;" src="assets/logo_sigplan.svg" alt="ACM SIGPLAN"/> </a>
