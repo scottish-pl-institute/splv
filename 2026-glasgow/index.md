@@ -30,7 +30,7 @@ Students will be able to book discounted en-suite rooms at the <a href="https://
 
 ## Course Line-up
 
-This year we have **4 invited core courses**, one of which whom is an external guest speak, to be announced in early 2026. We also have 6 contributed courses that will be running in parallel tracks.
+This year we have **4 invited core courses**, one of which whom is an external guest speaker, to be announced in early 2026. We also have 6 contributed courses that will be running in parallel tracks.
 
 ### Core Courses
 
