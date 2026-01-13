@@ -102,3 +102,9 @@ Early registration is not yet open. Check back in March 2026.
 width:180px;" src="assets/logo_sigplan.svg" alt="ACM SIGPLAN"/> </a>
 
 
+### Bronze Sponsors
+
+<a href="https://www.well-typed.com/"><img style="padding-bottom:6px;
+width:180px;" src="assets/logo_well-typed.svg" alt="Well-Typed"/> </a>
+
+
