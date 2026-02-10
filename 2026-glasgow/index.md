@@ -102,6 +102,12 @@ Early registration is not yet open. Check back in March 2026.
 width:180px;" src="assets/logo_sigplan.svg" alt="ACM SIGPLAN"/> </a>
 
 
+### Silver Sponsors
+
+<a href="https://www.janestreet.com/"><img style="padding-bottom:6px;
+width:180px;" src="assets/logo_janest.svg" alt="Jane Street"/> </a>
+
+
 ### Bronze Sponsors
 
 <a href="https://www.well-typed.com/"><img style="padding-bottom:6px;
