@@ -1,0 +1,7 @@
+1. Given a category C with finite limits, give it a category with families struccture where types Ty(X) = C/X the slice category over X, and Tm(X, A) = sections of A : Y -> X, i.e. morphisms f : Y -> X such that A . f = id. (Hint: This does not quite work, because pullbacks are not functorial on the nose, but feel free to ignore this.)
+
+2. Interpret disjoint union types A + B in the groupoid model.
+
+3. Does the D-sets model validate or refute the Law of Excluded Middle
+   (P : Prop) -> P + ¬ P? (We can interpret Prop = modest sets)
+

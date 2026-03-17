@@ -174,7 +174,7 @@ The School takes place in the following locations:
 <img class="avatar" src="assets/robbert_krebbers.png" />
 : **Guest Lecturer:** [Robbert Krebbers](https://robbertkrebbers.nl/), Radboud
   University Nijmegen
-
+**Slides:** [Monday](assets/slides/robbert-1.pdf), [Wednesday](assets/slides/robbert-2.pdf), [Friday](assets/slides/robbert-3.pdf),[Gitlab and Exercises](https://gitlab.science.ru.nl/pl/splv25)
 : <details open> <summary>Abstract</summary>
 	Concurrent programs are challenging to get right, especially if threads
     share access to memory. The formalism of "concurrent separation Logic"
@@ -194,6 +194,7 @@ The School takes place in the following locations:
 <img class="avatar" src="assets/lindsey_kuper.jpg" />
 : **Guest Lecturer:** [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/),
   University of California, Santa Cruz
+**Slides:** [Monday](assets/slides/Kuper-1.pdf), [Wednesday](assets/slides/Kuper-2.pdf), [Friday](assets/slides/Kuper-3.pdf), Friday Extra Slides[1](assets/slides/kuper_extra_1.pdf),[2](assets/slides/kuper_extra_2.pdf)
 
 : <details open>
 	<summary>Abstract</summary>
@@ -208,10 +209,12 @@ The School takes place in the following locations:
     systems is necessary, only an open mind.
 	</details>
 
+
 **Core Course: Type theory**
 <img class="avatar" src="assets/fred_forsberg.jpg" />
 : **Lecturer:** [Fredrik Nordvall Forsberg](https://fredriknf.com/), University
   of Strathclyde
+**Slides:** [Monday](assets/slides/fred-1.pdf)[ (Exercises)](assets/slides/fred-ex-1.txt), [Tuesday](assets/slides/fred-2.pdf)[ (Exercises)](assets/slides/fred-ex-2.txt), [Thursday](assets/slides/fred-3.pdf)[ (Exercises)](assets/slides/fred-ex-3.txt)
 
 : <details open>
 	<summary>Abstract</summary>
@@ -231,6 +234,7 @@ The School takes place in the following locations:
 <img class="avatar" src="assets/rob_van_glabbeek.jpg" />
 : **Lecturer:** [Rob van Glabbeek](http://theory.stanford.edu/~rvg/), University
   of Edinburgh
+  **Slides:** [Collated](assets/slides/rob.pdf)
 
 : <details open>
     <summary>Abstract</summary>
@@ -259,6 +263,8 @@ The School takes place in the following locations:
 <img class="avatar" src="assets/filip_sieczkowski.png" />
 : **Lecturer:** [Filip Sieczkowski](https://fsieczkowski.github.io/),
   Heriot-Watt University
+  **Slides:** [Collated](assets/slides/filip.pdf), (System T Formalisation)[assets/slides/systemt.tar.gz]
+
 
 : <details open>
     <summary>Abstract</summary>
@@ -276,6 +282,7 @@ The School takes place in the following locations:
 <img class="avatar" src="assets/perdita_stevens.jpg" />
 : **Lecturer:** [Perdita Stevens](https://perditastevens.com/), University of
   Edinburgh
+**Slides:** [Collated](assets/slides/perdita.pdf)
 
 : <details open>
     <summary>Abstract</summary>
@@ -344,7 +351,7 @@ on South Bridge, EH8 9YL.
 
 The mentoring event consists of two parts:
 
-- Talk by [Murdoch James Gabbay](https://www.gabbay.org.uk/)
+- Talk by [Murdoch James Gabbay](https://www.gabbay.org.uk/) with [slides]()
 - Panel session with: Lindsey Kuper, Robbert Krebbers, Anton Lorenzen, Cristina
   Matache, and Perdita Stevens
 

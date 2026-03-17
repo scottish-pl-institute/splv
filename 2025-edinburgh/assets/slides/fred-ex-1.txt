@@ -1,0 +1,11 @@
+1. State and prove a propositional uniqueness rule for the empty type.
+
+2. Show that the rules for identity types are equivalent to the following rules:
+     refl : (x : A) -> Id A x x
+     subst : (P : A -> Type) -> Id A x y -> P x -> P y
+     unique : (x y : A) -> (r : Id A x y)
+            -> Id ((Sigma a : A).Id A x a) (y , r) (x , refl)
+
+3. Use the recursion principle for Nat and a universe to show
+   (Id Nat 0 1) -> Empty. Can you do it without a universe?
+
