@@ -34,7 +34,7 @@ This year we have **4 invited core courses**, one of which whom is an external g
 
 ### Core Courses
 
-__Introduction to Typed Functional Programming and the Lambda Calculus__ by [Nachi Valliappan](https://nachivpn.me/) (University of Edinburgh)
+__Introduction to Types and Lambdas__ by [Nachi Valliappan](https://nachivpn.me/) (University of Edinburgh)
 
 
 __Introduction to Model Checking__ by [Oana Andrei](https://www.gla.ac.uk/schools/computing/staff/oanaandrei/) (University of Glasgow)
