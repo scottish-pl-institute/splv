@@ -40,7 +40,7 @@ __Introduction to Types and Lambdas__ by [Nachi Valliappan](https://nachivpn.me/
 __Introduction to Model Checking__ by [Oana Andrei](https://www.gla.ac.uk/schools/computing/staff/oanaandrei/) (University of Glasgow)
 
 
-__Introduction to Category Theory__ by [Bob Atkey](https://bentnib.org/) (Strathclyde University)
+__Introduction to Category Theory__ by [Bob Atkey](https://bentnib.org/) (University of Strathclyde)
 
 
 __[Surprise Talk]__ by [_Exciting Guest Speaker_]
@@ -52,13 +52,13 @@ __Formal Modelling with Bigraphs__ by [Blair Archibald](https://www.blairarchiba
 
 __Distributed Systems: A Logical Approach​__ by [Jamie Gabbay](https://gabbay.org.uk/) (Heriot-Watt University)
 
-__Modal Fixpoint Logics__ by [Clemens Kupke](https://www.strath.ac.uk/staff/kupkeclemensdr/) (Strathclyde University)
+__Modal Fixpoint Logics__ by [Clemens Kupke](https://www.strath.ac.uk/staff/kupkeclemensdr/) (University of Strathclyde)
 
 __Algebra and Normalisation​__ by [Ohad Kammar](https://denotational.co.uk/) (University of Edinburgh)
 
 __Resource-constrained compiler construction for functional languages__ by [Wim Vanderbauwhede](https://www.gla.ac.uk/schools/computing/staff/wimvanderbauwhede/) (University of Glasgow)
 
-__Building Highly-Assured Compilers using Dependent Types​__ by [Jan de Muijnck-Hughes](https://tyde.systems/) (Strathclyde University)
+__Building Highly-Assured Compilers using Dependent Types​__ by [Jan de Muijnck-Hughes](https://tyde.systems/) (University of Strathclyde)
 
 
 
