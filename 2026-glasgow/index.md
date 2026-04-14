@@ -92,7 +92,11 @@ The organisers of SPLV'26 are:
 
 ## Registration
 
-Early registration is not yet open. Check back in March 2026. 
+Pre-registration is now open! Thanks to generous sponsorship, we hope to be able to offer subsidised accommodation (£234 for the week) and studentships (waived registration fee) to participants. If you would like to express interest in a studentship or subsidised accommodation, please fill in the following form by Monday 27th April 2026. We will be in touch shortly after this date to confirm whether we can offer a studentship.
+ 
+https://tinyurl.com/splv-pre-registration-26 
+
+We plan to prioritise students from SPLI institutions for studentships, but may be able to offer some studentships more widely depending on budget and uptake. We anticipate a larger number of places in subsidised accommodation to be available.
 
 ## Sponsors
 
