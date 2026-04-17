@@ -25,7 +25,8 @@ A more detailed campus map is available <a href="assets/Campus-Map.pdf">here</a>
 
 ## Accommodation
 
-Students will be able to book discounted en-suite rooms at the <a href="https://maps.app.goo.gl/eRVwc5h41jU8k3VC8">Queen Margaret Residences</a>, a 25-mins walk away from campus. Price will be **£39/night**.
+Students will be able to book discounted en-suite rooms at the <a href="https://maps.app.goo.gl/eRVwc5h41jU8k3VC8">Queen Margaret Residences</a>, a 25-mins walk away from campus. Price will be **£39/night**, with check-in on Sunday afternoon 
+and check-out on Friday. 
 
 
 ## Course Line-up
@@ -92,8 +93,8 @@ The organisers of SPLV'26 are:
 
 ## Registration
 
-Pre-registration is now open! Thanks to generous sponsorship, we hope to be able to offer subsidised accommodation (£234 for the week) and studentships (waived registration fee) to participants. If you would like to express interest in a studentship or subsidised accommodation, please fill in the following form by Monday 27th April 2026. We will be in touch shortly after this date to confirm whether we can offer a studentship.
- 
+Pre-registration is now open! Thanks to generous sponsorship, we hope to be able to offer subsidised accommodation (£193 for the week) and studentships (waived registration fee) to participants. If you would like to express interest in a studentship or subsidised accommodation, please fill in the following form by Monday 27th April 2026. We will be in touch shortly after this date to confirm whether we can offer a studentship.
+
 [https://tinyurl.com/splv-pre-registration-26](https://tinyurl.com/splv-pre-registration-26) 
 
 We plan to prioritise students from SPLI institutions for studentships, but may be able to offer some studentships more widely depending on budget and uptake. We anticipate a larger number of places in subsidised accommodation to be available.
