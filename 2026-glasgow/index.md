@@ -106,6 +106,9 @@ We plan to prioritise students from SPLI institutions for studentships, but may 
 <a href="https://www.sigplan.org/"><img style="padding-bottom:6px;
 width:180px;" src="assets/logo_sigplan.svg" alt="ACM SIGPLAN"/> </a>
 
+<a href="https://aws.amazon.com/"><img style="padding-bottom:6px; width:180px;"
+src="assets/logo_aws.svg" alt="Amazon Web Services"/> </a>
+
 
 ### Silver Sponsors
 
