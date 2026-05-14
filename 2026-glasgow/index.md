@@ -31,21 +31,15 @@ and check-out on Friday.
 
 ## Course Line-up
 
-This year we have **4 invited core courses**, one of which whom is an external guest speaker, to be announced in early 2026. We also have 6 contributed courses that will be running in parallel tracks.
+This year we have **3 invited core courses**. We also have 6 contributed courses that will be running in parallel tracks.
 
 ### Core Courses
 
 __Introduction to Types and Lambdas__ by [Nachi Valliappan](https://nachivpn.me/) (University of Edinburgh)
 
-
 __Introduction to Model Checking__ by [Oana Andrei](https://www.gla.ac.uk/schools/computing/staff/oanaandrei/) (University of Glasgow)
 
-
 __Introduction to Category Theory__ by [Bob Atkey](https://bentnib.org/) (University of Strathclyde)
-
-
-__[Surprise Talk]__ by [_Exciting Guest Speaker_]
-
 
 ### Contributed Talks
 
@@ -93,11 +87,21 @@ The organisers of SPLV'26 are:
 
 ## Registration
 
-Pre-registration is now open! Thanks to generous sponsorship, we hope to be able to offer subsidised accommodation (£193 for the week) and studentships (waived registration fee) to participants. If you would like to express interest in a studentship or subsidised accommodation, please fill in the following form by Monday 27th April 2026. We will be in touch shortly after this date to confirm whether we can offer a studentship.
+Registration is now open via [Eventbrite](https://www.eventbrite.co.uk/e/splv-2026-summer-school-tickets-1989312724911).
 
-[https://tinyurl.com/splv-pre-registration-26](https://tinyurl.com/splv-pre-registration-26) 
+Registration is priced as:
 
-We plan to prioritise students from SPLI institutions for studentships, but may be able to offer some studentships more widely depending on budget and uptake. We anticipate a larger number of places in subsidised accommodation to be available.
+  * Academic (early, registration deadline 30th June 2026): £260
+  * Academic (late): £360
+  * Standard (early, registration deadline 30th June 2026): £760
+  * Standard (late): £860
+
+This includes access to all sessions, catered lunch, social events, and a catered reception at Glasgow City Chambers.
+
+We also have a limited amount of subsidised accommodation remaining at £195 for an en-suite room in 
+[Queen Margaret Residences](https://www.gla.ac.uk/myglasgow/accommodation/visitorstouristsgroups/residences/queenmargaretresidences/),
+checking in on Sunday 2nd August and checking out on Friday 7th August.
+You can book this from the registration page.
 
 ## Sponsors
 
