@@ -41,7 +41,7 @@ __Introduction to Model Checking__ by [Oana Andrei](https://www.gla.ac.uk/school
 
 __Introduction to Category Theory__ by [Bob Atkey](https://bentnib.org/) (University of Strathclyde)
 
-### Contributed Talks
+### Contributed Courses
 
 __Formal Modelling with Bigraphs__ by [Blair Archibald](https://www.blairarchibald.co.uk/) (University of Glasgow)
 
