@@ -79,10 +79,8 @@ In this tutorial we explore bigraphs through a practical lense: how do we specif
 <img class="avatar" src="assets/clemens.jpeg">
 Modal Logics are used to reason about the finite behaviour of state-based dynamical systems. To be able to express properties of the ongoing, possibly infinite behaviour, one adds fixpoint operators to the logics. This class will explain the fundamentals of how this is done. The content is structured in the following three parts:
 
-(i) Intro to Modal and Temporal Logics
-
-(ii) Fixpoints and their Game characterisation
-
+(i) Intro to Modal and Temporal Logics<br>
+(ii) Fixpoints and their Game characterisation<br>
 (iii) A very brief intro to the modal mu calculus 
 </details><br>
 
@@ -195,8 +193,8 @@ width:180px;" src="assets/logo_well-typed.svg" alt="Well-Typed"/> </a>
   .avatar {
     float: left;
     vertical-align: middle;
-    width: 80px;
-    height: 80px;
+    width: 100px;
+    height: 100px;
     border-radius: 50%;
     padding: 10px;
   }
