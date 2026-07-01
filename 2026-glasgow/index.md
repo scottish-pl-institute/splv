@@ -190,3 +190,14 @@ width:180px;" src="assets/logo_janest.svg" alt="Jane Street"/> </a>
 width:180px;" src="assets/logo_well-typed.svg" alt="Well-Typed"/> </a>
 
 
+<!-- Style -->
+<style type="text/css">
+  .avatar {
+    float: left;
+    vertical-align: middle;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    padding: 10px;
+  }
+</style>
