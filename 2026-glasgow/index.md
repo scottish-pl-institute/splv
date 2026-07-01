@@ -17,43 +17,124 @@ The 2026 edition of SPLV will be held at the University of Glasgow, with the mai
 ### Venue
 
 The main courses will be held in <a href="https://maps.app.goo.gl/TS6aUZFpzN7k3YzY6">One A, The Square</a>, right next to the University Chapel.
+A detailed campus map is available <a href="assets/Campus-Map.pdf">here</a>.
 
-<img src="assets/map-venue.png" alt="campus map"/>
-
-A more detailed campus map is available <a href="assets/Campus-Map.pdf">here</a>.
+<!-- <img src="assets/map-venue.png" alt="campus map"/> -->
 
 
-## Accommodation
+## Registration and Accommodation
 
-Students will be able to book discounted en-suite rooms at the <a href="https://maps.app.goo.gl/eRVwc5h41jU8k3VC8">Queen Margaret Residences</a>, a 25-mins walk away from campus. Price will be **£39/night**, with check-in on Sunday afternoon 
-and check-out on Friday. 
+Registration is now open via [Eventbrite](https://www.eventbrite.co.uk/e/splv-2026-summer-school-tickets-1989312724911).
+
+Registration is priced as:
+
+  * Academic (early, registration deadline 30th June 2026): £260
+  * Academic (late): £360
+  * Standard (early, registration deadline 30th June 2026): £760
+  * Standard (late): £860
+
+This includes access to all sessions, catered lunch, social events, and a catered reception at Glasgow City Chambers.
+
+We also have a limited amount of subsidised accommodation remaining at £195 for an en-suite room in 
+[Queen Margaret Residences](https://www.gla.ac.uk/myglasgow/accommodation/visitorstouristsgroups/residences/queenmargaretresidences/),
+checking in on Sunday 2nd August and checking out on Friday 7th August.
+You can book this from the registration page.
 
 
 ## Course Line-up
 
-This year we have **3 invited core courses**. We also have 6 contributed courses that will be running in parallel tracks.
+This year we have **3 invited core courses**, and **6 contributed courses**.
 
 ### Core Courses
 
-__Introduction to Types and Lambdas__ by [Nachi Valliappan](https://nachivpn.me/) (University of Edinburgh)
+<details closed>  <summary><strong>Introduction to Types and Lambdas</strong> by <a href="https://nachivpn.me/">Nachi Valliappan</a> (University of Edinburgh)</summary>
+<img class="avatar" src="assets/nachi.jpeg">
+Types were introduced to me as a restriction bolted on top of the untyped lambda calculus to prevent runtime errors caused by "stuck" terms. Shackles I must program with, because I could not be trusted with the power of the unruly lambda calculus. In this course, I will present types via the alternative discipline of intrinsic typing, which internalizes types into the definition of a lambda calculus and terms are well-typed (thus free of said errors) by construction. Shackles that the programming language designer must design with, because I should not even be given the opportunity to make these errors. The objective of this course is to provide an introduction to intrinsically well-typed lambda calculi and their interpreters. We will cover the "full" simply typed lambda calculus and some extensions, along with well-typed interpreters of these calculi in a variety of syntactic and semantic domains.
+</details><br>
 
-__Introduction to Model Checking__ by [Oana Andrei](https://www.gla.ac.uk/schools/computing/staff/oanaandrei/) (University of Glasgow)
 
-__Introduction to Category Theory__ by [Bob Atkey](https://bentnib.org/) (University of Strathclyde)
+<details closed>  <summary><strong>Introduction to Model Checking</strong> by <a href="https://www.gla.ac.uk/schools/computing/staff/oanaandrei/">Oana Andrei</a> (University of Glasgow)</summary>
+</details><br>
+
+
+<details closed>  <summary><strong>Introduction to Category Theory</strong> by <a href="https://bentnib.org/">Bob Atkey</a> (University of Strathclyde)</summary>
+</details><br>
+
 
 ### Contributed Courses
 
-__Formal Modelling with Bigraphs__ by [Blair Archibald](https://www.blairarchibald.co.uk/) (University of Glasgow)
+<details closed>  <summary><strong>Formal Modelling with Bigraphs</strong> by <a href="https://www.blairarchibald.co.uk/">Blair Archibald</a> (University of Glasgow)</summary>
+<img class="avatar" src="assets/blair.jpeg">
+Bigraphs are a versatile modelling formalism, originally by Milner, that describes systems in terms of both spatial placement, e.g. a Person within a Room, and non-local linking, e.g. that Person connected via a radio link to a Cell Tower. 
 
-__Distributed Systems: A Logical Approach​__ by [Jamie Gabbay](https://gabbay.org.uk/) (Heriot-Watt University)
+In this tutorial we explore bigraphs through a practical lense: how do we specify a system with bigraphs, how are bigraphs combined, how do users specify their own rewrite rules (including probabilistic rules), and how can we use bigraphs once they are defined. Students are welcome to follow along using the [BigraphER tool](https://bitbucket.org/uog-bigraph/bigraph-tools). This tutorial is suitable for beginners:  No knowledge of category theory needed!
+</details><br>
 
-__Modal Fixpoint Logics__ by [Clemens Kupke](https://www.strath.ac.uk/staff/kupkeclemensdr/) (University of Strathclyde)
 
-__Algebra and Normalisation​__ by [Ohad Kammar](https://denotational.co.uk/) (University of Edinburgh)
+<details closed>  <summary><strong>Distributed Systems: A Logical Approach</strong> by <a href="https://gabbay.org.uk/">Jamie Gabbay</a> (Heriot-Watt University)</summary>
+</details><br>
 
-__Resource-constrained compiler construction for functional languages__ by [Wim Vanderbauwhede](https://www.gla.ac.uk/schools/computing/staff/wimvanderbauwhede/) (University of Glasgow)
 
-__Building Highly-Assured Compilers using Dependent Types​__ by [Jan de Muijnck-Hughes](https://tyde.systems/) (University of Strathclyde)
+<details closed>  <summary><strong>Fixpoint Logics</strong> by <a href="https://www.strath.ac.uk/staff/kupkeclemensdr/">Clemens Kupke</a> (University of Strathclyde)</summary>
+<img class="avatar" src="assets/clemens.jpeg">
+Modal Logics are used to reason about the finite behaviour of state-based dynamical systems. To be able to express properties of the ongoing, possibly infinite behaviour, one adds fixpoint operators to the logics. This class will explain the fundamentals of how this is done. The content is structured in the following three parts:
+
+(i) Intro to Modal and Temporal Logics
+
+(ii) Fixpoints and their Game characterisation
+
+(iii) A very brief intro to the modal mu calculus 
+</details><br>
+
+
+<details closed>  <summary><strong>Algebra and Normalisation</strong> by <a href="https://denotational.co.uk/">Ohad Kammar</a> (University of Edinburgh)</summary>
+<img class="avatar" src="assets/ohad.jpeg">
+
+Normalisation concerns specifying a representative in each equivalence
+class. It comes up whenever we want to guarantee robustness up-to the
+equivalence relation. For example, a normalising optimising compiler
+will produce the same object code when you refactor your source code
+using the equivalence it normalises by. Advanced type-checkers may
+accept or reject programs by normalising fragments of their
+types. Modern partial evaluators take incorporate equational laws
+before extracting a residual program. The hallmark of modern algebra
+is representation theorems: characterising a structure such as the set
+of polynomials as the universal structure among a class of structures
+of interest.
+
+In this course, we will explore the relationship between normalisation
+and modern algebra. We will start with algebraic expressions and
+universal algebra, and relate them to normalisation and partial
+evaluation using multi-sorted equational logic. In the second part of
+the course, we will turn to normalisation of open-programs through the
+more advanced second-order algebraic structures.
+
+[Course web-page](https://denotational.co.uk/algebra-and-normalisation-splv-2026/)
+</details><br>
+
+
+<details closed>  <summary><strong>Resource-constrained compiler construction for functional languages</strong> by <a href="https://www.gla.ac.uk/schools/computing/staff/wimvanderbauwhede/">Wim Vanderbauwhede</a> (University of Glasgow)</summary>
+</details><br>
+
+
+<details closed>  <summary><strong>Building Highly-Assured Compilers using Dependent Types</strong> by <a href="https://tyde.systems/">Jan de Muijnck-Hughes</a> (University of Strathclyde)</summary>
+<img class="avatar" src="assets/jan.jpeg">
+Traditionally, designing our programming languages has been a
+pen-&-paper (LaTeX) exercise to describe syntax, semantics, and proofs
+that important properties hold.
+These designs must then be realised in software.
+However, writing software is challenging and errors will be made.
+Mechanisation offers a way to reduce design and implementation mistakes
+by making them both machine checkable.
+
+This course provides an introduction to mechanised programming language
+design using dependent types.
+We will also explore how the same mechanised proofs lay the foundation
+for a verified pipeline for type-checking and executing programs.
+
+No prior experience with dependently-typed programming is required;
+ample reference material will be provided!
+</details><br>
 
 
 
@@ -85,23 +166,6 @@ The organisers of SPLV'26 are:
 * Jeremy Singer <Jeremy.Singer@glasgow.ac.uk>
 
 
-## Registration
-
-Registration is now open via [Eventbrite](https://www.eventbrite.co.uk/e/splv-2026-summer-school-tickets-1989312724911).
-
-Registration is priced as:
-
-  * Academic (early, registration deadline 30th June 2026): £260
-  * Academic (late): £360
-  * Standard (early, registration deadline 30th June 2026): £760
-  * Standard (late): £860
-
-This includes access to all sessions, catered lunch, social events, and a catered reception at Glasgow City Chambers.
-
-We also have a limited amount of subsidised accommodation remaining at £195 for an en-suite room in 
-[Queen Margaret Residences](https://www.gla.ac.uk/myglasgow/accommodation/visitorstouristsgroups/residences/queenmargaretresidences/),
-checking in on Sunday 2nd August and checking out on Friday 7th August.
-You can book this from the registration page.
 
 ## Sponsors
 
