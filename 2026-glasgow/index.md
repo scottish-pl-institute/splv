@@ -53,11 +53,17 @@ Types were introduced to me as a restriction bolted on top of the untyped lambda
 </details><br>
 
 
-<details closed>  <summary><strong>Introduction to Model Checking</strong> by <a href="https://www.gla.ac.uk/schools/computing/staff/oanaandrei/">Oana Andrei</a> (University of Glasgow)</summary>
+<details closed>  <summary><strong>Introduction to Model Checking with PRISM</strong> by <a href="https://www.gla.ac.uk/schools/computing/staff/oanaandrei/">Oana Andrei</a> (University of Glasgow)</summary>
+<img class="avatar" src="assets/oana.jpeg">
+
+Model checking is an automated technique for verifying whether a system satisfies its requirements by exploring all of its possible behaviours. In this tutorial we will learn how to model systems as transition systems, specify behavioural requirements using temporal logic, and use model checking to verify properties or generate counterexamples when they are violated. We will then explore these ideas in practice using the PRISM model checker, including a brief introduction to probabilistic model checking. Students are welcome to follow along using PRISM (https://prismmodelchecker.org) on their own laptops. This tutorial is suitable for beginners: no prior knowledge of model checking, formal verification or temporal logic is required.
 </details><br>
 
 
 <details closed>  <summary><strong>Introduction to Category Theory</strong> by <a href="https://bentnib.org/">Bob Atkey</a> (University of Strathclyde)</summary>
+<img class="avatar" src="assets/bob.jpeg">
+
+Category Theory is a unifying language for describing mathematical structures and has been especially successful with the kinds of mathematical structures that arise in Computer Science. I will motivate the use of Category Theory in Programming Language and Verification research with some examples, covering the basic notions of category, functor, natural transformations, and universal properties.
 </details><br>
 
 
@@ -72,12 +78,47 @@ In this tutorial we explore bigraphs through a practical lense: how do we specif
 
 
 <details closed>  <summary><strong>Distributed Systems: A Logical Approach</strong> by <a href="https://gabbay.org.uk/">Jamie Gabbay</a> (Heriot-Watt University)</summary>
+<img class="avatar" src="assets/jamie.jpeg">
+
+<p>An algorithm (= protocol) is distributed when it runs across multiple participants, without central control. A good distributed algorithm allows multiple participants to arrive at some common goal, even though there is no central controller, and even though some participants may not be following the protocol, e.g. they may have crashed, or be actively misbehaving.</p>
+
+<p>Distributed protocols are usually specified as small (or not-so-small) imperative programs. In this course I will present an alternative declarative approach, based on logic. This is to traditional approaches as functional programming is to imperative programming: higher level of abstraction, shorter code, simpler proofs.</p>
+
+<p>The rule of thumb is that declarative methods reduce complexity by a factor of 10 (10x shorter code; 10x shorter proofs). This means that a protocol that took 10 pages of specification and 100 pages of proof in imperative style, in declarative style takes 1 page of specification and 5-10 pages of proof. This is not a projection, it is from a real example.</p>
+
+<p>My approach has been battle-tested on a proposed industrial protocol. It was studied using declarative methods and shown to be incorrect. Using the same declarative methods, the error was fixed. This fix involved nontrivial changes to the basic conceptual structure of the protocol, which were relatively straightforward to see in declarative style but were not evident in the imperative presentation.</p>
+
+<p>In this course, I will give an overview of these methods, starting with simple protocols like Bracha Broadcast and Crusader Agreement, then moving to Paxos and, time permitting, the industrial protocol.</p>
+
+<p>If you want to get a feel for the style of these techniques, you can look at the following resources:</p>
+
+<ol>
+<li><strong>Bracha Broadcast / Crusader Agreement:</strong>
+"Declarative distributed algorithms as axiomatic theories in three-valued modal logic over semitopologies" https://arxiv.org/pdf/2512.21137 (in press with Journal of Applied Logics).
+A Lean formalisation of the proofs is at https://github.com/janmasrovira/mlda
+</li>
+
+<li>
+<strong>Paxos:</strong>
+"A declarative approach to specifying distributed algorithms using three-valued modal logic" https://arxiv.org/pdf/2502.00892 (submitted)
+</li>
+
+<li>
+<strong>The industrial protocol:</strong>
+"Heterogeneous trust in reliable broadcast via modal logic and history structures" https://zenodo.org/records/17636313 (submitted).
+A Lean formalisation of the proofs is at https://doi.org/10.5281/zenodo.17611735
+</li>
+
+<p>For light reading see also:</p>
+<ul>
+<li>"Decentralised collaborative action: cryptoeconomics in space" https://arxiv.org/pdf/2504.12493 </li>
+<li>A toy model-checking tool, implementing many of these ideas, is at https://github.com/bellissimogiorno/declarative-protocols </li>
 </details><br>
 
 
 <details closed>  <summary><strong>Fixpoint Logics</strong> by <a href="https://www.strath.ac.uk/staff/kupkeclemensdr/">Clemens Kupke</a> (University of Strathclyde)</summary>
 <img class="avatar" src="assets/clemens.jpeg">
-Modal Logics are used to reason about the finite behaviour of state-based dynamical systems. To be able to express properties of the ongoing, possibly infinite behaviour, one adds fixpoint operators to the logics. This class will explain the fundamentals of how this is done. The content is structured in the following three parts:
+Modal Logics are used to reason about the finite behaviour of state-based dynamical systems. To be able to express properties of the ongoing, possibly infinite behaviour, one adds fixpoint operators to the logics. This class will explain the fundamentals of how this is done. The content is structured in the following three parts: <br>
 
 (i) Intro to Modal and Temporal Logics<br>
 (ii) Fixpoints and their Game characterisation<br>
