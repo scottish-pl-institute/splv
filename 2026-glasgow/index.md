@@ -108,11 +108,13 @@ A Lean formalisation of the proofs is at https://github.com/janmasrovira/mlda
 "Heterogeneous trust in reliable broadcast via modal logic and history structures" https://zenodo.org/records/17636313 (submitted).
 A Lean formalisation of the proofs is at https://doi.org/10.5281/zenodo.17611735
 </li>
+</ol>
 
 <p>For light reading see also:</p>
-<ul>
+<ol>
 <li>"Decentralised collaborative action: cryptoeconomics in space" https://arxiv.org/pdf/2504.12493 </li>
 <li>A toy model-checking tool, implementing many of these ideas, is at https://github.com/bellissimogiorno/declarative-protocols </li>
+</ol>
 </details><br>
 
 
