@@ -155,6 +155,20 @@ more advanced second-order algebraic structures.
 
 
 <details closed>  <summary><strong>Resource-constrained compiler construction for functional languages</strong> by <a href="https://www.gla.ac.uk/schools/computing/staff/wimvanderbauwhede/">Wim Vanderbauwhede</a> (University of Glasgow)</summary>
+<img class="avatar" src="assets/wim.jpeg">
+
+<p>In this course we explain how to create a compiler for an expressive statically typed functional language targeting a resource-constrained VM (16K memory, 8-bit instructions) and what the challenges are in doing so. As ultimately the compiler should be able to run on the same VM, it has to be constructed in a resource-constrained way.</p>
+
+<p>The course will deal with the architectural and design choices. I will assume attendants have some knowledge of statically typed functional programming (Haskell, ML) with a Hindley-Milner-like type system, but I do not assume knowledge of compilers. </p>
+
+<p>The main blocks are:</p>
+
+<ul>
+<li> The target language, Funktal, an expressive statically typed functional language,  and its design choices</li>
+<li> The target platform for the language, the Uxn VM, and its assembly language Uxntal</li>
+<li> High-level view of a compiler</li>
+<li> How to create a resource-constrained compiler: principles, techniques, structure and design </li>
+</ul>
 </details><br>
 
 
