@@ -172,7 +172,8 @@ more advanced second-order algebraic structures.
 </details><br>
 
 
-<details closed>  <summary><strong>Building Highly-Assured Compilers using Dependent Types</strong> by <a href="https://tyde.systems/">Jan de Muijnck-Hughes</a> (University of Strathclyde)</summary>
+<details closed>  <summary><strong>
+Highly-Assured Programming Language Design and Implementation using Dependent Types</strong> by <a href="https://tyde.systems/">Jan de Muijnck-Hughes</a> (University of Strathclyde)</summary>
 <img class="avatar" src="assets/jan.jpeg">
 Traditionally, designing our programming languages has been a
 pen-&-paper (LaTeX) exercise to describe syntax, semantics, and proofs
