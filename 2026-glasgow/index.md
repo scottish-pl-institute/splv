@@ -193,6 +193,130 @@ ample reference material will be provided!
 </details><br>
 
 
+## Timetable
+
+<table>
+    <thead>
+        <tr>
+            <th>Time</th>
+            <th>Monday</th>
+            <th>Tuesday</th>
+            <th>Wednesday</th>
+            <th>Thursday</th>
+            <th>Friday</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>09:00 - 09:30</th>
+            <td>Registration</td>
+            <td rowspan="2">Ohad</td>
+            <td rowspan="2">Jamie</td>
+            <td rowspan="2">Jan</td>
+            <td rowspan="2">Oana</td>
+        </tr>
+        <tr>
+            <th>09:30 - 10:00</th>
+            <td rowspan="2">Bob</td>
+        </tr>
+        <tr>
+            <th>10:00 - 10:30</th>
+            <td rowspan="2">Blair</td>
+            <td rowspan="2">Bob</td>
+            <td rowspan="2">Ohad</td>
+            <td rowspan="2">Nachi</td>
+        </tr>
+        <tr>
+            <th>10:30 - 11:00</th>
+            <td rowspan="2">Wim</td>
+        </tr>
+        <tr>
+            <th>11:00 - 11:30</th>
+            <td>Coffee</td>
+            <td>Coffee</td>
+            <td>Coffee</td>
+            <td>Coffee</td>
+        </tr>
+        <tr>
+            <th>11:30 - 12:00</th>
+            <td>Coffee</td>
+            <td rowspan="2">Wim</td>
+            <td rowspan="2">Jan</td>
+            <td rowspan="2">Bob</td>
+            <td rowspan="2">Blair</td>
+        </tr>
+        <tr>
+            <th>12:00 - 12:30</th>
+            <td rowspan="2">Nachi</td>
+        </tr>
+        <tr>
+            <th>12:30 - 13:00</th>
+            <td rowspan="2">Lunch</td>
+            <td rowspan="2">Lunch</td>
+            <td rowspan="2">Lunch</td>
+            <td rowspan="2">Lunch</td>
+        </tr>
+        <tr>
+            <th>13:00 - 13:30</th>
+            <td rowspan="2">Lunch</td>
+        </tr>
+        <tr>
+            <th>13:30 - 14:00</th>
+            <td rowspan="2">Jamie</td>
+            <td rowspan="2">Clemens</td>
+            <td rowspan="2">Jamie</td>
+            <td rowspan="2">Clemens</td>
+        </tr>
+        <tr>
+            <th>14:00 - 14:30</th>
+            <td rowspan="2">Oana</td>
+        </tr>
+        <tr>
+            <th>14:30 - 15:00</th>
+            <td rowspan="2">Oana</td>
+            <td rowspan="6"> (Free)</td>
+            <td rowspan="2">Clemens</td>
+            <td rowspan="2">Ohad</td>
+        </tr>
+        <tr>
+            <th>15:00 - 15:30</th>
+            <td>Coffee</td>
+        </tr>
+        <tr>
+            <th>15:30 - 16:00</th>
+            <td rowspan="2">Wim</td>
+            <td>Coffee</td>
+            <td>Coffee</td>
+            <td rowspan="4"></td>
+        </tr>
+        <tr>
+            <th>16:00 - 16:30</th>
+            <td rowspan="2">Jan</td>
+            <td rowspan="2">Nachi</td>
+        </tr>
+        <tr>
+            <th>16:30 - 17:00</th>
+            <td rowspan="2">Blair</td>
+        </tr>
+        <tr>
+            <th>17:00 - 17:30</th>
+            <td></td><td></td>
+        </tr>
+        <tr>
+            <th></th>
+            <td></td><td></td><td></td><td></td><td></td>
+        </tr>
+        <tr>
+            <th>Evening</th>
+            <td></td>
+            <td>Reception</td>
+            <td>Dinner</td>
+            <td></td><td></td>
+        </tr>
+    </tbody>
+</table>
+
+
 
 ## Target Audience
 
