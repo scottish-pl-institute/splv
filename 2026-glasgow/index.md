@@ -49,7 +49,28 @@ This year we have **3 invited core courses**, and **6 contributed courses**.
 
 <details closed>  <summary><strong>Introduction to Types and Lambdas</strong> by <a href="https://nachivpn.me/">Nachi Valliappan</a> (University of Edinburgh)</summary>
 <img class="avatar" src="assets/nachi.jpeg">
-Types were introduced to me as a restriction bolted on top of the untyped lambda calculus to prevent runtime errors caused by "stuck" terms. Shackles I must program with, because I could not be trusted with the power of the unruly lambda calculus. In this course, I will present types via the alternative discipline of intrinsic typing, which internalizes types into the definition of a lambda calculus and terms are well-typed (thus free of said errors) by construction. Shackles that the programming language designer must design with, because I should not even be given the opportunity to make these errors. The objective of this course is to provide an introduction to intrinsically well-typed lambda calculi and their interpreters. We will cover the "full" simply typed lambda calculus and some extensions, along with well-typed interpreters of these calculi in a variety of syntactic and semantic domains.
+
+
+<p>Types were introduced to me as a restriction bolted on top of the
+untyped lambda calculus to prevent certain runtime errors. Shackles I
+must program with, because I cannot be trusted with the power of the
+unruly lambda calculus. In this course, I will present types through
+the lens of a different paradigm, where types are internalized into
+the definition of the calculus and terms are well-typed (thus free of
+said errors) by construction. This view of types, sometimes called an
+intrinsic view, aligns naturally with proof theory and is incredibly
+well suited for mechanization and mathematical treatment.</p>
+
+<p>The objective of this course is to provide an introduction to typed
+lambda calculi and their denotational semantics by means of well-typed
+interpreters. We will begin with a simply typed lambda calculus with
+products and sums, and go on to cover two different extensions of this
+calculus, one with a monad and another with a box modality.</p>
+
+<p>Bring pen and paper!</p>
+
+<p><a href="https://nachivpn.me/itl">Course page</a></p>
+
 </details><br>
 
 
