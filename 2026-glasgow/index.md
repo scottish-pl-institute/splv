@@ -21,6 +21,11 @@ A detailed campus map is available <a href="assets/Campus-Map.pdf">here</a>.
 
 <!-- <img src="assets/map-venue.png" alt="campus map"/> -->
 
+### Where to go on the day
+
+For registration on Monday, please head to One A, The Square. 
+There you will find members of the organisation committee and we will get you signed-up.
+
 
 ## Registration and Accommodation
 
