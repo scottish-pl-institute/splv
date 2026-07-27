@@ -210,7 +210,7 @@ ample reference material will be provided!
         <tr>
             <th>09:00 - 09:30</th>
             <td>Registration</td>
-            <td rowspan="2">Ohad</td>
+            <td rowspan="2">Nachi</td>
             <td rowspan="2">Jamie</td>
             <td rowspan="2">Jan</td>
             <td rowspan="2">Oana</td>
@@ -221,7 +221,7 @@ ample reference material will be provided!
         </tr>
         <tr>
             <th>10:00 - 10:30</th>
-            <td rowspan="2">Blair</td>
+            <td rowspan="2">Ohad</td>
             <td rowspan="2">Bob</td>
             <td rowspan="2">Ohad</td>
             <td rowspan="2">Nachi</td>
@@ -292,7 +292,7 @@ ample reference material will be provided!
         <tr>
             <th>16:00 - 16:30</th>
             <td rowspan="2">Jan</td>
-            <td rowspan="2">Nachi</td>
+            <td rowspan="2">Blair</td>
         </tr>
         <tr>
             <th>16:30 - 17:00</th>
