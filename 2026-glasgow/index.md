@@ -455,52 +455,52 @@ width:180px;" src="assets/logo_well-typed.svg" alt="Well-Typed"/> </a>
 
   .Bob{
     background-color: #EF4444; 
-    text: #cad5e2;
+    color: #cad5e2;
   }
   .Wim{
     background-color: #5b4f4b;
-    text: #cad5e2;
+    color: #cad5e2;
   }
   .Nachi{
     background-color: #d08700;
-    text: #cad5e2;
+    color: #cad5e2;
   }
   .Oana{
     background-color: #00bba7;
-    text: #cad5e2;
+    color: #cad5e2;
   }
   .Blair{
     background-color: #00a63e;
-    text: #cad5e2;
+    color: #cad5e2;
   }
   .Ohad{
     background-color: #8200db;
-    text: #cad5e2;
+    color: #cad5e2;
   }
   .Jan{
     background-color: #00a6f4;
-    text: #cad5e2;
+    color: #cad5e2;
   }
   .Clemens{
     background-color: #79716b;
-    text: #cad5e2;
+    color: #cad5e2;
   }
   .Jamie{
     background-color: #c800de;
-    text: #cad5e2;
+    color: #cad5e2;
 
   }
   .Coffee{
     background-color: #461901;
-    text: #cad5e2;
+    color: #cad5e2;
   }
   .Lunch{
     /* Colourless! */
     background-color: white;
-    text: black;
+    color: black;
   }
   .Social{
     background-color: #8b0836;
-    text: #cad5e2;x
+    color: #cad5e2;x
   }
 </style>
