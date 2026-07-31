@@ -23,9 +23,15 @@ A detailed campus map is available <a href="assets/Campus-Map.pdf">here</a>.
 
 ### Where to go on the day
 
-For registration on Monday, please head to One A, The Square. 
-There you will find members of the organisation committee and we will get you signed-up.
+For registration on Monday, please head to One A, The Square. There you will find members of the organisation committee and we will get you signed-up. To get here, please go to the [main gates](https://maps.app.goo.gl/1MmbjcZaLQWhxhAk8). We will make sure that the venue is signposted and members of the organisation team will be there to help on the day.  Registration will be open 9-9:30AM on Monday 3rd July; if you arrive later please just talk to an organiser and we will get you your badge. There is no need to print out your ticket; we will have a list of all participants.
 
+### Accommodation
+
+If you have booked accommodation, this is at [Queen Margaret Residences](https://maps.app.goo.gl/GoyfZ7DEKnXormFY8). Keys can be collected from the main reception in the Queen Margaret Residences Central Services Building from 2.00 pm on Sunday 2nd August. The site is staffed 24 hours a day, and security can assist with key collection outside normal reception hours. Check-out is by 10.00am on Friday 7th August.
+
+### Zulip
+
+Feel free to join [our Zulip](https://spls.zulipchat.com/#narrow/channel/620381-splv-2026/topic/Welcome.21/with/612954399)!
 
 ## Registration and Accommodation
 
@@ -51,9 +57,13 @@ You can book this from the registration page.
 This year we have **3 invited core courses**, and **6 contributed courses**.
 
 ### Core Courses
+<div class="flex">
 
-<details closed>  <summary><strong>Introduction to Types and Lambdas</strong> by <a href="https://nachivpn.me/">Nachi Valliappan</a> (University of Edinburgh)</summary>
-<img class="avatar" src="assets/nachi.jpeg">
+<details closed>
+<summary>
+    <img class="avatar" src="assets/nachi.jpeg">
+    <strong>Introduction to Types and Lambdas</strong> by <a href="https://nachivpn.me/">Nachi Valliappan</a> (University of Edinburgh)
+</summary>
 
 
 <p>Types were introduced to me as a restriction bolted on top of the
@@ -79,32 +89,49 @@ calculus, one with a monad and another with a box modality.</p>
 </details><br>
 
 
-<details closed>  <summary><strong>Introduction to Model Checking with PRISM</strong> by <a href="https://www.gla.ac.uk/schools/computing/staff/oanaandrei/">Oana Andrei</a> (University of Glasgow)</summary>
-<img class="avatar" src="assets/oana.jpeg">
+<details closed>
+<summary>
+    <img class="avatar" src="assets/oana.jpeg">
+    <strong>Introduction to Model Checking with PRISM</strong> by <a href="https://www.gla.ac.uk/schools/computing/staff/oanaandrei/">Oana Andrei</a> (University of Glasgow)
+</summary>
 
 Model checking is an automated technique for verifying whether a system satisfies its requirements by exploring all of its possible behaviours. In this tutorial we will learn how to model systems as transition systems, specify behavioural requirements using temporal logic, and use model checking to verify properties or generate counterexamples when they are violated. We will then explore these ideas in practice using the PRISM model checker, including a brief introduction to probabilistic model checking. Students are welcome to follow along using PRISM (https://prismmodelchecker.org) on their own laptops. This tutorial is suitable for beginners: no prior knowledge of model checking, formal verification or temporal logic is required.
 </details><br>
 
 
-<details closed>  <summary><strong>Introduction to Category Theory</strong> by <a href="https://bentnib.org/">Bob Atkey</a> (University of Strathclyde)</summary>
-<img class="avatar" src="assets/bob.jpeg">
+<details closed>
+<summary>
+    <img class="avatar" src="assets/bob.jpeg">
+    <strong>Introduction to Category Theory</strong> by <a href="https://bentnib.org/">Bob Atkey</a> (University of Strathclyde)
+</summary>
 
 Category Theory is a unifying language for describing mathematical structures and has been especially successful with the kinds of mathematical structures that arise in Computer Science. I will motivate the use of Category Theory in Programming Language and Verification research with some examples, covering the basic notions of category, functor, natural transformations, and universal properties.
 </details><br>
 
+</div>
 
 ### Contributed Courses
 
-<details closed>  <summary><strong>Formal Modelling with Bigraphs</strong> by <a href="https://www.blairarchibald.co.uk/">Blair Archibald</a> (University of Glasgow)</summary>
-<img class="avatar" src="assets/blair.jpeg">
+<div class="flex">
+
+<details closed>
+
+<summary>
+    <img class="avatar" src="assets/blair.jpeg">
+    <strong>Formal Modelling with Bigraphs</strong> by <a href="https://www.blairarchibald.co.uk/">Blair Archibald</a> (University of Glasgow)
+</summary>
+
 Bigraphs are a versatile modelling formalism, originally by Milner, that describes systems in terms of both spatial placement, e.g. a Person within a Room, and non-local linking, e.g. that Person connected via a radio link to a Cell Tower. 
 
 In this tutorial we explore bigraphs through a practical lense: how do we specify a system with bigraphs, how are bigraphs combined, how do users specify their own rewrite rules (including probabilistic rules), and how can we use bigraphs once they are defined. Students are welcome to follow along using the [BigraphER tool](https://bitbucket.org/uog-bigraph/bigraph-tools). This tutorial is suitable for beginners:  No knowledge of category theory needed!
 </details><br>
 
 
-<details closed>  <summary><strong>Distributed Systems: A Logical Approach</strong> by <a href="https://gabbay.org.uk/">Jamie Gabbay</a> (Heriot-Watt University)</summary>
-<img class="avatar" src="assets/jamie.jpeg">
+<details closed>
+<summary>
+    <img class="avatar" src="assets/jamie.jpeg">
+    <strong>Distributed Systems: A Logical Approach</strong> by <a href="https://gabbay.org.uk/">Jamie Gabbay</a> (Heriot-Watt University)
+</summary>
 
 <p>An algorithm (= protocol) is distributed when it runs across multiple participants, without central control. A good distributed algorithm allows multiple participants to arrive at some common goal, even though there is no central controller, and even though some participants may not be following the protocol, e.g. they may have crashed, or be actively misbehaving.</p>
 
@@ -144,8 +171,11 @@ A Lean formalisation of the proofs is at https://doi.org/10.5281/zenodo.17611735
 </details><br>
 
 
-<details closed>  <summary><strong>Fixpoint Logics</strong> by <a href="https://www.strath.ac.uk/staff/kupkeclemensdr/">Clemens Kupke</a> (University of Strathclyde)</summary>
-<img class="avatar" src="assets/clemens.jpeg">
+<details closed>
+<summary>
+    <img class="avatar" src="assets/clemens.jpeg">
+    <strong>Fixpoint Logics</strong> by <a href="https://www.strath.ac.uk/staff/kupkeclemensdr/">Clemens Kupke</a> (University of Strathclyde)
+</summary>
 Modal Logics are used to reason about the finite behaviour of state-based dynamical systems. To be able to express properties of the ongoing, possibly infinite behaviour, one adds fixpoint operators to the logics. This class will explain the fundamentals of how this is done. The content is structured in the following three parts: <br>
 
 (i) Intro to Modal and Temporal Logics<br>
@@ -154,8 +184,11 @@ Modal Logics are used to reason about the finite behaviour of state-based dynami
 </details><br>
 
 
-<details closed>  <summary><strong>Algebra and Normalisation</strong> by <a href="https://denotational.co.uk/">Ohad Kammar</a> (University of Edinburgh)</summary>
+<details closed>
+<summary>
 <img class="avatar" src="assets/ohad.jpeg">
+<strong>Algebra and Normalisation</strong> by <a href="https://denotational.co.uk/">Ohad Kammar</a> (University of Edinburgh)
+</summary>
 
 Normalisation concerns specifying a representative in each equivalence
 class. It comes up whenever we want to guarantee robustness up-to the
@@ -180,8 +213,11 @@ more advanced second-order algebraic structures.
 </details><br>
 
 
-<details closed>  <summary><strong>Resource-constrained compiler construction for functional languages</strong> by <a href="https://www.gla.ac.uk/schools/computing/staff/wimvanderbauwhede/">Wim Vanderbauwhede</a> (University of Glasgow)</summary>
-<img class="avatar" src="assets/wim.jpeg">
+<details closed>
+<summary>
+    <img class="avatar" src="assets/wim.jpeg">
+    <strong>Resource-constrained compiler construction for functional languages</strong> by <a href="https://www.gla.ac.uk/schools/computing/staff/wimvanderbauwhede/">Wim Vanderbauwhede</a> (University of Glasgow)
+</summary>
 
 <p>In this course we explain how to create a compiler for an expressive statically typed functional language targeting a resource-constrained VM (16K memory, 8-bit instructions) and what the challenges are in doing so. As ultimately the compiler should be able to run on the same VM, it has to be constructed in a resource-constrained way.</p>
 
@@ -198,9 +234,11 @@ more advanced second-order algebraic structures.
 </details><br>
 
 
-<details closed>  <summary><strong>
-Highly-Assured Programming Language Design and Implementation using Dependent Types</strong> by <a href="https://tyde.systems/">Jan de Muijnck-Hughes</a> (University of Strathclyde)</summary>
-<img class="avatar" src="assets/jan.jpeg">
+<details closed>
+<summary>
+    <img class="avatar" src="assets/jan.jpeg">
+    <strong>Highly-Assured Programming Language Design and Implementation using Dependent Types</strong> by <a href="https://tyde.systems/">Jan de Muijnck-Hughes</a> (University of Strathclyde)
+</summary>
 Traditionally, designing our programming languages has been a
 pen-&-paper (LaTeX) exercise to describe syntax, semantics, and proofs
 that important properties hold.
@@ -217,6 +255,8 @@ for a verified pipeline for type-checking and executing programs.
 No prior experience with dependently-typed programming is required;
 ample reference material will be provided!
 </details><br>
+
+</div>
 
 
 ## Timetable
@@ -236,93 +276,93 @@ ample reference material will be provided!
         <tr>
             <th>09:00 - 09:30</th>
             <td>Registration</td>
-            <td rowspan="2">Nachi</td>
-            <td rowspan="2">Jamie</td>
-            <td rowspan="2">Jan</td>
-            <td rowspan="2">Oana</td>
+            <td rowspan="2" class="Nachi">Nachi</td>
+            <td rowspan="2" class="Jamie">Jamie</td>
+            <td rowspan="2" class="Jan">Jan</td>
+            <td rowspan="2" class="Oana">Oana</td>
         </tr>
         <tr>
             <th>09:30 - 10:00</th>
-            <td rowspan="2">Bob</td>
+            <td rowspan="2" class="Bob">Bob</td>
         </tr>
         <tr>
             <th>10:00 - 10:30</th>
-            <td rowspan="2">Ohad</td>
-            <td rowspan="2">Bob</td>
-            <td rowspan="2">Ohad</td>
-            <td rowspan="2">Nachi</td>
+            <td rowspan="2" class="Ohad">Ohad</td>
+            <td rowspan="2" class="Bob">Bob</td>
+            <td rowspan="2" class="Ohad">Ohad</td>
+            <td rowspan="2" class="Nachi">Nachi</td>
         </tr>
         <tr>
             <th>10:30 - 11:00</th>
-            <td rowspan="2">Wim</td>
+            <td rowspan="2" class="Wim">Wim</td>
         </tr>
         <tr>
             <th>11:00 - 11:30</th>
-            <td>Coffee</td>
-            <td>Coffee</td>
-            <td>Coffee</td>
-            <td>Coffee</td>
+            <td class="Coffee">Coffee</td>
+            <td class="Coffee">Coffee</td>
+            <td class="Coffee">Coffee</td>
+            <td class="Coffee">Coffee</td>
         </tr>
         <tr>
             <th>11:30 - 12:00</th>
-            <td>Coffee</td>
-            <td rowspan="2">Wim</td>
-            <td rowspan="2">Jan</td>
-            <td rowspan="2">Bob</td>
-            <td rowspan="2">Blair</td>
+            <td class="Coffee">Coffee</td>
+            <td rowspan="2" class="Wim">Wim</td>
+            <td rowspan="2" class="Jan">Jan</td>
+            <td rowspan="2" class="Bob">Bob</td>
+            <td rowspan="2" class="Blair">Blair</td>
         </tr>
         <tr>
             <th>12:00 - 12:30</th>
-            <td rowspan="2">Nachi</td>
+            <td rowspan="2" class="Nachi">Nachi</td>
         </tr>
         <tr>
             <th>12:30 - 13:00</th>
-            <td rowspan="2">Lunch</td>
-            <td rowspan="2">Lunch</td>
-            <td rowspan="2">Lunch</td>
-            <td rowspan="2">Lunch</td>
+            <td rowspan="2" class="Lunch">Lunch</td>
+            <td rowspan="2" class="Lunch">Lunch</td>
+            <td rowspan="2" class="Lunch">Lunch</td>
+            <td rowspan="2" class="Lunch">Lunch</td>
         </tr>
         <tr>
             <th>13:00 - 13:30</th>
-            <td rowspan="2">Lunch</td>
+            <td rowspan="2" class="Lunch">Lunch</td>
         </tr>
         <tr>
             <th>13:30 - 14:00</th>
-            <td rowspan="2">Jamie</td>
-            <td rowspan="2">Clemens</td>
-            <td rowspan="2">Jamie</td>
-            <td rowspan="2">Clemens</td>
+            <td rowspan="2" class="Jamie">Jamie</td>
+            <td rowspan="2" class="Clemens">Clemens</td>
+            <td rowspan="2" class="Jamie">Jamie</td>
+            <td rowspan="2" class="Clemens">Clemens</td>
         </tr>
         <tr>
             <th>14:00 - 14:30</th>
-            <td rowspan="2">Oana</td>
+            <td rowspan="2" class="Oana">Oana</td>
         </tr>
         <tr>
             <th>14:30 - 15:00</th>
-            <td rowspan="2">Oana</td>
+            <td rowspan="2" class="Oana">Oana</td>
             <td rowspan="6"> (Free)</td>
-            <td rowspan="2">Clemens</td>
-            <td rowspan="2">Ohad</td>
+            <td rowspan="2" class="Clemens">Clemens</td>
+            <td rowspan="2" class="Ohad">Ohad</td>
         </tr>
         <tr>
             <th>15:00 - 15:30</th>
-            <td>Coffee</td>
+            <td class="Coffee">Coffee</td>
         </tr>
         <tr>
             <th>15:30 - 16:00</th>
-            <td rowspan="2">Wim</td>
-            <td>Coffee</td>
-            <td>Coffee</td>
+            <td rowspan="2" class="Wim">Wim</td>
+            <td class="Coffee">Coffee</td>
+            <td class="Coffee">Coffee</td>
             <td rowspan="4"></td>
         </tr>
         <tr>
             <th>16:00 - 16:30</th>
-            <td rowspan="2">Jan</td>
-            <td rowspan="2">Blair</td>
+            <td rowspan="2" class="Jan">Jan</td>
+            <td rowspan="2" class="Blair">Blair</td>
         </tr>
         <tr>
             <th>16:30 - 17:00</th>
-            <td rowspan="2">Blair</td>
+            <td rowspan="2" class="Blair">Blair</td>
         </tr>
         <tr>
             <th>17:00 - 17:30</th>
@@ -334,10 +374,11 @@ ample reference material will be provided!
         </tr>
         <tr>
             <th>Evening</th>
+            <td class="Social">Pub Quiz</td>
+            <td class="Social">Reception</td>
+            <td class="Social">Dinner</td>
             <td></td>
-            <td>Reception</td>
-            <td>Dinner</td>
-            <td></td><td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
@@ -405,5 +446,47 @@ width:180px;" src="assets/logo_well-typed.svg" alt="Well-Typed"/> </a>
     height: 100px;
     border-radius: 50%;
     padding: 10px;
+  }
+  .flex {
+    display: flex; 
+    flex-direction: column; 
+  }
+
+  .Bob{
+    background-color: #EF4444; 
+  }
+  .Wim{
+    background-color: #5b4f4b;
+  }
+  .Nachi{
+    background-color: #d08700;
+  }
+  .Oana{
+    background-color: #00bba7;
+  }
+  .Blair{
+    background-color: #00a63e;
+  }
+  .Ohad{
+    background-color: #8200db;
+  }
+  .Jan{
+    background-color: #00a6f4;
+  }
+  .Clemens{
+    background-color: #79716b;
+  }
+  .Jamie{
+    background-color: #c800de;
+
+  }
+  .Coffee{
+    background-color: #461901;
+  }
+  .Lunch{
+    /* Colourless! */
+  }
+  .Social{
+    background-color: #8b0836;
   }
 </style>
