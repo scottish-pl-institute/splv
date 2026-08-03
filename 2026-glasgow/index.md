@@ -42,6 +42,17 @@ Feel free to join [our Zulip](https://spls.zulipchat.com/#narrow/channel/620381-
 
 We have organised a pub quiz on Monday evening. This will take place _upstairs_ in [curlers rest](https://www.google.com/maps?q=curlers+rest&um=1&ie=UTF-8&ved=1t:200715&ictx=111). The quiz will start from (about) 7PM - feel free to take your time wandering down.
 
+
+### City Chambers Reception
+
+Details to come...
+
+### Conference Dinner
+
+We have organised a conference dinner for the wednesday evening at [Òran Mór](https://www.google.com/maps?sca_esv=1cb68c34dee2a72d&biw=1470&bih=891&output=search&q=oran+mor&source=lnms&fbs=ABfTbFVQT6KYne3_7HzvYh-3OtGxmA6qToXQOWeUvgXQ5M6Rvtme8by44bKODdrCzbFzI7BK6iscFPqf_mR4CHjyqq1zD_iqKhkKsjEkjE44e2lbG7m_utYY08A5V6Ro3dnqBW09ldWV22TL7ba6h-BVKOzG5Z8D9Oflu2YVl8MuISTPIkYfj2ZT0dVOOBai8h3o06Yx2EwX-izAydtn85noe4FNGWakGUrFsV9NzUXxjAVdQdBzjQg&entry=mc&ved=1t:200715&ictx=111).
+Doors open at 6:45PM, which should give you plenty of time to find a seat.
+Food will be served from (about) 7PM and there is a bar available throughout the evening where drinks can be purchased.
+
 ## Registration and Accommodation
 
 Registration is now open via [Eventbrite](https://www.eventbrite.co.uk/e/splv-2026-summer-school-tickets-1989312724911).
