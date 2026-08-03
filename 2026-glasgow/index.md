@@ -40,7 +40,7 @@ Feel free to join [our Zulip](https://spls.zulipchat.com/#narrow/channel/620381-
 
 ### Pub Quiz
 
-We have organised a pub quiz on monday evening. This will take place _upstairs_ in [curlers rest](https://www.google.com/maps?q=curlers+rest&um=1&ie=UTF-8&ved=1t:200715&ictx=111). The quiz will start from (about) 7 - feel free to take your time wandering down.
+We have organised a pub quiz on Monday evening. This will take place _upstairs_ in [curlers rest](https://www.google.com/maps?q=curlers+rest&um=1&ie=UTF-8&ved=1t:200715&ictx=111). The quiz will start from (about) 7PM - feel free to take your time wandering down.
 
 ## Registration and Accommodation
 
