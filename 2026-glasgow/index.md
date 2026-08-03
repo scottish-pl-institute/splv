@@ -35,6 +35,13 @@ If you have booked accommodation, this is at [Queen Margaret Residences](https:/
 
 Feel free to join [our Zulip](https://spls.zulipchat.com/#narrow/channel/620381-splv-2026/topic/Welcome.21/with/612954399)!
 
+
+## Social Programme
+
+### Pub Quiz
+
+We have organised a pub quiz on monday evening. This will take place _upstairs_ in [curlers rest](https://www.google.com/maps?q=curlers+rest&um=1&ie=UTF-8&ved=1t:200715&ictx=111). The quiz will start from (about) 7 - feel free to take your time wandering down.
+
 ## Registration and Accommodation
 
 Registration is now open via [Eventbrite](https://www.eventbrite.co.uk/e/splv-2026-summer-school-tickets-1989312724911).
