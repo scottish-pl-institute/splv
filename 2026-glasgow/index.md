@@ -45,7 +45,13 @@ We have organised a pub quiz on Monday evening. This will take place _upstairs_ 
 
 ### City Chambers Reception
 
-Details to come...
+For the Tuesday evening, We have organised a drinks reception with the lord provost.
+This will be held at [Glasgow City Chambers](https://www.google.com/maps?sca_esv=1cb68c34dee2a72d&biw=1470&bih=891&output=search&q=glasgow+city+chambers&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cTs4PJElQ4Z4ROUfAdKhH1h8_bE4W8bMuyk4xKV8xDJfcGIEr144ib1Et-dC9KoWcuLI75KdgyCP7TPT_CPVI8P8zTxdqVZHyNOxXZ-6zyVpjybhQwNXagAJJwnWdl6-1qwTAV0k_8p7sUlOEpyt4zP7g8qVRJQz6MWE_2JNr9kverDIv&entry=mc&ved=1t:200715&ictx=111), from 6PM. 
+The organisers will lead groups across, so you are welcome to follow us.
+If you want to make your own way, we recommend taking the subway.
+Hillhead is the closest station to campus; you would need to get off at Buchanan street.
+The city chambers are a short (5 minute) walk from there.
+
 
 ### Conference Dinner
 
