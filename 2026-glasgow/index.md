@@ -16,7 +16,7 @@ The 2026 edition of SPLV will be held at the University of Glasgow, with the mai
 
 ### Venue
 
-The main courses will be held in <a href="https://maps.app.goo.gl/TS6aUZFpzN7k3YzY6">One A, The Square</a>.
+The main courses will be held in <a href="https://maps.app.goo.gl/KWRjuTXS1iFf6ggK8">One A, The Square</a>.
 You can enter through the main building entrance (signposted as the Gilchrist), 
 and then follow signs for SPLV.
 A detailed campus map is available <a href="assets/Campus-Map.pdf">here</a>.
