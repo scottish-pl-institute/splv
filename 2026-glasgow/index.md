@@ -22,10 +22,17 @@ There are signposts once you get into the building, make your way to floor 4.
 
 ### Venue
 
-The main courses will be held in <a href="https://maps.app.goo.gl/KWRjuTXS1iFf6ggK8">One A, The Square</a>.
+Courses held on Monday - Thursday will be held in <a href="https://www.google.com/maps/place/55%C2%B052'18.9%22N+4%C2%B017'21.5%22W/@55.8738098,-4.2882814,16.63z/data=!4m4!3m3!8m2!3d55.871923!4d-4.289314?entry=ttu&g_ep=EgoyMDI2MDgwMy4wIKXMDSoASAFQAw%3D%3D">One A, The Square</a>.
 You can enter through the main building entrance (signposted as the Gilchrist), 
 and then follow signs for SPLV.
 A detailed campus map is available <a href="assets/Campus-Map.pdf">here</a>.
+
+<!-- new from here -->
+
+#### Arrangements for Friday 
+
+On Friday, the summer school will be held in School of Computer Science itself, in the [Sir Alwyn Williams building](https://www.google.com/maps?sca_esv=fd25005b0ac42467&output=search&q=sir+alwyn+williams+building&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cTs4PJElQ4Z4ROUfAdKhH1s1TzWjRqm_NBkfHz-gLe8Me9-m4khtsejkCZGwkioyNhdMYQFmsWb0hS7mslSx_NidxUhmlxJ_3SGhkwUSWJelotH1Xd3F9F2DrGwWLYKpC3YcZnvRgT37yYfcZsvEuVzHsvN18bKsF8oLA_6h_Tv-ajApx6NMniaOhKfPFxrFZi3wsSQ&entry=mc&ved=1t:200715&ictx=111).
+We will be in room SAWB 422/423, which can be found on floor 4. The organisers will be around in the morning to help you find your way, and it will be clearly signposted.
 
 <!-- <img src="assets/map-venue.png" alt="campus map"/> -->
 
