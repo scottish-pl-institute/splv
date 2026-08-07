@@ -14,6 +14,12 @@ custom_css:
 
 The 2026 edition of SPLV will be held at the University of Glasgow, with the main courses running from within our stunning old campus building, the Gilbert Scott Building.
 
+### Last Day
+
+On the last day, we will be in [Sir Alwyn Williams Building](https://maps.app.goo.gl/4VEeBmHKmVViCB7TA) room 422/423. 
+There are signposts once you get into the building, make your way to floor 4.
+
+
 ### Venue
 
 The main courses will be held in <a href="https://maps.app.goo.gl/KWRjuTXS1iFf6ggK8">One A, The Square</a>.
