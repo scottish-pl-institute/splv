@@ -173,7 +173,7 @@ The School takes place in the following locations:
 **Program verification using concurrent separation logic** (guest course)
 <img class="avatar" src="assets/robbert_krebbers.png" />
 : **Guest Lecturer:** [Robbert Krebbers](https://robbertkrebbers.nl/), Radboud
-  University Nijmegen  
+  University Nijmegen
 **Slides:** [Monday](assets/slides/robbert-1.md), [Wednesday](assets/slides/robbert-2.pdf), [Friday](assets/slides/robbert-3.pdf), [Gitlab and Exercises](https://gitlab.science.ru.nl/pl/splv25)
 : <details open> <summary>Abstract</summary>
 	Concurrent programs are challenging to get right, especially if threads
@@ -193,7 +193,7 @@ The School takes place in the following locations:
 **A few ideas from distributed systems for PL folk** (guest course)
 <img class="avatar" src="assets/lindsey_kuper.jpg" />
 : **Guest Lecturer:** [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/),
-  University of California, Santa Cruz  
+  University of California, Santa Cruz
 **Slides:** [Monday](assets/slides/Kuper-1.pdf), [Wednesday](assets/slides/Kuper-2.pdf), [Friday](assets/slides/Kuper-3.pdf), Friday Extra [1](assets/slides/kuper_extra_1.pdf) and [2](assets/slides/kuper_extra_2.pdf)
 
 : <details open>
@@ -213,7 +213,7 @@ The School takes place in the following locations:
 **Core Course: Type theory**
 <img class="avatar" src="assets/fred_forsberg.jpg" />
 : **Lecturer:** [Fredrik Nordvall Forsberg](https://fredriknf.com/), University
-  of Strathclyde  
+  of Strathclyde
 **Slides:** [Monday](assets/slides/fred-1.pdf) [(Exercises)](assets/slides/fred-ex-1.txt), [Tuesday](assets/slides/fred-2.pdf)[ (Exercises)](assets/slides/fred-ex-2.txt), [Thursday](assets/slides/fred-3.pdf) [(Exercises)](assets/slides/fred-ex-3.txt)
 
 : <details open>
@@ -233,7 +233,7 @@ The School takes place in the following locations:
 **Core Course: Concurrency theory**
 <img class="avatar" src="assets/rob_van_glabbeek.jpg" />
 : **Lecturer:** [Rob van Glabbeek](http://theory.stanford.edu/~rvg/), University
-  of Edinburgh  
+  of Edinburgh
   **Slides:** [Collated](assets/slides/rob.pdf)
 
 : <details open>
@@ -262,7 +262,7 @@ The School takes place in the following locations:
 **Logical relations for program equivalence**
 <img class="avatar" src="assets/filip_sieczkowski.png" />
 : **Lecturer:** [Filip Sieczkowski](https://fsieczkowski.github.io/),
-  Heriot-Watt University  
+  Heriot-Watt University
   **Slides:** [Collated](assets/slides/filip.pdf), [System T Formalisation](assets/slides/systemt.tar.gz)
 
 
@@ -281,7 +281,7 @@ The School takes place in the following locations:
 **Models, programs and bidirectional transformations**
 <img class="avatar" src="assets/perdita_stevens.jpg" />
 : **Lecturer:** [Perdita Stevens](https://perditastevens.com/), University of
-  Edinburgh  
+  Edinburgh
 **Slides:** [Collated](assets/slides/perdita.pdf)
 
 : <details open>
@@ -324,6 +324,14 @@ Unfortunately, Simon Fowler is unable to join us and had to cancel his course.
   types and mailbox types.
   </details>
 </details>
+
+## Recordings
+
+Recordings of all but one of the lectures are available in an [SPLV
+2025 playlist](https://www.youtube.com/playlist?list=PLITiAiL8LkiY) in
+the [SPLI YouTube channel](https://www.youtube.com/@spli-scot).
+(Unfortunately, the third lecture in Rob van Glabbeek's series was not
+recorded.)
 
 ## Excursion
 
